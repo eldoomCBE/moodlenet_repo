@@ -1,0 +1,847 @@
+"Parent ID number","ID number","Short name",Description,"Description format","Scale values","Scale configuration","Rule type (optional)","Rule outcome (optional)","Rule config (optional)","Cross-referenced competency ID numbers","Exported ID (optional)","Is framework",Taxonomy
+,"/2016/09/Health and Physical Education F-10","Health and Physical Education F-10",,1,"Not yet competent,Competent","[{""scaleid"":""2""},{""id"":2,""scaledefault"":1,""proficient"":1}]",,,,,,1,"competency,competency,competency,competency,competency"
+6078736e-6e90-4cb4-bf1a-da1b4ecb809e,0038c411-ebb7-4dc6-9f04-e6b021ac1c2b,"Being healthy, safe and active","Being healthy, safe and active<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,8b7b926f-e620-4b97-9dac-f2e5cfa40c55,11739,,
+bda2249a-7c2d-418e-a211-c573c7e729d1,029233d2-a9b8-4c7b-8811-00d17c03c3c8,"Being healthy, safe and active","Being healthy, safe and active<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,8b7b926f-e620-4b97-9dac-f2e5cfa40c55,11941,,
+,0423755a-505e-4600-a7ce-ce3c1f78fe40,"Lifelong physical activities","focuses on how participation in physical activity can enhance health-related fitness and wellbeing across the lifespan.
+It is expected that all students at appropriate intervals across the continuum of learning from Year 3 to Year 10 will participate in the following:
+
+individual and group fitness activities
+active recreation activities.
+
+Schools could also offer the following activities if they have access to specialised facilities and equipment and relevant teacher expertise:
+
+swimming
+tai chi, yoga, Pilates
+bushwalking
+recreational cycling
+resistance training.<br/>Subject: P",1,,,,0,null,,11686,,
+d2fc84db-d789-440b-bb0e-12320e669315,05c13985-d6e0-4abe-95ae-7c5621396ef8,"Learning through movement","Learning through movement<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,9d024cd7-8c5a-4f51-870f-0cb034e305e7,11997,,
+,085e83fa-2225-4def-88b4-11ffec2df2cc,"Games and sports","focuses on the development of movement skills, concepts and strategies through a variety of games and sports. This content builds on learning in active play and minor games and fundamental movement skills.&nbsp;Most games and sports can be classified into: invasion games, net and wall games, striking and fielding games and target games.
+It is expected that all students at appropriate intervals across the continuum of learning from Year 3 to Year 10 will participate in the following:
+
+modified games
+traditional games or sports
+culturally significant games and sports (such as traditional Indigenous games and games of significance from the Asia region)
+non-traditional games and sports (including student-designed games).<br/>Subject: P",1,,,,0,null,,11684,,
+,09538db5-f34c-40c2-9c88-de13fcc332ce,"Personal, Social and Community Health","Personal, Social and Community Health<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,"aedf56fb-57a1-489b-bfd9-93f1bc912963,6078736e-6e90-4cb4-bf1a-da1b4ecb809e,0ae9c884-6e89-4734-873a-1f0d0977f33f,bda2249a-7c2d-418e-a211-c573c7e729d1,c124f639-68a2-44a2-8bf7-a77af31f9eeb,8d002c4c-2226-4b1f-9260-e480390b796a",11692,,
+9242ee5a-461a-4f45-961c-15c7a4b89ff7,0ae9c884-6e89-4734-873a-1f0d0977f33f,"Personal, Social and Community Health","<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,09538db5-f34c-40c2-9c88-de13fcc332ce,11838,,
+c124f639-68a2-44a2-8bf7-a77af31f9eeb,1063a234-5bd8-4ec6-b23f-d4152bccd1e3,"Being healthy, safe and active","Being healthy, safe and active<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,8b7b926f-e620-4b97-9dac-f2e5cfa40c55,12041,,
+2a5be8e0-7af9-4494-8cfa-0e0629e0ba5e,118a84e3-29d4-431c-947d-a6c9c49f3cc4,"Learning through movement","Learning through movement<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,9d024cd7-8c5a-4f51-870f-0cb034e305e7,11795,,
+aedf56fb-57a1-489b-bfd9-93f1bc912963,1564dffd-3ed3-4cd8-a337-c9af2439db87,"Being healthy, safe and active","Being healthy, safe and active<br/>Subject: P",1,,,,0,null,8b7b926f-e620-4b97-9dac-f2e5cfa40c55,11642,,
+,171d7258-a639-45a6-aaab-ab12b661bb9d,"Years 7 and 8","The Year 7 and 8 curriculum expands students&rsquo; knowledge, understanding and skills to help them achieve successful outcomes in classroom, leisure, social, movement and online situations. Students learn how to take positive action to enhance their own and others&rsquo; health, safety and wellbeing. They do this as they examine the nature of their relationships and other factors that influence people&rsquo;s beliefs, attitudes, opportunities, decisions, behaviours and actions. Students demonstrate a range of help-seeking strategies that support them to access and evaluate health and physical activity information and services.
+The curriculum for Years 7 and 8 supports students to refine a range of specialised knowledge, understanding and skills in relation to their health, safety, wellbeing, and movement competence and confidence. Students develop specialised movement skills and understanding in a range of physical activity settings. They analyse how body control and coordination influence movement composition and performance and learn to transfer movement skills and concepts to a variety of physical activities. Students explore the role that games and sports, outdoor recreation, lifelong physical activities, and rhythmic and expressive movement activities play in shaping cultures and identities. They reflect on and refine personal and social skills as they participate in a range of physical activities.
+Focus areas to be addressed in Years 7 and 8 include:
+
+alcohol and other drugs (AD)
+food and nutrition (FN)
+health benefits of physical activity (HBPA)
+mental health and wellbeing (MH)
+relationships and sexuality (RS)
+safety (S)
+challenge and adventure activities (CA)
+games and sports (GS)
+lifelong physical activities (LLPA)
+rhythmic and expressive movement activities (RE).<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,11995,,
+171d7258-a639-45a6-aaab-ab12b661bb9d,1baa76c3-18ac-4281-b621-8851c7255ca3,"Years 7 and 8 Achievement Standard","By the end of Year 8, students evaluate strategies and resources to manage changes and transitions and investigate their impact on identities. Students evaluate the impact on wellbeing of relationships and valuing diversity. They analyse factors that influence emotional responses. They investigate strategies and practices that enhance their own, others&rsquo; and community health, safety and wellbeing. They investigate and apply movement concepts and select strategies to achieve movement and fitness outcomes. They examine the cultural and historical significance of physical activities and examine how connecting to the environment can enhance health and wellbeing.
+Students apply personal and social skills to establish and maintain respectful relationships and promote safety, fair play and inclusivity. They demonstrate skills to make informed decisions, and propose and implement actions that promote their own and others&rsquo; health, safety and wellbeing. Students demonstrate control and accuracy when performing specialised movement sequences and skills. They apply movement concepts and refine strategies to suit different movement situations. They apply the elements of movement to compose and perform movement sequences.<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12102,,
+bda2249a-7c2d-418e-a211-c573c7e729d1,1c90b7fa-31b9-44a1-9302-686f34d1c2cc,"Contributing to healthy and active communities","Contributing to healthy and active communities<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,48b09732-b420-4fdc-b918-c92b635bdf88,11978,,
+,1d6ea04b-bc7a-407f-ad73-8c6c08f6770a,"Food and nutrition","addresses the role of food and nutrition in enhancing health and wellbeing. The content supports students to develop knowledge, understanding and skills to make healthy, informed food choices and to explore the contextual factors that influence eating habits and food choices.
+It is expected that all students at appropriate intervals across the continuum of learning from Foundation to Year 10 will learn about the following:
+
+food groups and recommendations for healthy eating (including The Australian Guide to Healthy Eating)
+nutritional requirements and dietary needs (including The Australian Dietary Guidelines)
+food labelling and packaging
+food advertising
+personal, social, economic and cultural influences on food choices and eating habits
+strategies for planning and maintaining a healthy, balanced diet
+healthy options for snacks, meals and drinks
+sustainable food choices.<br/>Subject: P",1,,,,0,null,,11601,,
+0ae9c884-6e89-4734-873a-1f0d0977f33f,1e487fdd-8811-44aa-a865-3b4b72751345,"Contributing to healthy and active communities","Contributing to healthy and active communities<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,48b09732-b420-4fdc-b918-c92b635bdf88,11878,,
+81401370-3a60-410c-8390-349ce8a579dd,297b31d2-dba6-488e-bc43-69c8a9a7d3e5,"Movement and Physical Activity","<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,f54cce28-8cc6-4de4-a4b2-d12f045e73a8,11700,,
+9242ee5a-461a-4f45-961c-15c7a4b89ff7,2a5be8e0-7af9-4494-8cfa-0e0629e0ba5e,"Movement and Physical Activity","<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,f54cce28-8cc6-4de4-a4b2-d12f045e73a8,11794,,
+,2a913c64-2a19-46df-9bee-cc5ae4360c04,"Health benefits of physical activity","addresses the influence and impact regular physical activity participation has on individual and community health and wellbeing. The content supports students to develop knowledge, understanding and skills to make active choices and to explore the range of influences on physical activity participation and choices.
+It is expected that all students at appropriate intervals across the continuum of learning from Foundation to Year 10 will learn about the following:
+
+physical benefits of participating in physical activities (including impact on health-related and skill-related components of fitness)
+benefits of physical activities based on intensity, nature and frequency
+social, emotional and cognitive benefits of regular physical activity
+social, cultural and environmental influences on physical activity participation
+sedentary behaviours and their impact on health and wellbeing
+strategies for minimising sedentary behaviour and including physical activity in daily routines.<br/>Subject: P",1,,,,0,null,,11685,,
+0ae9c884-6e89-4734-873a-1f0d0977f33f,2d18b42e-8ceb-488e-a414-a8f2d6a3c383,"Being healthy, safe and active","Being healthy, safe and active<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,8b7b926f-e620-4b97-9dac-f2e5cfa40c55,11839,,
+d2fc84db-d789-440b-bb0e-12320e669315,331664d1-d666-48b1-b02f-63c966429711,"Understanding movement","Understanding movement<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,82592328-a8ea-47af-917c-bec0adaaee80,12025,,
+,343c4d46-e221-4a95-b8ab-aedd23405b2a,"Active play and minor games","focuses on learning through which students actively engage in play with people, objects and representations; indoors, outdoors, alone, with a partner or in a group. The content supports students to be physically active and develop skills such as persistence, negotiation, problem solving, planning and cooperation.
+It is expected that all students at appropriate intervals across the continuum of learning from Foundation to Year 4 will participate in the following:
+
+imaginative play
+small group games
+minor games
+lead-up games.<br/>Subject: P",1,,,,0,null,,11598,,
+8d002c4c-2226-4b1f-9260-e480390b796a,38a8e5e0-b5c6-4085-9859-63e3e4ee4742,"Contributing to healthy and active communities","Contributing to healthy and active communities<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,48b09732-b420-4fdc-b918-c92b635bdf88,12188,,
+bda2249a-7c2d-418e-a211-c573c7e729d1,3c593d40-edc5-4580-836b-2a2e8db6723c,"Communicating and interacting for health and wellbeing","Communicating and interacting for health and wellbeing<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,61222954-d57f-411c-85de-b2824471c09a,11962,,
+6078736e-6e90-4cb4-bf1a-da1b4ecb809e,3d56cf21-9abe-4762-a78c-b25c369e3b59,"Communicating and interacting for health and wellbeing","Communicating and interacting for health and wellbeing<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,61222954-d57f-411c-85de-b2824471c09a,11760,,
+5dcefb8b-112d-48e3-a878-e23608f0b53f,433d3c57-b799-4ec0-8cd6-f68fa5302cc5,"Moving our body","Moving our body<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,6c3229d9-79b5-4668-8d1c-3f5ef97eb0bb,12121,,
+09538db5-f34c-40c2-9c88-de13fcc332ce,48b09732-b420-4fdc-b918-c92b635bdf88,"Contributing to healthy and active communities","Contributing to healthy and active communities<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,"9d3748bd-f4ce-4c6f-9364-fd8119be4e0a,e7619e60-1525-4096-aa9c-16c60f56710f,1e487fdd-8811-44aa-a865-3b4b72751345,1c90b7fa-31b9-44a1-9302-686f34d1c2cc,8e12821d-f5d1-4e7d-9795-69fa3e0cff3b,38a8e5e0-b5c6-4085-9859-63e3e4ee4742",11695,,
+8d002c4c-2226-4b1f-9260-e480390b796a,4df556b6-50c7-4c1c-87ac-eb6b092006cc,"Communicating and interacting for health and wellbeing","Communicating and interacting for health and wellbeing<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,61222954-d57f-411c-85de-b2824471c09a,12172,,
+d2fc84db-d789-440b-bb0e-12320e669315,508355e4-ed2d-48aa-9216-10cc872317c3,"Moving our body","Moving our body<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,6c3229d9-79b5-4668-8d1c-3f5ef97eb0bb,12012,,
+,50cc429b-41ec-4311-af9c-cf6cf097c533,"Mental health and wellbeing","addresses how mental health and wellbeing can be enhanced and strengthened at an individual and community level. The content supports students to develop knowledge, understanding and skills to manage their own mental health and wellbeing and to support that of others.
+It is expected that all students at appropriate intervals across the continuum of learning from Foundation to Year 10 will learn about the following:
+
+mental health and wellbeing, and mental health promotion
+destigmatising mental illness in the community
+the impact of physical, social, spiritual and emotional health on wellbeing
+body image and self-worth and their impact on mental health and wellbeing
+resilience, and skills that support resilient behaviour
+coping skills, help-seeking strategies and community support resources
+networks of support for promoting mental health and wellbeing.<br/>Subject: P",1,,,,0,null,,11687,,
+5dcefb8b-112d-48e3-a878-e23608f0b53f,51acc9dd-b81f-40dc-b6f3-7ce819f401b8,"Learning through movement","Learning through movement<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,9d024cd7-8c5a-4f51-870f-0cb034e305e7,12105,,
+76eeced3-8580-4bf6-addd-5e5207ba4bbd,5dcefb8b-112d-48e3-a878-e23608f0b53f,"Movement and Physical Activity","<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,f54cce28-8cc6-4de4-a4b2-d12f045e73a8,12104,,
+c124f639-68a2-44a2-8bf7-a77af31f9eeb,60370339-392d-47ad-8242-cb4ca80f5493,"Communicating and interacting for health and wellbeing","Communicating and interacting for health and wellbeing<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,61222954-d57f-411c-85de-b2824471c09a,12067,,
+81401370-3a60-410c-8390-349ce8a579dd,6078736e-6e90-4cb4-bf1a-da1b4ecb809e,"Personal, Social and Community Health","<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,09538db5-f34c-40c2-9c88-de13fcc332ce,11738,,
+a79d023d-89ec-4d86-8362-ebfa07348bc3,60be3301-072c-4137-9e00-54bc132099c2,"Years 5 and 6 Achievement Standard","By the end of Year 6, students investigate developmental changes and transitions. They explain the influence of people and places on identities. They recognise the influence of emotions on behaviours and discuss factors that influence how people interact. They describe their own and others&rsquo; contributions to health, physical activity, safety and wellbeing. They describe the key features of health-related fitness and the significance of physical activity participation to health and wellbeing. They examine how physical activity, celebrating diversity and connecting to the environment support community wellbeing and cultural understanding.
+Students demonstrate fair play and skills to work collaboratively. They access and interpret health information and apply decision-making and problem-solving skills to enhance their own and others&rsquo; health, safety and wellbeing. They perform specialised movement skills and sequences and propose and combine movement concepts and strategies to achieve movement outcomes and solve movement challenges. They apply the elements of movement when composing and performing movement sequences.<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11994,,
+297b31d2-dba6-488e-bc43-69c8a9a7d3e5,60d0ae6a-3324-4bd0-9209-daa28aad71b7,"Learning through movement","Learning through movement<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,9d024cd7-8c5a-4f51-870f-0cb034e305e7,11701,,
+09538db5-f34c-40c2-9c88-de13fcc332ce,61222954-d57f-411c-85de-b2824471c09a,"Communicating and interacting for health and wellbeing","Communicating and interacting for health and wellbeing<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,"88d371ff-aacd-4aef-8a9a-823e9ecfba1e,3d56cf21-9abe-4762-a78c-b25c369e3b59,964351d5-c9be-427f-9cce-a37fd259ac35,3c593d40-edc5-4580-836b-2a2e8db6723c,60370339-392d-47ad-8242-cb4ca80f5493,4df556b6-50c7-4c1c-87ac-eb6b092006cc",11694,,
+297b31d2-dba6-488e-bc43-69c8a9a7d3e5,6279d628-ff09-49e5-85ca-1f5248762c35,"Moving our body","Moving our body<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,6c3229d9-79b5-4668-8d1c-3f5ef97eb0bb,11715,,
+2a5be8e0-7af9-4494-8cfa-0e0629e0ba5e,6a859bf2-e9ee-4f3e-b134-e83ed2e9930a,"Moving our body","Moving our body<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,6c3229d9-79b5-4668-8d1c-3f5ef97eb0bb,11811,,
+,6bdb6afa-5a7b-4ffb-bfea-73de96a04e93,"Foundation Year","The Foundation Year curriculum provides the basis for developing knowledge, understanding and skills for students to lead healthy, safe and active lives. The content gives students opportunities to learn about their strengths and simple actions they can take to keep themselves and their classmates healthy and safe.
+The content explores the people who are important to students and develops students&rsquo; capacity to initiate and maintain respectful relationships in different contexts, including at school, at home, in the classroom and when participating in physical activities.
+The Foundation curriculum provides opportunities for students to learn through movement. The content enables students to develop and practise fundamental movement skills through active play and structured movement activities. This improves competence and confidence in their movement abilities. The content also provides opportunities for students to learn about movement as they participate in physical activity in a range of different settings.
+Focus areas to be addressed in Foundation include:
+
+safe use of medicines (AD)
+food and nutrition (FN)
+health benefits of physical activity (HBPA)
+mental health and wellbeing (MH)
+relationships (RS)
+safety (S)
+active play and minor games (AP)
+fundamental movement skills (FMS)
+rhythmic and expressive movement activities (RE).<br/>Subject: P",1,,,,0,null,,11602,,
+f54cce28-8cc6-4de4-a4b2-d12f045e73a8,6c3229d9-79b5-4668-8d1c-3f5ef97eb0bb,"Moving our body","Moving our body<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,"d17c709f-b66b-4127-a5bc-5fdb37c5e4aa,6279d628-ff09-49e5-85ca-1f5248762c35,6a859bf2-e9ee-4f3e-b134-e83ed2e9930a,6e4f7304-cc3a-4604-9c34-ed5829e32680,508355e4-ed2d-48aa-9216-10cc872317c3,433d3c57-b799-4ec0-8cd6-f68fa5302cc5",11690,,
+8cd7bef0-e6e0-43bb-8e7e-779e82863a70,6e4f7304-cc3a-4604-9c34-ed5829e32680,"Moving our body","Moving our body<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,6c3229d9-79b5-4668-8d1c-3f5ef97eb0bb,11910,,
+,734f239e-f60c-4130-bca4-d8cd620af042,"Challenge and adventure activities","focuses on how individuals participate in a variety of physical activities designed to challenge individuals physiologically, behaviourally and socially in diverse contexts and environments.&nbsp;The content supports students to develop knowledge, understandings and skills to assess hazards and manage risks.
+It is expected that all students at appropriate intervals across the continuum of learning from Year 5 to Year 10 will participate in the following:
+
+initiative games
+movement challenges (as individuals and in teams or groups)
+recreational activities in natural and outdoor settings
+navigational challenges.
+
+Schools could also offer the following activities within this focus area if they have access to specialised facilities and equipment and relevant teacher expertise:
+
+bushwalking
+camping
+biathlon and triathlon
+martial arts
+rock climbing
+canoeing and kayaking
+cycling (mountain biking, BMX, road and track cycling)
+surfing
+skiing (snow or water)
+swimming for performance (with a focus on technique).<br/>Subject: P",1,,,,0,null,,11600,,
+,76eeced3-8580-4bf6-addd-5e5207ba4bbd,"Years 9 and 10","The Year 9 and 10 curriculum supports students to refine and apply strategies for maintaining a positive outlook and evaluating behavioural expectations in different leisure, social, movement and online situations. Students learn to critically analyse and apply health and physical activity information to devise and implement personalised plans for maintaining healthy and active habits. They also experience different roles that contribute to successful participation in physical activity, and propose strategies to support the development of preventive health practices that build and optimise community health and wellbeing.
+In Years 9 and 10, students learn to apply more specialised movement skills and complex movement strategies and concepts in different movement environments. They also explore movement concepts and strategies to evaluate and refine their own and others&rsquo; movement performances. Students analyse how participation in physical activity and sport influence an individual&rsquo;s identities, and explore the role participation plays in shaping cultures. The curriculum also provides opportunities for students to refine and consolidate personal and social skills in demonstrating leadership, teamwork and collaboration in a range of physical activities.
+Focus areas to be addressed in Years 9 and 10 include:
+
+alcohol and other drugs (AD)
+food and nutrition (FN)
+health benefits of physical activity (HBPA)
+mental health and wellbeing (MH)
+relationships and sexuality (RS)
+safety (S)
+challenge and adventure activities (CA)
+games and sports (GS)
+lifelong physical activities (LLPA)
+rhythmic and expressive movement activities (RE).<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12103,,
+6bdb6afa-5a7b-4ffb-bfea-73de96a04e93,7e844b6d-7a48-484d-8ffc-a54c5f4cc709,"Foundation Achievement Standard","By the end of Foundation Year, students recognise how they are growing and changing. They identify and describe the different emotions people experience. They identify actions that help them be healthy, safe and physically active. They identify different settings where they can be active and demonstrate how to move and play safely. They describe how their body responds to movement.
+Students use personal and social skills when working with others in a range of activities. They demonstrate, with guidance, practices and protective behaviours to keep themselves safe and healthy in different activities. They perform fundamental movement skills and solve movement challenges.<br/>Subject: P",1,,,,0,null,,11603,,
+ee7fbc6a-05bf-452e-86b2-22c6fd558473,7eb86240-7032-48a3-8d9b-97c92d04e2e3,"Learning through movement","Learning through movement<br/>Subject: P",1,,,,0,null,9d024cd7-8c5a-4f51-870f-0cb034e305e7,11605,,
+,81401370-3a60-410c-8390-349ce8a579dd,"Years 1 and 2","The curriculum for Years 1 and 2 builds on the learning from Foundation and supports students to make decisions to enhance their health, safety and participation in physical activity. The content enables students to explore their own sense of self and the factors that contribute to and influence their identities. Students learn about emotions, how to enhance their interactions with others, and the physical and social changes they go through as they grow older.
+The content explores health messages and how they relate to health decisions and behaviours, and examines strategies students can use when they need help. The content also provides opportunities for students to learn through movement. It supports them in broadening the range and complexity of fundamental movement skills they are able to perform. They learn how to select, transfer and apply simple movement skills and sequences individually, in groups and in teams.
+Students also further develop their knowledge, understanding and skills in relation to movement by exploring simple rule systems and safe use of equipment in a variety of physical activities and games. Through active participation, they investigate the body&rsquo;s response to different types of physical activities. In addition, students develop personal and social skills such as cooperation, decision-making, problem-solving and persistence through movement settings.
+Focus areas to be addressed in Years 1 and 2 include:
+
+safe use of medicines (AD)
+food and nutrition (FN)
+health benefits of physical activity (HBPA)
+mental health and wellbeing (MH)
+relationships (RS)
+safety (S)
+active play and minor games (AP)
+fundamental movement skills (FMS)
+rhythmic and expressive movement activities (RE).<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11699,,
+f54cce28-8cc6-4de4-a4b2-d12f045e73a8,82592328-a8ea-47af-917c-bec0adaaee80,"Understanding movement","Understanding movement<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,"a6251d98-2fa2-492f-9124-7f7759fb6456,a469a7a6-ba00-4cdf-a813-8bca952b4864,dd10a964-fa7b-4a39-bbfb-dfd5b7d01d7c,83f77f6a-27a2-4d98-ade5-580c65036ce4,331664d1-d666-48b1-b02f-63c966429711,eb0136cb-f5a3-49dd-9490-73767da1453e",11691,,
+8cd7bef0-e6e0-43bb-8e7e-779e82863a70,83f77f6a-27a2-4d98-ade5-580c65036ce4,"Understanding movement","Understanding movement<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,82592328-a8ea-47af-917c-bec0adaaee80,11924,,
+aedf56fb-57a1-489b-bfd9-93f1bc912963,88d371ff-aacd-4aef-8a9a-823e9ecfba1e,"Communicating and interacting for health and wellbeing","Communicating and interacting for health and wellbeing<br/>Subject: P",1,,,,0,null,61222954-d57f-411c-85de-b2824471c09a,11658,,
+09538db5-f34c-40c2-9c88-de13fcc332ce,8b7b926f-e620-4b97-9dac-f2e5cfa40c55,"Being healthy, safe and active","Being healthy, safe and active<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,"1564dffd-3ed3-4cd8-a337-c9af2439db87,0038c411-ebb7-4dc6-9f04-e6b021ac1c2b,2d18b42e-8ceb-488e-a414-a8f2d6a3c383,029233d2-a9b8-4c7b-8811-00d17c03c3c8,1063a234-5bd8-4ec6-b23f-d4152bccd1e3,def0beed-9246-456f-99b6-3904efb9fe53",11693,,
+a79d023d-89ec-4d86-8362-ebfa07348bc3,8cd7bef0-e6e0-43bb-8e7e-779e82863a70,"Movement and Physical Activity","<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,f54cce28-8cc6-4de4-a4b2-d12f045e73a8,11894,,
+76eeced3-8580-4bf6-addd-5e5207ba4bbd,8d002c4c-2226-4b1f-9260-e480390b796a,"Personal, Social and Community Health","<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,09538db5-f34c-40c2-9c88-de13fcc332ce,12151,,
+c124f639-68a2-44a2-8bf7-a77af31f9eeb,8e12821d-f5d1-4e7d-9795-69fa3e0cff3b,"Contributing to healthy and active communities","Contributing to healthy and active communities<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,48b09732-b420-4fdc-b918-c92b635bdf88,12085,,
+,9242ee5a-461a-4f45-961c-15c7a4b89ff7,"Years 3 and 4","The Year 3 and 4 curriculum further develops students&rsquo; knowledge, understanding and skills in relation to their health, wellbeing, safety and participation in physical activity. In these years, students begin to explore personal and social factors that support and contribute to their identities and emotional responses in varying situations. They also develop a further understanding of how their bodies grow and change as they get older.
+The content explores knowledge, understanding and skills that supports students to build and maintain respectful relationships, make health-enhancing and safe decisions, and interpret health messages from different sources to take action to enhance their own health and wellbeing.
+The curriculum in Years 3 and 4 builds on previous learning in movement to help students develop greater proficiency across the range of fundamental movement skills. Students combine movements to create more complicated movement patterns and sequences. Through participation in a variety of physical activities, students further develop their knowledge about movement and how the body moves. They do this as they explore the features of activities that meet their needs and interests and learn about the benefits of regular physical activity.
+The Year 3 and 4 curriculum also gives students opportunities to develop through movement personal and social skills such as leadership, communication, collaboration, problem-solving, persistence and decision-making.
+Focus areas to be addressed in Years 3 and 4 include:
+
+alcohol and other drugs (AD)
+food and nutrition (FN)
+health benefits of physical activity (HBPA)
+mental health and wellbeing (MH)
+relationships and sexuality (RS)
+safety (S)
+active play and minor games (AP)
+challenge and adventure activities (CA)
+fundamental movement skills (FMS)
+games and sports (GS)
+lifelong physical activities (LLPA)
+rhythmic and expressive movement activities (RE).<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11793,,
+0ae9c884-6e89-4734-873a-1f0d0977f33f,964351d5-c9be-427f-9cce-a37fd259ac35,"Communicating and interacting for health and wellbeing","Communicating and interacting for health and wellbeing<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,61222954-d57f-411c-85de-b2824471c09a,11861,,
+f54cce28-8cc6-4de4-a4b2-d12f045e73a8,9d024cd7-8c5a-4f51-870f-0cb034e305e7,"Learning through movement","Learning through movement<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,"7eb86240-7032-48a3-8d9b-97c92d04e2e3,60d0ae6a-3324-4bd0-9209-daa28aad71b7,118a84e3-29d4-431c-947d-a6c9c49f3cc4,a1700436-b847-46d2-8abd-975a4fe72a98,05c13985-d6e0-4abe-95ae-7c5621396ef8,51acc9dd-b81f-40dc-b6f3-7ce819f401b8",11689,,
+aedf56fb-57a1-489b-bfd9-93f1bc912963,9d3748bd-f4ce-4c6f-9364-fd8119be4e0a,"Contributing to healthy and active communities","Contributing to healthy and active communities<br/>Subject: P",1,,,,0,null,48b09732-b420-4fdc-b918-c92b635bdf88,11671,,
+d17c709f-b66b-4127-a5bc-5fdb37c5e4aa,ACPMP008,ACPMP008,"Practise fundamental movement skills and movement sequences using different body parts<br/>Subject: P",1,,,,0,null,,11621,,
+d17c709f-b66b-4127-a5bc-5fdb37c5e4aa,ACPMP009,ACPMP009,"Participate in games with and without equipment<br/>Subject: P",1,,,,0,null,,11627,,
+a6251d98-2fa2-492f-9124-7f7759fb6456,ACPMP010,ACPMP010,"Explore how regular physical activity keeps individuals healthy and well<br/>Subject: P",1,,,,0,null,,11632,,
+a6251d98-2fa2-492f-9124-7f7759fb6456,ACPMP011,ACPMP011,"Identify and describe how their body moves in relation to effort, space, time, objects and people<br/>Subject: P",1,,,,0,null,,11637,,
+7eb86240-7032-48a3-8d9b-97c92d04e2e3,ACPMP012,ACPMP012,"Cooperate with others when participating in physical activities<br/>Subject: P",1,,,,0,null,,11606,,
+7eb86240-7032-48a3-8d9b-97c92d04e2e3,ACPMP013,ACPMP013,"Test possible solutions to movement challenges through trial and error<br/>Subject: P",1,,,,0,null,,11610,,
+7eb86240-7032-48a3-8d9b-97c92d04e2e3,ACPMP014,ACPMP014,"Follow rules when participating in physical activities<br/>Subject: P",1,,,,0,null,,11615,,
+6279d628-ff09-49e5-85ca-1f5248762c35,ACPMP025,ACPMP025,"Perform fundamental movement skills in a variety of movement sequences and situations<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11716,,
+6279d628-ff09-49e5-85ca-1f5248762c35,ACPMP027,ACPMP027,"Create and participate in games with and without equipment<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11725,,
+a469a7a6-ba00-4cdf-a813-8bca952b4864,ACPMP028,ACPMP028,"Discuss the body’s reactions to participating in physical activities<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11730,,
+a469a7a6-ba00-4cdf-a813-8bca952b4864,ACPMP029,ACPMP029,"Incorporate elements of effort, space, time, objects and people in performing simple movement sequences<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11734,,
+60d0ae6a-3324-4bd0-9209-daa28aad71b7,ACPMP030,ACPMP030,"Use strategies to work in group situations when participating in physical activities<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11702,,
+60d0ae6a-3324-4bd0-9209-daa28aad71b7,ACPMP031,ACPMP031,"Propose a range of alternatives and test their effectiveness when solving movement challenges<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11706,,
+60d0ae6a-3324-4bd0-9209-daa28aad71b7,ACPMP032,ACPMP032,"Identify rules and fair play when participating in physical activities<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11710,,
+6a859bf2-e9ee-4f3e-b134-e83ed2e9930a,ACPMP043,ACPMP043,"Practise and refine fundamental movement skills in a variety of movement sequences and situations<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11812,,
+6a859bf2-e9ee-4f3e-b134-e83ed2e9930a,ACPMP045,ACPMP045,"Practise and apply movement concepts and strategies with and without equipment<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11820,,
+dd10a964-fa7b-4a39-bbfb-dfd5b7d01d7c,ACPMP046,ACPMP046,"Examine the benefits of physical activity to health and wellbeing<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11827,,
+dd10a964-fa7b-4a39-bbfb-dfd5b7d01d7c,ACPMP047,ACPMP047,"Combine elements of effort, space, time, objects and people when performing movement sequences<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11831,,
+118a84e3-29d4-431c-947d-a6c9c49f3cc4,ACPMP048,ACPMP048,"Adopt inclusive practices when participating in physical activities<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11796,,
+118a84e3-29d4-431c-947d-a6c9c49f3cc4,ACPMP049,ACPMP049,"Apply innovative and creative thinking in solving movement challenges<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11800,,
+118a84e3-29d4-431c-947d-a6c9c49f3cc4,ACPMP050,ACPMP050,"Apply basic rules and scoring systems, and demonstrate fair play when participating in physical activities<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11805,,
+6e4f7304-cc3a-4604-9c34-ed5829e32680,ACPMP061,ACPMP061,"Practise specialised movement skills and apply them in a variety of movement sequences and situations<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11911,,
+6e4f7304-cc3a-4604-9c34-ed5829e32680,ACPMP063,ACPMP063,"Propose and apply movement concepts and strategies with and without equipment<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11920,,
+83f77f6a-27a2-4d98-ade5-580c65036ce4,ACPMP064,ACPMP064,"Participate in physical activities designed to enhance fitness, and discuss the impact regular participation can have on health and wellbeing<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11925,,
+83f77f6a-27a2-4d98-ade5-580c65036ce4,ACPMP065,ACPMP065,"Manipulate and modify elements of effort, space, time, objects and people to perform movement sequences<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11931,,
+83f77f6a-27a2-4d98-ade5-580c65036ce4,ACPMP066,ACPMP066,"Participate in physical activities from their own and others’ cultures, and examine how involvement creates community connections and intercultural understanding<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11936,,
+a1700436-b847-46d2-8abd-975a4fe72a98,ACPMP067,ACPMP067,"Participate positively in groups and teams by encouraging others and negotiating roles and responsibilities<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11896,,
+a1700436-b847-46d2-8abd-975a4fe72a98,ACPMP068,ACPMP068,"Apply critical and creative thinking processes in order to generate and assess solutions to movement challenges<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11901,,
+a1700436-b847-46d2-8abd-975a4fe72a98,ACPMP069,ACPMP069,"Demonstrate ethical behaviour and fair play that aligns with rules when participating in a range of physical activities<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11906,,
+508355e4-ed2d-48aa-9216-10cc872317c3,ACPMP080,ACPMP080,"Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12013,,
+508355e4-ed2d-48aa-9216-10cc872317c3,ACPMP082,ACPMP082,"Practise, apply and transfer movement concepts and strategies with and without equipment<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12021,,
+331664d1-d666-48b1-b02f-63c966429711,ACPMP083,ACPMP083,"Participate in physical activities that develop health-related and skill-related fitness components, and create and monitor personal fitness plans<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12026,,
+331664d1-d666-48b1-b02f-63c966429711,ACPMP084,ACPMP084,"Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12030,,
+331664d1-d666-48b1-b02f-63c966429711,ACPMP085,ACPMP085,"Participate in and investigate cultural and historical significance of a range of physical activities<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12036,,
+05c13985-d6e0-4abe-95ae-7c5621396ef8,ACPMP086,ACPMP086,"Practise and apply personal and social skills when undertaking a range of roles in physical activities<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,11998,,
+05c13985-d6e0-4abe-95ae-7c5621396ef8,ACPMP087,ACPMP087,"Evaluate and justify reasons for decisions and choices of action when solving movement challenges<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12003,,
+05c13985-d6e0-4abe-95ae-7c5621396ef8,ACPMP088,ACPMP088,"Modify rules and scoring systems to allow for fair play, safety and inclusive participation<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12007,,
+433d3c57-b799-4ec0-8cd6-f68fa5302cc5,ACPMP099,ACPMP099,"Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12122,,
+433d3c57-b799-4ec0-8cd6-f68fa5302cc5,ACPMP101,ACPMP101,"Develop, implement and evaluate movement concepts and strategies for successful outcomes with and without equipment<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12130,,
+eb0136cb-f5a3-49dd-9490-73767da1453e,ACPMP102,ACPMP102,"Design, implement and evaluate personalised plans for improving or maintaining their own and others’ physical activity and fitness levels<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12135,,
+eb0136cb-f5a3-49dd-9490-73767da1453e,ACPMP103,ACPMP103,"Analyse the impact of effort, space, time, objects and people when composing and performing movement sequences<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12140,,
+eb0136cb-f5a3-49dd-9490-73767da1453e,ACPMP104,ACPMP104,"Examine the role physical activity, outdoor recreation and sport play in the lives of Australians and investigate how this has changed over time<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12145,,
+51acc9dd-b81f-40dc-b6f3-7ce819f401b8,ACPMP105,ACPMP105,"Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12106,,
+51acc9dd-b81f-40dc-b6f3-7ce819f401b8,ACPMP106,ACPMP106,"Transfer understanding from previous movement experiences to create solutions to movement challenges<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12111,,
+51acc9dd-b81f-40dc-b6f3-7ce819f401b8,ACPMP107,ACPMP107,"Reflect on how fair play and ethical behaviour can influence the outcomes of movement activities<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12116,,
+dd10a964-fa7b-4a39-bbfb-dfd5b7d01d7c,ACPMP108,ACPMP108,"Participate in physical activities from their own and other cultures<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11835,,
+1564dffd-3ed3-4cd8-a337-c9af2439db87,ACPPS001,ACPPS001,"Identify personal strengths<br/>Subject: P",1,,,,0,null,,11643,,
+1564dffd-3ed3-4cd8-a337-c9af2439db87,ACPPS002,ACPPS002,"Name parts of the body and describe how their body is growing and changing<br/>Subject: P",1,,,,0,null,,11648,,
+1564dffd-3ed3-4cd8-a337-c9af2439db87,ACPPS003,ACPPS003,"Identify people and demonstrate protective behaviours and other actions that help keep themselves safe and healthy<br/>Subject: P",1,,,,0,null,,11652,,
+88d371ff-aacd-4aef-8a9a-823e9ecfba1e,ACPPS004,ACPPS004,"Practise personal and social skills to interact positively with others<br/>Subject: P",1,,,,0,null,,11659,,
+88d371ff-aacd-4aef-8a9a-823e9ecfba1e,ACPPS005,ACPPS005,"Identify and describe emotional responses people may experience in different situations<br/>Subject: P",1,,,,0,null,,11664,,
+9d3748bd-f4ce-4c6f-9364-fd8119be4e0a,ACPPS006,ACPPS006,"Identify actions that promote health, safety and wellbeing<br/>Subject: P",1,,,,0,null,,11672,,
+9d3748bd-f4ce-4c6f-9364-fd8119be4e0a,ACPPS007,ACPPS007,"Participate in play that promotes engagement with outdoor settings and the natural environment<br/>Subject: P",1,,,,0,null,,11679,,
+0038c411-ebb7-4dc6-9f04-e6b021ac1c2b,ACPPS015,ACPPS015,"Describe their own strengths and achievements and those of others, and identify how these contribute to personal identities<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11740,,
+0038c411-ebb7-4dc6-9f04-e6b021ac1c2b,ACPPS016,ACPPS016,"Describe physical and social changes that occur as children grow older and discuss how family and community acknowledge these<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11744,,
+0038c411-ebb7-4dc6-9f04-e6b021ac1c2b,ACPPS017,ACPPS017,"Practise strategies they can use when they feel uncomfortable, unsafe or need help with a task, problem or situation<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11749,,
+0038c411-ebb7-4dc6-9f04-e6b021ac1c2b,ACPPS018,ACPPS018,"Recognise situations and opportunities to promote health, safety and wellbeing<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11755,,
+3d56cf21-9abe-4762-a78c-b25c369e3b59,ACPPS019,ACPPS019,"Describe ways to include others to make them feel they belong<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11761,,
+3d56cf21-9abe-4762-a78c-b25c369e3b59,ACPPS020,ACPPS020,"Identify and practise emotional responses that account for own and others’ feelings<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11768,,
+3d56cf21-9abe-4762-a78c-b25c369e3b59,ACPPS021,ACPPS021,"Examine health messages and how they relate to health decisions and behaviours<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11773,,
+e7619e60-1525-4096-aa9c-16c60f56710f,ACPPS022,ACPPS022,"Explore actions that help make the classroom a healthy, safe and active place<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11778,,
+e7619e60-1525-4096-aa9c-16c60f56710f,ACPPS023,ACPPS023,"Identify and explore natural and built environments in the local community where physical activity can take place<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11784,,
+e7619e60-1525-4096-aa9c-16c60f56710f,ACPPS024,ACPPS024,"Recognise similarities and differences in individuals and groups, and explore how these are celebrated and respected<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11787,,
+2d18b42e-8ceb-488e-a414-a8f2d6a3c383,ACPPS033,ACPPS033,"Explore how success, challenge and failure strengthen identities<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11840,,
+2d18b42e-8ceb-488e-a414-a8f2d6a3c383,ACPPS034,ACPPS034,"Explore strategies to manage physical, social and emotional change<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11846,,
+2d18b42e-8ceb-488e-a414-a8f2d6a3c383,ACPPS035,ACPPS035,"Describe and apply strategies that can be used in situations that make them feel uncomfortable or unsafe<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11850,,
+2d18b42e-8ceb-488e-a414-a8f2d6a3c383,ACPPS036,ACPPS036,"Identify and practise strategies to promote health, safety and wellbeing<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11856,,
+964351d5-c9be-427f-9cce-a37fd259ac35,ACPPS037,ACPPS037,"Describe how respect, empathy and valuing diversity can positively influence relationships<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11862,,
+964351d5-c9be-427f-9cce-a37fd259ac35,ACPPS038,ACPPS038,"Investigate how emotional responses vary in depth and strength<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11869,,
+964351d5-c9be-427f-9cce-a37fd259ac35,ACPPS039,ACPPS039,"Discuss and interpret health information and messages in the media and internet<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11874,,
+1e487fdd-8811-44aa-a865-3b4b72751345,ACPPS040,ACPPS040,"Describe strategies to make the classroom and playground healthy, safe and active spaces<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11879,,
+1e487fdd-8811-44aa-a865-3b4b72751345,ACPPS041,ACPPS041,"Participate in outdoor games and activities to examine how participation promotes a connection between the community, natural and built environments, and health and wellbeing<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11884,,
+1e487fdd-8811-44aa-a865-3b4b72751345,ACPPS042,ACPPS042,"Research own heritage and cultural identities, and explore strategies to respect and value diversity<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11887,,
+029233d2-a9b8-4c7b-8811-00d17c03c3c8,ACPPS051,ACPPS051,"Examine how identities are influenced by people and places<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11942,,
+029233d2-a9b8-4c7b-8811-00d17c03c3c8,ACPPS052,ACPPS052,"Investigate resources and strategies to manage changes and transitions associated with puberty<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11949,,
+029233d2-a9b8-4c7b-8811-00d17c03c3c8,ACPPS053,ACPPS053,"Investigate community resources and ways to seek help about health, safety and wellbeing<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11953,,
+029233d2-a9b8-4c7b-8811-00d17c03c3c8,ACPPS054,ACPPS054,"Plan and practise strategies to promote health, safety and wellbeing<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11957,,
+3c593d40-edc5-4580-836b-2a2e8db6723c,ACPPS055,ACPPS055,"Practise skills to establish and manage relationships<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11963,,
+3c593d40-edc5-4580-836b-2a2e8db6723c,ACPPS056,ACPPS056,"Examine the influence of emotional responses on behaviour and relationships<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11968,,
+3c593d40-edc5-4580-836b-2a2e8db6723c,ACPPS057,ACPPS057,"Recognise how media and important people in the community influence personal attitudes, beliefs, decisions and behaviours<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11973,,
+1c90b7fa-31b9-44a1-9302-686f34d1c2cc,ACPPS058,ACPPS058,"Investigate the role of preventive health in promoting and maintaining health, safety and wellbeing for individuals and their communities<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11979,,
+1c90b7fa-31b9-44a1-9302-686f34d1c2cc,ACPPS059,ACPPS059,"Explore how participation in outdoor activities supports personal and community health and wellbeing and creates connections to natural and built environments<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11983,,
+1c90b7fa-31b9-44a1-9302-686f34d1c2cc,ACPPS060,ACPPS060,"Identify how valuing diversity positively influences the wellbeing of the community<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11988,,
+1063a234-5bd8-4ec6-b23f-d4152bccd1e3,ACPPS070,ACPPS070,"Investigate the impact of transition and change on identities<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12042,,
+1063a234-5bd8-4ec6-b23f-d4152bccd1e3,ACPPS071,ACPPS071,"Evaluate strategies to manage personal, physical and social changes that occur as they grow older<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12048,,
+1063a234-5bd8-4ec6-b23f-d4152bccd1e3,ACPPS072,ACPPS072,"Practise and apply strategies to seek help for themselves or others<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12054,,
+1063a234-5bd8-4ec6-b23f-d4152bccd1e3,ACPPS073,ACPPS073,"Investigate and select strategies to promote health, safety and wellbeing<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12061,,
+60370339-392d-47ad-8242-cb4ca80f5493,ACPPS074,ACPPS074,"Investigate the benefits of relationships and examine their impact on their own and others’ health and wellbeing<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12068,,
+60370339-392d-47ad-8242-cb4ca80f5493,ACPPS075,ACPPS075,"Analyse factors that influence emotions , and develop strategies to demonstrate empathy and sensitivity<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12075,,
+60370339-392d-47ad-8242-cb4ca80f5493,ACPPS076,ACPPS076,"Evaluate health information and communicate their own and others’ health concerns<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12080,,
+8e12821d-f5d1-4e7d-9795-69fa3e0cff3b,ACPPS077,ACPPS077,"Plan and use health practices, behaviours and resources to enhance health, safety and wellbeing of their communities<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12086,,
+8e12821d-f5d1-4e7d-9795-69fa3e0cff3b,ACPPS078,ACPPS078,"Plan and implement strategies for connecting to natural and built environments to promote the health and wellbeing of their communities<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12091,,
+8e12821d-f5d1-4e7d-9795-69fa3e0cff3b,ACPPS079,ACPPS079,"Investigate the benefits to individuals and communities of valuing diversity and promoting inclusivity<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12096,,
+def0beed-9246-456f-99b6-3904efb9fe53,ACPPS089,ACPPS089,"Evaluate factors that shape identities and critically analyse how individuals impact the identities of others<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12153,,
+def0beed-9246-456f-99b6-3904efb9fe53,ACPPS090,ACPPS090,"Examine the impact of changes and transitions on relationships<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12158,,
+def0beed-9246-456f-99b6-3904efb9fe53,ACPPS091,ACPPS091,"Plan, rehearse and evaluate options (including CPR and first aid) for managing situations where their own or others’ health, safety and wellbeing may be at short or long term risk<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12162,,
+def0beed-9246-456f-99b6-3904efb9fe53,ACPPS092,ACPPS092,"Propose, practise and evaluate responses in situations where external influences may impact on their ability to make healthy and safe choices<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12167,,
+4df556b6-50c7-4c1c-87ac-eb6b092006cc,ACPPS093,ACPPS093,"Investigate how empathy and ethical decision making contribute to respectful relationships<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12173,,
+4df556b6-50c7-4c1c-87ac-eb6b092006cc,ACPPS094,ACPPS094,"Evaluate situations and propose appropriate emotional responses and then reflect on possible outcomes of different responses<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12179,,
+4df556b6-50c7-4c1c-87ac-eb6b092006cc,ACPPS095,ACPPS095,"Critically analyse and apply health information from a range of sources to health decisions and situations<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12183,,
+38a8e5e0-b5c6-4085-9859-63e3e4ee4742,ACPPS096,ACPPS096,"Plan, implement and critique strategies to enhance health, safety and wellbeing of their communities<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12189,,
+38a8e5e0-b5c6-4085-9859-63e3e4ee4742,ACPPS097,ACPPS097,"Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12194,,
+38a8e5e0-b5c6-4085-9859-63e3e4ee4742,ACPPS098,ACPPS098,"Critique behaviours and contextual factors that influence health and wellbeing of diverse communities<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12199,,
+ACPMP108,ELBHPE450,ELBHPE450,"participating in Aboriginal and Torres Strait Islander dances and dance routines from different cultures, such as Tinikling from the Philippines, Polynesian dance, Japanese parasol dance<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11836,,
+ACPMP108,ELBHPE451,ELBHPE451,"participating in children's games from other cultures such as Keentan&nbsp;<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11837,,
+ACPMP025,ELBHPE452,ELBHPE452,"demonstrating changes in speed, direction and level of movement in response to changes in music tempo<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11717,,
+ACPMP025,ELBHPE453,ELBHPE453,"creating, following, repeating and altering movement sequences and games in response to rhythm, music or words<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11718,,
+ACPMP025,ELBHPE454,ELBHPE454,"selecting and implementing different movement skills to be successful in a game<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11719,,
+ACPMP025,ELBHPE455,ELBHPE455,"constructing and performing imaginative and original movement sequences in response to stimuli<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11720,,
+ACPMP032,ELBHPE456,ELBHPE456,"talking about how and when classmates and others have demonstrated fair play<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11711,,
+ACPMP043,ELBHPE457,ELBHPE457,"using a surface dive and propelling the body underwater to recover an object<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11813,,
+ACPMP043,ELBHPE458,ELBHPE458,"performing tumbling routines using rolling actions, incline, weight transfer, flight and balances<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11814,,
+ACPMP043,ELBHPE459,ELBHPE459,"performing routines incorporating different jumping techniques and connecting movements<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11815,,
+ACPMP050,ELBHPE460,ELBHPE460,"talking about where and when they have witnessed fairness and inclusion in a game situation<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11806,,
+ACPMP061,ELBHPE461,ELBHPE461,"performing activities that involve a transition from one skill to another, such as from dribbling to shooting or from leaping to balancing<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11912,,
+ACPMP061,ELBHPE462,ELBHPE462,"designing a sequence of passes between teammates to maintain possession or move a piece of equipment from one point to another<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11913,,
+ACPMP061,ELBHPE463,ELBHPE463,"experimenting with different music genres such as Indian bhangra music when performing creative dances<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11914,,
+ACPMP080,ELBHPE464,ELBHPE464,"designing and performing movement sequences to create, use and defend space<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12014,,
+ACPMP080,ELBHPE465,ELBHPE465,"composing and performing a group dance sequence in response to a piece of music or other stimuli<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12015,,
+ACPMP080,ELBHPE466,ELBHPE466,"travelling, marking and intercepting to achieve and retain possession<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12016,,
+ACPMP080,ELBHPE467,ELBHPE467,"designing and performing movement sequences to travel around, over, under and through natural or built obstacles<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12017,,
+ACPMP084,ELBHPE468,ELBHPE468,"explaining how individual or team performance has improved through modifications to effort, space and time<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12031,,
+ACPMP099,ELBHPE469,ELBHPE469,"responding to teacher and peer feedback to enhance performance<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12123,,
+ACPMP099,ELBHPE470,ELBHPE470,"using ICT to record others' performance, and providing feedback on synchronicity and timing of movements in relation to other people, objects or external stimuli<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12124,,
+ACPMP099,ELBHPE471,ELBHPE471,"providing constructive feedback on their own and others' performance by using movement-analysis software to break down a skill or sequence<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12125,,
+ACPPS003,ELBHPE472,ELBHPE472,"suggesting safe places at home, at school, while playing or while shopping and identifying what makes those places safe<br/>Subject: P",1,,,,0,null,,11653,,
+ACPPS005,ELBHPE473,ELBHPE473,"reading and viewing stories about adventures and talking about how characters feel and react when taking risks<br/>Subject: P",1,,,,0,null,,11665,,
+ACPPS005,ELBHPE474,ELBHPE474,"talking about connections between feelings, body reactions and body language<br/>Subject: P",1,,,,0,null,,11666,,
+ACPPS005,ELBHPE475,ELBHPE475,"exploring how someone might think and feel during an emergency<br/>Subject: P",1,,,,0,null,,11667,,
+ACPPS006,ELBHPE476,ELBHPE476,"looking at different ways the community keeps them safe, for example devices like lights, procedures like safe swimming or safe food handling and safety volunteers<br/>Subject: P",1,,,,0,null,,11673,,
+ACPPS007,ELBHPE477,ELBHPE477,"playing traditional Aboriginal and Torres Strait Islander games such as Kolap using natural materials<br/>Subject: P",1,,,,0,null,,11680,,
+ACPPS017,ELBHPE478,ELBHPE478,"describing warning signs (physical, emotional and external) that can help them to know if they are safe or unsafe<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11750,,
+ACPPS019,ELBHPE479,ELBHPE479,"talking about the role of kinship as an important part of Aboriginal and Torres Strait Islander cultures<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11762,,
+ACPPS033,ELBHPE480,ELBHPE480,"talking about how overcoming a challenge or adversity can unite a group of diverse people<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11841,,
+ACPPS037,ELBHPE481,ELBHPE481,"describing safe bystander behaviour when they notice unfair treatment<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11863,,
+ACPPS037,ELBHPE482,ELBHPE482,"talking about how reconciliation in Australia builds relationships<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11864,,
+ACPPS051,ELBHPE483,ELBHPE483,"discussing the notion of 'border crossing'; that is, how Aboriginal and Torres Strait Islander Peoples live in two worlds<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11943,,
+ACPPS055,ELBHPE484,ELBHPE484,"selecting and practising appropriate ways to share power within relationships<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11964,,
+ACPPS056,ELBHPE485,ELBHPE485,"exploring the emotions associated with feeling unsafe or uncomfortable and how emotions can vary according to different contexts and situations<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11969,,
+ACPPS057,ELBHPE486,ELBHPE486,"exploring media representations of people who are Aboriginal and Torres Strait Islander, from diverse cultural backgrounds, same-sex attracted or gender diverse, and discussing how representations impact on community values<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11974,,
+ACPPS060,ELBHPE487,ELBHPE487,"exploring ways to create safe and inclusive schools for minority groups<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11989,,
+ACPPS071,ELBHPE488,ELBHPE488,"developing and evaluating strategies on use of social media, phones and the internet to remain safe and protect and respect the privacy of self and others<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12049,,
+ACPPS072,ELBHPE489,ELBHPE489,"discussing emotional responses to interactions within relationships, and proposing strategies to seek help<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12055,,
+ACPPS074,ELBHPE490,ELBHPE490,"exploring skills and strategies needed to communicate and engage in relationships in respectful ways<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12069,,
+ACPPS075,ELBHPE491,ELBHPE491,"exploring the impact of different ways of communicating, how these impact on emotions and can show respect (or not) for self and others<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12076,,
+ACPPS076,ELBHPE492,ELBHPE492,"developing health literacy skills while exploring and evaluating online health information that is aimed at assisting young people to address health issues<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12081,,
+ACPPS077,ELBHPE493,ELBHPE493,"explore how spiritual connection to Country/Place enhances health and wellbeing for Aboriginal and Torres Strait Islander Peoples<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12087,,
+ACPPS079,ELBHPE494,ELBHPE494,"developing strategies to challenge narrow views of gender, race, violence, sexuality, gender diversity and ability to contribute to inclusive communities<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12097,,
+ACPPS093,ELBHPE495,ELBHPE495,"Practising skills to deal with challenging situations such as communicating choices, expressing opinions and initiating contingency plans<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12174,,
+ACPPS095,ELBHPE496,ELBHPE496,"evaluating strategies and actions to increase personal safety and planning to promote these in the school and community<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12184,,
+ACPPS098,ELBHPE497,ELBHPE497,"critically analysing messages about being male or female in popular culture and considering the impact these might have on individual and community health and wellbeing<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12200,,
+ACPPS098,ELBHPE498,ELBHPE498,"critiquing media representations of diverse people and analysing what makes (or could make) the representations inclusive<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12201,,
+ACPMP047,ELBP10,ELBP10,"using the body to demonstrate an understanding of symmetry, shapes and angles when performing movement skills, balances or movement sequences<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11832,,
+ACPPS042,ELBP100,ELBP100,"investigating how food practices differ between families, communities and cultural groups, and how food preparation and consumption are used to celebrate and pass on cultural beliefs, practices and values<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11888,,
+ACPPS018,ELBP101,ELBP101,"identifying poison labels and medicine packaging and understanding to ask an adult before taking medicines<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11756,,
+ACPPS039,ELBP102,ELBP102,"accessing different sources of health information and examining the accuracy of these sources<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11875,,
+ACPPS071,ELBP103,ELBP103,"accessing and assessing health information and services that support young people to effectively manage changes and transitions as they grow older<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12050,,
+ACPMP068,ELBP104,ELBP104,"assessing and refining strategies to persist and successfully perform new and challenging movement skills and sequences<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11902,,
+ACPPS070,ELBP105,ELBP105,"examining online profiles and identities and developing strategies to promote safety in online environments<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12043,,
+ACPPS006,ELBP106,ELBP106,"recognising that being kind, fair and respectful to others can support class health and wellbeing<br/>Subject: P",1,,,,0,null,,11674,,
+ACPMP049,ELBP107,ELBP107,"testing alternative responses to movement challenges and predicting the success or effectiveness of each<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11801,,
+ACPMP050,ELBP108,ELBP108,"recognising consequences of personal and team actions in group activities<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11807,,
+ACPMP045,ELBP109,ELBP109,"using different equipment to create an original game or movement challenge<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11821,,
+ACPPS093,ELBP11,ELBP11,"demonstrating and advocating appropriate bystander behaviour when participating in online interactions, for example in situations where another person's photo has been tagged without permission, sexting and posting explicit content<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12175,,
+ACPMP082,ELBP110,ELBP110,"exploring similarities in the bases of support and flow of movements when performing movement sequences<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12022,,
+ACPMP069,ELBP111,ELBP111,"explaining why infringements result in consequences such as a penalty or free pass<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11907,,
+ACPPS077,ELBP112,ELBP112,"investigating food-serving recommendations from The Australian Guide to Healthy Eating and producing a guide to help students make healthy choices when buying food from the school canteen<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12088,,
+ACPPS052,ELBP113,ELBP113,"understanding that individuals experience changes associated with puberty at different times, with differing levels of intensity and with different responses<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11950,,
+ACPPS076,ELBP114,ELBP114,"analysing the credibility of health messages conveyed by different sources in terms of bias, reliability and validity and applying credible information to health-related decisions<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12082,,
+ACPPS079,ELBP115,ELBP115,"researching how stereotypes and prejudice are challenged in local, national and global contexts<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12098,,
+ACPPS090,ELBP116,ELBP116,"practising skills to deal with challenging or unsafe situations, such as refusal skills, communicating choices, expressing opinions and initiating contingency plans<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12159,,
+ACPMP030,ELBP117,ELBP117,"working cooperatively with a partner when practising new skills<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11703,,
+ACPMP085,ELBP118,ELBP118,"researching and participating in a range of physical activities that were performed in the early twentieth century, such as games from the Asia region<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12037,,
+ACPMP064,ELBP119,ELBP119,"participating in a range of physical activities and exploring their health, skill and fitness benefits<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11926,,
+ACPPS055,ELBP12,ELBP12,"exploring reasons why relationships may change, such as starting a new school, changing priorities or interests, family break-up, or joining a new sports team<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11965,,
+ACPMP010,ELBP120,ELBP120,"sharing the things they enjoy about being physically active<br/>Subject: P",1,,,,0,null,,11633,,
+ACPPS071,ELBP121,ELBP121,"investigating the changing nature of peer and family relationships and proposing strategies to manage these changes<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12051,,
+ACPPS024,ELBP122,ELBP122,"sharing the things that make them similar to and different from others in the class<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11788,,
+ACPPS018,ELBP123,ELBP123,"exploring how eating healthy foods can influence health and wellbeing<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11757,,
+ACPMP029,ELBP124,ELBP124,"performing movements under, over, through and between objects, people and equipment<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11735,,
+ACPPS006,ELBP125,ELBP125,"recognising and following safety symbols and procedures at home and in water and road environments<br/>Subject: P",1,,,,0,null,,11675,,
+ACPMP027,ELBP126,ELBP126,"participating in games that use a number of different fundamental movement skills<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11726,,
+ACPMP010,ELBP127,ELBP127,"describing how the body responds to participating in different physical activities<br/>Subject: P",1,,,,0,null,,11634,,
+ACPMP102,ELBP128,ELBP128,"using non-specialised equipment to develop health- or skill-related fitness circuits that can be used by family or community members<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12136,,
+ACPMP049,ELBP129,ELBP129,"transferring and applying skills to solve movement challenges<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11802,,
+ACPPS038,ELBP13,ELBP13,"recognising own emotional responses and levels of their response in different situations<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11870,,
+ACPMP104,ELBP130,ELBP130,"participating in a range of physical activities from the Asia region, such as yoga, tai chi, martial arts and Asia-inspired dance and performance art, and exploring their importance as a social and cultural practice<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12146,,
+ACPMP008,ELBP131,ELBP131,"performing a range of water confidence skills<br/>Subject: P",1,,,,0,null,,11622,,
+ACPMP050,ELBP132,ELBP132,"collaborating to decide rules for a new game<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11808,,
+ACPMP061,ELBP133,ELBP133,"applying stability and locomotor skills to dodge and feint in different movement situations<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11915,,
+ACPPS019,ELBP134,ELBP134,"expressing appreciation and offering encouragement using a variety of communication techniques<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11763,,
+ACPPS042,ELBP135,ELBP135,"reading Dreaming stories unique to an Aboriginal group and comparing them to stories shared in different cultures<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11889,,
+ACPPS060,ELBP136,ELBP136,"exploring initiatives sporting and community groups use to counter all forms of discrimination and support the wellbeing of their communities<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11990,,
+ACPPS079,ELBP137,ELBP137,"exploring how kinship and extended-family structures in different cultures support and enhance health and wellbeing<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12099,,
+ACPPS089,ELBP138,ELBP138,"analysing how societal norms, stereotypes and expectations influence the way young people think about their bodies, abilities, gender, sexuality, food, physical activity, sexual health, drugs and/or risk-taking behaviours<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12154,,
+ACPMP014,ELBP139,ELBP139,"responding to a whistle and commands when participating in physical activities<br/>Subject: P",1,,,,0,null,,11616,,
+ACPPS074,ELBP14,ELBP14,"understanding and applying online and social protocols to enhance relationships with others and protect their own wellbeing, including recognising and responding to inappropriate online content<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12070,,
+ACPPS019,ELBP140,ELBP140,"demonstrating appropriate language when encouraging others<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11764,,
+ACPPS015,ELBP141,ELBP141,"accessing stories where characters demonstrate strengths, sharing how these strengths helped the character be successful and recognising which of these strengths they possess<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11741,,
+ACPPS017,ELBP142,ELBP142,"locating and recording phone numbers of local organisations they can contact in case of emergency and rehearsing a phone call to triple zero<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11751,,
+ACPMP068,ELBP143,ELBP143,"applying movement skills and strategies from other contexts to generate a solution to an unfamiliar movement challenge<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11903,,
+ACPPS051,ELBP144,ELBP144,"recognising how individual personalities and teamwork contribute to achieving success in physical activities<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11944,,
+ACPPS023,ELBP145,ELBP145,"recognising that physical activities can take place in a range of different environments, including natural and built settings<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11785,,
+ACPPS021,ELBP146,ELBP146,"identifying advertisements they have encountered that contain health messages<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11774,,
+ACPMP087,ELBP147,ELBP147,"demonstrating to others the approach taken to solve movement challenges<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12004,,
+ACPMP102,ELBP148,ELBP148,"using ICT to design, implement and monitor a personal fitness plan which includes a timeframe, goals and a variety of specific activities that meet the needs of different people<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12137,,
+ACPPS042,ELBP149,ELBP149,"researching games from their country of heritage and teaching the class how to play them<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11890,,
+ACPPS058,ELBP15,ELBP15,"discussing the importance of social support and a sense of belonging in promoting mental health and wellbeing<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11980,,
+ACPPS057,ELBP150,ELBP150,"analysing health messages in the media and comparing their interpretations with those of other members of the class<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11975,,
+ACPMP064,ELBP151,ELBP151,"examining and describing health-related and skill-related components of fitness<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11927,,
+ACPMP107,ELBP152,ELBP152,"participating in competitions where players rather than an independent official are responsible for applying the rules<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12117,,
+ACPPS039,ELBP154,ELBP154,"examining health messages from different sources and exploring choices, behaviours and outcomes conveyed in these messages<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11876,,
+ACPMP028,ELBP155,ELBP155,"identifying positive feelings they experience when participating in physical activities<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11731,,
+ACPPS094,ELBP156,ELBP156,"proposing strategies for managing emotional responses and resolving conflict in a family or social situation or online environment<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12180,,
+ACPPS093,ELBP157,ELBP157,"investigating how the balance of power influences the nature of relationships and proposing actions that can be taken when a relationship is not respectful<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12176,,
+ACPMP012,ELBP158,ELBP158,"using words and body language to communicate intentions clearly when playing minor games<br/>Subject: P",1,,,,0,null,,11607,,
+ACPMP085,ELBP159,ELBP159,"participating in culturally significant physical activities from around the globe and exploring the links to the culture and heritage of the country of origin of these activities<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12038,,
+ACPPS015,ELBP16,ELBP16,"describing personal achievements such as doing something on their own for the first time and sharing how they felt and how it influenced personal identities<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11742,,
+ACPPS091,ELBP160,ELBP160,"examining policies and processes for ensuring safe blood practices when participating in physical activities<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12163,,
+ACPPS051,ELBP161,ELBP161,"exploring how family, peers, popular culture and the media influence how individuals interact and the choices they make in given situations<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11945,,
+ACPPS072,ELBP162,ELBP162,"collaborating with peers to suggest strategies they could use in emergencies<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12056,,
+ACPMP012,ELBP163,ELBP163,"mirroring a partner while moving to music<br/>Subject: P",1,,,,0,null,,11608,,
+ACPMP025,ELBP164,ELBP164,"performing fundamental movement skills involving controlling objects with equipment and different parts of the body<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11721,,
+ACPMP013,ELBP165,ELBP165,"performing a new movement task for others in their group or class<br/>Subject: P",1,,,,0,null,,11611,,
+ACPPS036,ELBP166,ELBP166,"identifying how medications and other substances can be stored safely in the home and at school<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11857,,
+ACPPS024,ELBP167,ELBP167,"exploring the importance to different cultures of storytelling through dance, music and song, including Aboriginal Dreaming/Creation stories<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11789,,
+ACPPS071,ELBP168,ELBP168,"analysing how roles and responsibilities change and evaluating strategies for managing these increasing responsibilities<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12052,,
+ACPPS098,ELBP169,ELBP169,"investigating the role that extended family, kinship structures and broader community play in the lives of Aboriginal and Torres Strait Islander Peoples<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12202,,
+ACPPS004,ELBP17,ELBP17,"discussing how it feels to be included in activities<br/>Subject: P",1,,,,0,null,,11660,,
+ACPPS003,ELBP170,ELBP170,"naming trusted people in their community who can help them stay safe and healthy, and practising ways of asking for help in a range of different scenarios<br/>Subject: P",1,,,,0,null,,11654,,
+ACPMP009,ELBP171,ELBP171,"participating in games from other cultures<br/>Subject: P",1,,,,0,null,,11628,,
+ACPMP107,ELBP172,ELBP172,"investigating the impact of performance-enhancing drugs on individuals and sporting codes<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12118,,
+ACPPS033,ELBP173,ELBP173,"exploring factors that support personal achievement and development of personal identities, such as the influence of family, friends and school<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11842,,
+ACPMP102,ELBP174,ELBP174,"investigating target training heart-rate zones for a range of different people and how these zones relate to health, wellbeing and fitness<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12138,,
+ACPPS097,ELBP175,ELBP175,"designing and critiquing a strategy to involve family, friends and members of the community in cultural celebrations to promote a sense of connection with and belonging to the community<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12195,,
+ACPPS075,ELBP176,ELBP176,"recognising and interpreting emotional responses to stressful situations and proposing strategies for managing these responses<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12077,,
+ACPMP025,ELBP177,ELBP177,"demonstrating balances and describing what helps to maintain stable positions<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11722,,
+ACPPS071,ELBP178,ELBP178,"evaluating and practising coping, communication and problem-solving skills to manage changes and emotions associated with puberty and getting older<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12053,,
+ACPMP066,ELBP179,ELBP179,"researching and participating in different cultural games or physical activities that children in other countries play<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11937,,
+ACPPS089,ELBP18,ELBP18,"examining how diversity and gender are represented in the media and communities, and investigating the influence these representations have on identities<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12155,,
+ACPPS059,ELBP180,ELBP180,"exploring ways in which people can connect with other members of their community through participating in physical activities in natural settings and built environments<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11984,,
+ACPPS033,ELBP181,ELBP181,"explaining how meeting challenges makes them feel good about themselves and builds confidence to try new things<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11843,,
+ACPPS020,ELBP182,ELBP182,"predicting how a person or character might be feeling based on the words they use, their facial expressions and body language<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11769,,
+ACPPS005,ELBP183,ELBP183,"learning and using appropriate language and actions to communicate their feelings in different situations<br/>Subject: P",1,,,,0,null,,11668,,
+ACPPS018,ELBP184,ELBP184,"exploring benefits of regular physical activity and identifying opportunities when they can be active at school, at home and in the community<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11758,,
+ACPPS015,ELBP185,ELBP185,"participating in games and physical activities and describing how others’ strengths contribute to successful outcomes<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11743,,
+ACPPS020,ELBP186,ELBP186,"recognising own emotions and demonstrating positive ways to react in different situations<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11770,,
+ACPMP047,ELBP187,ELBP187,"demonstrating acceleration and deceleration of movement in physical activities<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11833,,
+ACPPS006,ELBP188,ELBP188,"understanding the importance of personal hygiene practices, including hand washing, face washing, nose blowing and toilet routines<br/>Subject: P",1,,,,0,null,,11676,,
+ACPPS057,ELBP189,ELBP189,"sharing how important people in their life influence them to act or behave in a healthy or safe way<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11976,,
+ACPMP080,ELBP19,ELBP19,"participating in activities where vision is compromised to demonstrate the importance of auditory feedback<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12018,,
+ACPPS021,ELBP190,ELBP190,"identifying popular health slogans and discussing the behaviours these slogans are encouraging<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11775,,
+ACPPS053,ELBP191,ELBP191,"applying criteria to online information to assess the credibility of the information and its relevance to peers<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11954,,
+ACPPS076,ELBP192,ELBP192,"practising ways to communicate concerns about their health to a variety of support people<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12083,,
+ACPPS078,ELBP193,ELBP193,"promoting an understanding of minimal-impact outdoor recreation in the local area<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12092,,
+ACPPS073,ELBP194,ELBP194,"researching a variety of snack and lunch options, and evaluating nutritional value, value for money and sustainability impacts to create a weekly menu plan<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12062,,
+ACPMP099,ELBP195,ELBP195,"using knowledge of results feedback to support another student in performing a skill with greater accuracy or control<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12126,,
+ACPMP011,ELBP196,ELBP196,"moving at different speeds and in different directions with others in a designated area<br/>Subject: P",1,,,,0,null,,11638,,
+ACPPS098,ELBP197,ELBP197,"examining social, cultural and economic factors that influence the health behaviours of people in their community<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12203,,
+ACPPS041,ELBP198,ELBP198,"participating in physical activities in natural environments in the local area and reflecting on the enjoyable components of participation<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11885,,
+ACPPS096,ELBP199,ELBP199,"preparing, delivering and critiquing a class presentation to the community, for example a presentation to parents on tips for serving and eating food that has been prepared sustainably<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12190,,
+ACPPS072,ELBP2,ELBP2,"demonstrating basic first-aid principles and strategies<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12057,,
+ACPMP008,ELBP20,ELBP20,"sending, controlling and receiving objects at different levels and in different ways<br/>Subject: P",1,,,,0,null,,11623,,
+ACPPS077,ELBP200,ELBP200,"investigating preventive health practices relevant to young people, and designing and implementing health promotion activities targeting these practices<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12089,,
+ACPMP065,ELBP201,ELBP201,"demonstrating an understanding of how to adjust the force and speed of an object to improve accuracy and control<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11932,,
+ACPMP084,ELBP202,ELBP202,"demonstrating an understanding of how to adjust the angle of release of an object and how this will affect the height and distance of flight<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12032,,
+ACPPS038,ELBP203,ELBP203,"understanding that emotional responses vary across cultures and differ between people and different situations<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11871,,
+ACPPS034,ELBP204,ELBP204,"identifying people or sources of information that they can access if they have questions about the changes that are occurring<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11847,,
+ACPPS006,ELBP205,ELBP205,"identifying household substances that can be dangerous and suggesting examples of how they can be stored safely in the home<br/>Subject: P",1,,,,0,null,,11677,,
+ACPMP103,ELBP206,ELBP206,"demonstrating and describing how the body can absorb force<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12141,,
+ACPMP069,ELBP207,ELBP207,"proposing changes to the rules and/or conditions to create a more inclusive game or to allow for a fairer contest<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11908,,
+ACPPS037,ELBP208,ELBP208,"creating an online connection with another school and identifying similarities and differences between students<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11865,,
+ACPMP105,ELBP209,ELBP209,"using self-talk and encouragement to motivate themselves and team members to continue to participate and improve performance<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12107,,
+ACPPS051,ELBP21,ELBP21,"identifying how personal qualities contribute to identities and inform world views<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11946,,
+ACPPS016,ELBP210,ELBP210,"discussing tasks they are allowed to do by themselves and explaining how these have changed since they were younger<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11745,,
+ACPMP084,ELBP211,ELBP211,"performing a range of movements and analysing technique based on understanding of take-off, body position and landing<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12033,,
+ACPMP063,ELBP212,ELBP212,"proposing and applying movement concepts and strategies to safely traverse a natural environment<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11921,,
+ACPPS074,ELBP213,ELBP213,"analysing how behaviours, actions, and responses to situations can change depending on whether they are by themselves, with friends or with family<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12071,,
+ACPMP099,ELBP214,ELBP214,"performing specialised movement skills in situations where the rules or conditions have been modified to vary complexity<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12127,,
+ACPPS073,ELBP215,ELBP215,"proposing and practising strategies for celebrating safely, including assertiveness, refusal skills, planning travel arrangements and contingency plans<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12063,,
+ACPPS036,ELBP216,ELBP216,"identifying and practising ways of behaving in the playground that ensure the safety of themselves and others<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11858,,
+ACPPS042,ELBP217,ELBP217,"planning a day that celebrates the cultural diversity of students in their class by sharing food, stories and games from their cultural background<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11891,,
+ACPMP064,ELBP218,ELBP218,"examining the benefits of physical activity to social health and mental wellbeing<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11928,,
+ACPMP086,ELBP219,ELBP219,"adopting roles and responsibilities that support and enhance team cohesion and lead to successful movement outcomes<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,11999,,
+ACPPS054,ELBP22,ELBP22,"proposing and implementing opportunities to increase their physical activity levels at school and at home<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11958,,
+ACPPS019,ELBP220,ELBP220,"exploring how people feel when they are included and excluded from groups and activities<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11765,,
+ACPMP088,ELBP221,ELBP221,"modifying rules, equipment or scoring systems to allow all participants to enjoy and succeed<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12008,,
+ACPPS022,ELBP222,ELBP222,"explaining and demonstrating how being fair and respectful contributes to class health and wellbeing<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11779,,
+ACPMP025,ELBP223,ELBP223,"demonstrating how to transfer weight from one part of the body to another<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11723,,
+ACPPS098,ELBP224,ELBP224,"analysing the implications of attitudes and behaviours such as prejudice, marginalisation, homophobia, discrimination, violence and harassment on individuals and communities, and proposing counter-measures to prevent these behaviours<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12204,,
+ACPMP010,ELBP225,ELBP225,"describing their feelings after participating in different physical activities<br/>Subject: P",1,,,,0,null,,11635,,
+ACPMP061,ELBP226,ELBP226,"combining surface propulsion and underwater skills in an aquatic environment<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11916,,
+ACPMP064,ELBP227,ELBP227,"creating and participating in a fitness circuit designed to improve health-related fitness components<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11929,,
+ACPPS040,ELBP228,ELBP228,"establishing a small fruit and vegetable garden for the class that can be used to create healthy lunches or snacks<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11880,,
+ACPMP045,ELBP229,ELBP229,"participating in physical activities which require problem-solving to achieve a goal<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11822,,
+ACPPS054,ELBP23,ELBP23,"selecting and practising appropriate responses to promote safety in different situations, including water- and traffic-related situations<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11959,,
+ACPPS092,ELBP230,ELBP230,"critiquing images and messages in the media that portray what it means to have a good time and be fun to be around, and evaluating how these images can be interpreted<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12168,,
+ACPMP010,ELBP231,ELBP231,"identifying how regular physical activity can help keep people healthy<br/>Subject: P",1,,,,0,null,,11636,,
+ACPMP013,ELBP232,ELBP232,"making positive choices when faced with a decision about how they participate in a movement activity<br/>Subject: P",1,,,,0,null,,11612,,
+ACPMP045,ELBP233,ELBP233,"exploring centre of gravity and stability as they perform balance activities<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11823,,
+ACPMP032,ELBP234,ELBP234,"demonstrating turn-taking and sharing equipment when participating in minor games<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11712,,
+ACPPS074,ELBP235,ELBP235,"recognising the impact bullying and harassment can have on relationships, including online relationships<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12072,,
+ACPMP104,ELBP236,ELBP236,"researching the trends in participation in organised junior sports and predicting future trends and directions<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12147,,
+ACPMP086,ELBP237,ELBP237,"reflecting on their role and articulating how the actions they initiated in that role led to the achievement of successful outcomes<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12000,,
+ACPMP067,ELBP238,ELBP238,"using reflective listening when working in small groups on movement tasks or challenges<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11897,,
+ACPMP013,ELBP239,ELBP239,"trialling a number of techniques when trying new movement activities<br/>Subject: P",1,,,,0,null,,11613,,
+ACPPS096,ELBP24,ELBP24,"investigating community-action initiatives young people have instigated that have had a positive influence on the health and wellbeing of their communities<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12191,,
+ACPMP012,ELBP240,ELBP240,"working with a partner or small group to complete a movement task or challenge<br/>Subject: P",1,,,,0,null,,11609,,
+ACPPS072,ELBP241,ELBP241,"practising different communication techniques to persuade someone to seek help<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12058,,
+ACPMP049,ELBP242,ELBP242,"posing questions to others as a strategy for solving movement challenges<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11803,,
+ACPPS091,ELBP243,ELBP243,"critiquing the appropriateness and effectiveness of help and support services available for young people in the local community<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12164,,
+ACPMP043,ELBP244,ELBP244,"coordinating kicking with arm movements to move the body through the water<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11816,,
+ACPMP050,ELBP245,ELBP245,"contributing to fair decision making in physical activities by applying the rules appropriately<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11809,,
+ACPMP008,ELBP246,ELBP246,"performing locomotor skills in any direction from one point to another<br/>Subject: P",1,,,,0,null,,11624,,
+ACPMP080,ELBP247,ELBP247,"analysing their own and others’ performance using ICT and implementing feedback to enhance performance<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12019,,
+ACPPS060,ELBP248,ELBP248,"discussing how the actions of bystanders, friends and family can prevent and/or stop bullying and other forms of discrimination and harassment<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11991,,
+ACPPS060,ELBP249,ELBP249,"exploring and celebrating how cultures differ in behaviours, beliefs and values<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11992,,
+ACPMP046,ELBP250,ELBP250,"collecting, recording and organising information to investigate which physical activities people engage in to maintain health, wellbeing and fitness<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11828,,
+ACPPS094,ELBP251,ELBP251,"analysing interactions where emotional responses may not be immediately apparent and reflecting on the possible consequences of not recognising the emotions involved<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12181,,
+ACPPS070,ELBP252,ELBP252,"investigating how changing feelings and attractions are part of developing sexual identities<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12044,,
+ACPPS003,ELBP253,ELBP253,"identifying characters in different texts who help the main character to stay safe and healthy<br/>Subject: P",1,,,,0,null,,11655,,
+ACPPS052,ELBP254,ELBP254,"researching and identifying age-appropriate text and web-based resources to enhance understanding of changes associated with puberty<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11951,,
+ACPPS035,ELBP255,ELBP255,"recognising physical responses that indicate they are feeling uncomfortable or unsafe<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11851,,
+ACPMP061,ELBP256,ELBP256,"composing and performing a range of complex static and dynamic balances on different body parts or rotating and/or pivoting<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11917,,
+ACPMP014,ELBP257,ELBP257,"identifying boundaries such as personal space and playing area<br/>Subject: P",1,,,,0,null,,11617,,
+ACPMP099,ELBP258,ELBP258,"adapting and responding to changes in equipment that increase the complexity of a movement task or performance<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12128,,
+ACPMP032,ELBP259,ELBP259,"explaining how rules contribute to fair play and applying them in group activities<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11713,,
+ACPMP083,ELBP26,ELBP26,"measuring heart rate, breathing rate and ability to talk in order to monitor the body’s reaction to a range of physical activities, and predicting the benefits of each activity on health- and skill-related fitness components<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12027,,
+ACPMP063,ELBP260,ELBP260,"proposing and applying movement concepts and strategies to perform movement sequences at different levels using different types of equipment<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11922,,
+ACPMP105,ELBP261,ELBP261,"evaluating the contribution they make as an individual to teamwork, leadership and enjoyable participation for all<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12108,,
+ACPPS058,ELBP262,ELBP262,"investigating practices that help promote and maintain health and wellbeing, such as eating a diet reflecting The Australian Guide to Healthy Eating, meeting recommendations for daily physical activity and creating connections with others to enhance social health<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11981,,
+ACPMP049,ELBP263,ELBP263,"drawing on prior knowledge to solve movement challenges<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11804,,
+ACPPS094,ELBP264,ELBP264,"evaluating situations where an individual may react with extreme emotion and reflecting on the impact that this response may have on the situation and/or their relationships<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12182,,
+ACPMP099,ELBP265,ELBP265,"transferring skills learnt in one movement situation to a different situation<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12129,,
+ACPMP085,ELBP266,ELBP266,"examining how sport, physical activity and outdoor recreation pursuits have changed over the last century as a result of different cultural groups migrating to Australia<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12039,,
+ACPPS020,ELBP267,ELBP267,"understanding how a person’s reaction to a situation can affect others’ feelings<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11771,,
+ACPPS059,ELBP268,ELBP268,"exploring Aboriginal and Torres Strait Islander understandings of special places and the connection of these places to physical activities<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11985,,
+ACPPS051,ELBP269,ELBP269,"investigating how personal and cultural identities are influenced by the groups and communities to which we belong and the places to which we feel connected<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11947,,
+ACPMP009,ELBP27,ELBP27,"participating in games responding to stimuli, such as musical chairs, rhythm actions, alphabet shapes<br/>Subject: P",1,,,,0,null,,11629,,
+ACPMP029,ELBP270,ELBP270,"comparing different types of movements and identifying which ones are easier and harder and why this might be the case<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11736,,
+ACPPS056,ELBP271,ELBP271,"analysing situations in which emotions can influence decision-making, including in peer-group, family and movement situations<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11970,,
+ACPPS036,ELBP272,ELBP272,"proposing changes they can make to their daily routines to reduce sedentary behaviour and increase physical activity levels<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11859,,
+ACPMP031,ELBP273,ELBP273,"asking for and responding to feedback from peers or teachers on their performance<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11707,,
+ACPPS040,ELBP275,ELBP275,"creating promotional posters to display around the school containing positive health and physical activity messages<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11881,,
+ACPMP087,ELBP276,ELBP276,"explaining and justifying the movement concepts and strategies selected in response to movement challenges<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12005,,
+ACPMP106,ELBP277,ELBP277,"demonstrating motivation, persistence, confidence and commitment when faced with difficult or unfamiliar movement tasks<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12112,,
+ACPMP011,ELBP278,ELBP278,"demonstrating the difference between personal space and general space in physical activities<br/>Subject: P",1,,,,0,null,,11639,,
+ACPMP067,ELBP279,ELBP279,"understanding the contribution of different roles and responsibilities in physical activities that promote enjoyment, safety and positive outcomes for participants<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11898,,
+ACPMP043,ELBP28,ELBP28,"performing fundamental movement skills to demonstrate weight transference in different physical activities<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11817,,
+ACPPS076,ELBP280,ELBP280,"proposing ways to support others who are going through a challenging time<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12084,,
+ACPMP048,ELBP281,ELBP281,"using cooperative skills to complete a movement task, such as a partner balance, partner passing strategy or team strategy<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11797,,
+ACPMP104,ELBP282,ELBP282,"exploring the impact of media messages associated with physical activity, outdoor recreation and sport in Australia<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12148,,
+ACPPS007,ELBP283,ELBP283,"exploring a range of ways to play and be active in outdoor or natural settings<br/>Subject: P",1,,,,0,null,,11681,,
+ACPMP103,ELBP284,ELBP284,"creating a group performance that demonstrates synchronous and individual movements<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12142,,
+ACPPS059,ELBP285,ELBP285,"discussing how a connection to the local community, environment or special places can influence personal and community health and wellbeing<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11986,,
+ACPMP068,ELBP286,ELBP286,"recognising that there may be a number of solutions to movement challenges and justifying which solution is most appropriate or effective<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11904,,
+ACPPS057,ELBP287,ELBP287,"examining how media and public identities influence the way people act and the choices they make<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11977,,
+ACPMP032,ELBP288,ELBP288,"explaining why rules are needed in games and physical activities<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11714,,
+ACPPS053,ELBP289,ELBP289,"creating ways to share information about local services young people can access for help, such as a blog, app or advertisement<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11955,,
+ACPPS079,ELBP29,ELBP29,"investigating how respecting diversity and challenging racism, sexism, disability discrimination and homophobia influence individual and community health and wellbeing<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12100,,
+ACPMP014,ELBP290,ELBP290,"following instructions for personal safety and fair play<br/>Subject: P",1,,,,0,null,,11618,,
+ACPPS002,ELBP291,ELBP291,"recording and mapping growth on individual and group growth charts or constructing a class height line<br/>Subject: P",1,,,,0,null,,11649,,
+ACPMP068,ELBP292,ELBP292,"devising strategies and formulating plans to assist in successfully performing new movement skills<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11905,,
+ACPMP103,ELBP293,ELBP293,"experimenting with the manipulation of force and speed applied to an object to examine the difference created in movement paths<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12143,,
+ACPMP066,ELBP295,ELBP295,"participating in and investigating the heritage of games that have cultural significance in Australia, and exploring similarities with games of significance to other cultures, such as jump rope and Nang Tong (from Thailand), poison ball and Bola Beracun (from Malaysia), hockey and Lor Kon Krok (from Thailand) and Australian Rules football, lacrosse and Gaelic football<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11938,,
+ACPMP107,ELBP297,ELBP297,"discussing the role in promoting fairness and ethical behaviour in sport of organisations such as the Australian Sports Anti-Doping Authority, sporting tribunals, Australian Human Rights Commission and the Court of Arbitration for Sport<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12119,,
+ACPPS092,ELBP298,ELBP298,"evaluating the influence of personal, social, environmental and cultural factors on decisions and actions young people take in relation to their health, safety and wellbeing<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12169,,
+ACPPS003,ELBP299,ELBP299,"identifying different relationships they have with people and which of these relationships make them feel loved, safe and supported<br/>Subject: P",1,,,,0,null,,11656,,
+ACPPS016,ELBP3,ELBP3,"discussing ways families and cultural groups acknowledge and celebrate major stages of development<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11746,,
+ACPMP043,ELBP30,ELBP30,"exploring and practising different techniques to propel objects towards a target<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11818,,
+ACPPS038,ELBP300,ELBP300,"describing strategies they can use to identify and manage their emotions before making a decision to act<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11872,,
+ACPMP088,ELBP301,ELBP301,"recognising potential hazards and selecting appropriate responses when undertaking physical activities in the natural environment<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12009,,
+ACPPS077,ELBP302,ELBP302,"examining how different cultures value the contribution of the mind-body-spirit connection to health and wellbeing<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12090,,
+ACPPS092,ELBP303,ELBP303,"examining local fast-food options, making healthy selections and advocating healthy choices to peers<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12170,,
+ACPMP008,ELBP304,ELBP304,"creating movement sequences without equipment<br/>Subject: P",1,,,,0,null,,11625,,
+ACPPS001,ELBP305,ELBP305,"participating in a range of minor games and exploring which ones they enjoy and what makes them enjoyable<br/>Subject: P",1,,,,0,null,,11644,,
+ACPPS091,ELBP306,ELBP306,"proposing and practising a range of realistic responses to scenarios where peers are encouraging them to take unnecessary risks<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12165,,
+ACPPS019,ELBP307,ELBP307,"demonstrating how to include others in physical activities when completing movement tasks or practising for performance<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11766,,
+ACPPS075,ELBP308,ELBP308,"investigating personal, social and cultural factors that influence the way individuals respond emotionally to different situations<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12078,,
+ACPMP011,ELBP309,ELBP309,"describing body positions when performing a range of different movements<br/>Subject: P",1,,,,0,null,,11640,,
+ACPPS090,ELBP310,ELBP310,"assessing behavioural expectations in different relationships and social situations, and examining how these expectations can influence decisions and actions<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12160,,
+ACPMP083,ELBP311,ELBP311,"performing physical activities that improve health- and skill-related components of fitness and analysing how the components are developed through these activities<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12028,,
+ACPPS073,ELBP312,ELBP312,"investigating reasons why young people choose to use or not use drugs, and proposing strategies to make informed choices<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12064,,
+ACPPS036,ELBP313,ELBP313,"examining their own eating patterns by researching The Australian Guide to Healthy Eating and identifying healthier food choices<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11860,,
+ACPMP088,ELBP314,ELBP314,"applying scoring systems in activities to assess movement performances consistently and fairly<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12010,,
+ACPPS040,ELBP315,ELBP315,"identifying how regular physical activity promotes health, and recognising and accessing opportunities to be active while they are at school<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11882,,
+ACPPS035,ELBP316,ELBP316,"examining protective behaviours to stay safe in different situations, including near water or roads, in the park or when someone makes them feel uncomfortable or unsafe<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11852,,
+ACPPS023,ELBP317,ELBP317,"participating in physical activities within the built structures in the school and local community where physical activity takes place<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11786,,
+ACPPS093,ELBP318,ELBP318,"comparing own decisions with those of others and acknowledging others’ right to act differently and to change their mind<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12177,,
+ACPPS072,ELBP32,ELBP32,"exploring help-seeking scenarios young people encounter and sharing strategies for dealing with each situation<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12059,,
+ACPMP045,ELBP321,ELBP321,"demonstrating movement concepts and strategies to create scoring opportunities<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11824,,
+ACPPS059,ELBP322,ELBP322,"discussing how access to natural and built environments can help or hinder participation in physical activities<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11987,,
+ACPMP069,ELBP323,ELBP323,"correctly interpreting and applying rules in physical activities<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11909,,
+ACPPS095,ELBP324,ELBP324,"critiquing services that provide advice and support on health-related issues, and investigating ways to store and share contact information of these services with other young people<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12185,,
+ACPMP043,ELBP325,ELBP325,"performing activities where locomotor and object control skills are combined to complete a movement, task or challenge<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11819,,
+ACPPS096,ELBP326,ELBP326,"creating and evaluating visual and multimodal health campaigns in print-based and digital environments to promote health and wellbeing in their community<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12192,,
+ACPMP086,ELBP327,ELBP327,"undertaking various roles associated with the planning of physical activities<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12001,,
+ACPMP101,ELBP328,ELBP328,"using established criteria to apply and evaluate the effectiveness of movement concepts and strategies<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12131,,
+ACPPS004,ELBP33,ELBP33,"practising personal skills such as expressing needs, wants and feelings, active listening and showing self-discipline to be an effective group member<br/>Subject: P",1,,,,0,null,,11661,,
+ACPPS073,ELBP330,ELBP330,"examining strategies for safe practices in different environments, including transport and aquatic environments<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12065,,
+ACPMP063,ELBP331,ELBP331,"demonstrating defensive and offensive play in modified games<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11923,,
+ACPMP084,ELBP332,ELBP332,"designing and refining movement concepts and strategies to manipulate space and their relationship to other players in this space<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12034,,
+ACPMP064,ELBP333,ELBP333,"demonstrating and describing safe stretching activities which maintain and develop flexibility<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11930,,
+ACPMP067,ELBP334,ELBP334,"exploring and performing the duties and responsibilities of different roles for a range of physical activities<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11899,,
+ACPPS056,ELBP336,ELBP336,"exploring why emotional responses can be unpredictable<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11971,,
+ACPMP047,ELBP337,ELBP337,"discussing and demonstrating different levels, movement pathways, and use of space and flow in movement sequences<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11834,,
+ACPPS037,ELBP338,ELBP338,"describing behaviours that show empathy and respect for the rights of others<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11866,,
+ACPPS004,ELBP339,ELBP339,"accessing stories about characters who have been excluded from a group and discussing how the character could deal with the situation<br/>Subject: P",1,,,,0,null,,11662,,
+ACPMP046,ELBP34,ELBP34,"exploring physical activity and screen-usage time recommendations for children and proposing how they can meet these recommendations<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11829,,
+ACPMP105,ELBP340,ELBP340,"identifying and critiquing leadership styles and group/team dynamics through collaboratively solving initiative games<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12109,,
+ACPMP046,ELBP341,ELBP341,"examining the benefits of regular physical activity, including the influence on sleep, concentration and fitness<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11830,,
+ACPPS053,ELBP342,ELBP342,"researching health information sources and places where they can seek help, and prioritising those that are reliable and trustworthy<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11956,,
+ACPMP031,ELBP344,ELBP344,"reflecting on their performance and identifying and demonstrating ways they can perform a skill more successfully<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11708,,
+ACPPS055,ELBP346,ELBP346,"proposing strategies for managing the changing nature of relationships, including dealing with bullying and harassment and building new friendships<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11966,,
+ACPMP102,ELBP347,ELBP347,"justifying the selection of physical activities included in a personalised plan linked to the components of health- and skill-related fitness they wish to improve or maintain<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12139,,
+ACPPS005,ELBP348,ELBP348,"identifying and describing the emotions of people who are happy, sad, excited, tired, angry, scared or confused<br/>Subject: P",1,,,,0,null,,11669,,
+ACPMP014,ELBP349,ELBP349,"demonstrating appropriate use of equipment<br/>Subject: P",1,,,,0,null,,11619,,
+ACPPS058,ELBP35,ELBP35,"proposing and implementing actions and protective behaviours that promote safe participation in physical activities<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11982,,
+ACPPS078,ELBP350,ELBP350,"reflecting on the physical, social, emotional and spiritual benefits to health and wellbeing of being outdoors and of being active in a natural setting<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12093,,
+ACPPS054,ELBP351,ELBP351,"scripting and rehearsing how to refuse drugs they may be offered, such as medication, tobacco product or alcohol<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11960,,
+ACPPS039,ELBP353,ELBP353,"investigating how health messages influence health decisions<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11877,,
+ACPMP086,ELBP354,ELBP354,"applying an understanding of verbal, physical and situational cues to identify and appropriately respond to the feelings and motives of others when working in a team or group<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12002,,
+ACPPS022,ELBP355,ELBP355,"exploring sustainable practices that students can implement in the classroom to improve health and wellbeing of the class<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11780,,
+ACPMP106,ELBP356,ELBP356,"drawing parallels between successful movement strategies in one sporting situation and how similar strategies could be used effectively in a different sport<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12113,,
+ACPPS078,ELBP357,ELBP357,"exploring how a sense of connection to Country/Place sustains the health and wellbeing of Aboriginal and Torres Strait Islander Peoples and communities<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12094,,
+ACPMP104,ELBP358,ELBP358,"analysing the significant contributions Aboriginal and Torres Strait Islander people make, and have made, to sport in Australia<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12149,,
+ACPMP101,ELBP359,ELBP359,"reviewing, proposing and implementing alternative responses to movement situations based on the outcome of previous performances<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12132,,
+ACPMP025,ELBP36,ELBP36,"performing locomotor movements using different body parts to travel in different directions<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11724,,
+ACPPS095,ELBP360,ELBP360,"examining actions to take greater responsibility in relation to their own health<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12186,,
+ACPMP061,ELBP361,ELBP361,"applying kicking, striking and throwing skills to propel an object and keep it in motion<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11918,,
+ACPPS022,ELBP362,ELBP362,"recognising how their actions help keep classmates safe, including identifying things not to be shared due to potential of contamination, infection and anaphylaxis<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11781,,
+ACPPS033,ELBP363,ELBP363,"persisting with new activities and examining how success through persistence can have positive outcomes and strengthen identities<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11844,,
+ACPPS072,ELBP364,ELBP364,"examining scenarios to highlight how emotions, dispositions and decision-making can affect outcomes<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12060,,
+ACPPS017,ELBP365,ELBP365,"identifying situations that require the help of emergency services<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11752,,
+ACPPS006,ELBP366,ELBP366,"grouping foods into categories such as food groups and ‘always’ and ‘sometimes’ foods<br/>Subject: P",1,,,,0,null,,11678,,
+ACPPS079,ELBP367,ELBP367,"examining values and beliefs about cultural and social issues such as gender, race, violence, sexuality and ability  and how resisting stereotypes can help students be themselves<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12101,,
+ACPMP027,ELBP368,ELBP368,"inventing games with rules using one or two pieces of equipment<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11727,,
+ACPMP083,ELBP369,ELBP369,"designing and monitoring a personal fitness plan that proposes realistic strategies for maintaining fitness, health and wellbeing<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12029,,
+ACPPS097,ELBP37,ELBP37,"designing and adopting actions which promote healthy, active and sustainable lifestyles<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12196,,
+ACPPS003,ELBP371,ELBP371,"identifying knowledge, skills and understandings that can help keep them safe and healthy<br/>Subject: P",1,,,,0,null,,11657,,
+ACPPS040,ELBP372,ELBP372,"exploring and developing responsible and sustainable classroom practices such as recycling, composting and energy saving<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11883,,
+ACPPS001,ELBP374,ELBP374,"identifying ways they can use their strengths to help themselves and others<br/>Subject: P",1,,,,0,null,,11645,,
+ACPMP082,ELBP375,ELBP375,"selecting strategies that have been successful previously and applying the most appropriate ones when solving new movement challenges with and without equipment<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12023,,
+ACPPS060,ELBP376,ELBP376,"proposing strategies to help others understand points of view that differ from their own and to encourage further discussion about individual and cultural similarities and differences in order to tackle racism<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11993,,
+ACPMP065,ELBP378,ELBP378,"creating a movement sequence that demonstrates variations in flow and levels and involves individuals moving together in time<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11933,,
+ACPPS091,ELBP379,ELBP379,"planning and practising responses to emergencies where they may be required to administer first aid to a friend, including CPR<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12166,,
+ACPPS022,ELBP38,ELBP38,"exploring how fruit and water breaks help support class health and wellbeing<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11782,,
+ACPPS070,ELBP380,ELBP380,"examining the impact of physical changes on gender, cultural and sexual identities<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12045,,
+ACPMP084,ELBP381,ELBP381,"creating, performing and appraising movement sequences that demonstrate variations in flow and levels<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12035,,
+ACPPS022,ELBP382,ELBP382,"creating a bank of movement games and physical activity cards students can select from and play during lesson breaks and before or after school<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11783,,
+ACPPS097,ELBP383,ELBP383,"creating and evaluating proposals to promote the use of natural settings within the local community for physical activity<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12197,,
+ACPPS007,ELBP385,ELBP385,"understanding how to be safe in the outdoors through play in natural environments<br/>Subject: P",1,,,,0,null,,11682,,
+ACPPS002,ELBP386,ELBP386,"recognising how bodies grow and change over time<br/>Subject: P",1,,,,0,null,,11650,,
+ACPPS070,ELBP387,ELBP387,"examining how traditions and cultural practices influence personal and cultural identities<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12046,,
+ACPMP107,ELBP388,ELBP388,"analysing how equitable participation in group activities can influence outcomes in physical activity<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12120,,
+ACPPS016,ELBP39,ELBP39,"describing changes in their physical appearance now compared to when they were younger<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11747,,
+ACPPS038,ELBP390,ELBP390,"analysing scenarios and identifying possible triggers and warning signs to predict emotional responses<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11873,,
+ACPPS095,ELBP391,ELBP391,"critiquing and selecting the most suitable and reliable sources of health information according to the decision that needs to be made<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12187,,
+ACPPS024,ELBP392,ELBP392,"discussing practices of their own culture used to pass on significant information from one generation to the next<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11790,,
+ACPMP088,ELBP393,ELBP393,"applying the principles of ethical behaviour consistently when participating in physical activities<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12011,,
+ACPMP013,ELBP394,ELBP394,"attempting different ways to solve a movement challenge and discussing which ways were successful or not<br/>Subject: P",1,,,,0,null,,11614,,
+ACPMP065,ELBP395,ELBP395,"developing strategies that exploit the playing space to create overlaps and extra attackers<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11934,,
+ACPMP008,ELBP396,ELBP396,"responding with movement to rhythm, beat, music and words<br/>Subject: P",1,,,,0,null,,11626,,
+ACPPS051,ELBP397,ELBP397,"exploring how personal and cultural identities change over time<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11948,,
+ACPPS078,ELBP398,ELBP398,"identifying local natural resources and built environments where individuals and groups can connect as a community and participate in physical and social activities<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12095,,
+ACPPS055,ELBP399,ELBP399,"assessing the impact of different relationships on personal health and wellbeing<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11967,,
+ACPPS004,ELBP40,ELBP40,"listening and responding to others when participating in physical activities to achieve agreed outcomes<br/>Subject: P",1,,,,0,null,,11663,,
+ACPPS074,ELBP400,ELBP400,"analysing how their relationships influence behaviours and actions<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12073,,
+ACPMP048,ELBP42,ELBP42,"modifying physical activities to ensure that everyone is included, such as changing equipment, rules or playing space<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11798,,
+ACPPS073,ELBP43,ELBP43,"researching opportunities in the local community to participate in regular physical activity and examining how accessible these opportunities are for students<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12066,,
+ACPPS074,ELBP44,ELBP44,"examining how individuals, family and peer groups influence people’s behaviours, decisions and actions<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12074,,
+ACPMP030,ELBP46,ELBP46,"describing and demonstrating how to include others in physical activity<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11704,,
+ACPPS021,ELBP47,ELBP47,"creating their own positive health message and sharing it with the class<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11776,,
+ACPMP101,ELBP48,ELBP48,"developing and implementing appropriate movement concepts and strategies for selected movement scenarios<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12133,,
+ACPPS024,ELBP49,ELBP49,"examining images or descriptions of different families, communities and cultural groups to identify the features that make them similar and different<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11791,,
+ACPPS096,ELBP5,ELBP5,"developing and implementing proposals to enhance the wellbeing of staff and students in the school<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12193,,
+ACPPS035,ELBP50,ELBP50,"indicating on a local map the location of safe places and people who can help<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11853,,
+ACPPS041,ELBP51,ELBP51,"comparing the characteristics and benefits of physical activities that can take place in a natural environment and those that take place in a built environment<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11886,,
+ACPMP087,ELBP52,ELBP52,"identifying factors that enabled them to achieve success in movement activities and explaining how these factors can be transferred to other learning contexts<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12006,,
+ACPMP106,ELBP53,ELBP53,"speculating on possible outcomes of innovative solutions to movement challenges based on past experiences<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12114,,
+ACPPS097,ELBP54,ELBP54,"investigating different approaches to managing environmental resources, including how Aboriginal and Torres Strait Islander communities demonstrate custodial responsibility for Country/Place<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12198,,
+ACPMP104,ELBP55,ELBP55,"investigating the varied perspectives held by Australians on sport and examining how this diversity is represented in the sports we play today<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12150,,
+ACPPS017,ELBP56,ELBP56,"recognising photos and locations of safe places and a network of people who can help<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11753,,
+ACPPS052,ELBP57,ELBP57,"examining the range of products available to manage the physical changes associated with puberty<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11952,,
+ACPMP065,ELBP58,ELBP58,"working with a partner to explore pushing and pulling movements and how these can be manipulated to perform counter-balances<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11935,,
+ACPPS037,ELBP59,ELBP59,"predicting and reflecting on how other students might feel in a range of challenging situations, and discussing what they can do to support them<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11867,,
+ACPPS098,ELBP6,ELBP6,"investigating community health resources to evaluate how accessible they are for marginalised individuals and groups, and proposing changes to promote greater inclusiveness and accessibility<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12205,,
+ACPPS005,ELBP60,ELBP60,"recalling and sharing emotional responses to different situations and representing this in a variety of ways<br/>Subject: P",1,,,,0,null,,11670,,
+ACPMP066,ELBP61,ELBP61,"exploring the place of water-based recreational activities in Australian culture and how communities come together to enjoy water-based activities<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11939,,
+ACPPS093,ELBP62,ELBP62,"investigating the characteristics of positive, respectful relationships and the rights and ethical responsibilities of individuals in relationships<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12178,,
+ACPPS019,ELBP63,ELBP63,"identifying and appreciating similarities and differences in people and groups<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11767,,
+ACPMP061,ELBP64,ELBP64,"jumping with control for height and distance using a variety of body positions<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11919,,
+ACPPS037,ELBP65,ELBP65,"recognising that bullying behaviour can take many forms, not only physical<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11868,,
+ACPPS090,ELBP66,ELBP66,"asserting their stance on a situation, dilemma or decision by expressing thoughts, opinions and beliefs that acknowledge the feelings of others<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12161,,
+ACPPS018,ELBP67,ELBP67,"describing actions to stay safe in a range of environments, including water, road, nature and outdoors<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11759,,
+ACPPS034,ELBP68,ELBP68,"exploring how friendships change as they grow older and identifying strategies to manage change<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11848,,
+ACPMP048,ELBP69,ELBP69,"working cooperatively with team members to maintain possession in a game by passing to other players and listening to teammates<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11799,,
+ACPMP050,ELBP7,ELBP7,"recognising unfairness and exclusion in a game situation, and proposing strategies to overcome these issues<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11810,,
+ACPPS035,ELBP70,ELBP70,"rehearsing assertive behaviours and strong non-verbal communication skills<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11854,,
+ACPMP009,ELBP71,ELBP71,"participating in games that require students to be aware of personal safety and game boundaries<br/>Subject: P",1,,,,0,null,,11630,,
+ACPPS017,ELBP72,ELBP72,"identifying and rehearsing strategies they can use when requiring assistance, such as asking an adult, reading basic signs and solving a problem with friends<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11754,,
+ACPMP028,ELBP73,ELBP73,"participating in activities of different intensity and comparing the body’s reactions<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11732,,
+ACPPS054,ELBP74,ELBP74,"comparing product labels on food items or nutritional information in recipes and suggesting ways to improve the nutritional value of meals<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11961,,
+ACPMP027,ELBP76,ELBP76,"using stimuli such as equipment, rhythm, music and words to create games<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11728,,
+ACPMP045,ELBP77,ELBP77,"planning and performing strategies to be successful in tag and dodge games<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11825,,
+ACPMP080,ELBP78,ELBP78,"using visual and kinaesthetic feedback when coordinating eye–hand and eye–foot movements to control different pieces of equipment<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12020,,
+ACPPS092,ELBP79,ELBP79,"exploring external influences on sexuality and sexual health behaviours, and recognising the impact that decisions and actions can have on own and others’ health and wellbeing<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12171,,
+ACPPS016,ELBP8,ELBP8,"identifying and describing significant relationships in their lives and how these have evolved or changed over time<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11748,,
+ACPMP105,ELBP80,ELBP80,"creating and implementing self-assessment and peer-assessment tools to evaluate performance in a variety of roles<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12110,,
+ACPPS002,ELBP81,ELBP81,"identifying and labelling private parts of the body and understanding the contexts when body parts should be kept private<br/>Subject: P",1,,,,0,null,,11651,,
+ACPPS075,ELBP82,ELBP82,"exploring different viewpoints, practising being empathetic and considering alternative ways to respond<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12079,,
+ACPPS001,ELBP83,ELBP83,"identifying things they are good at and describing how these have changed over time<br/>Subject: P",1,,,,0,null,,11646,,
+ACPPS035,ELBP84,ELBP84,"identifying and practising appropriate responses to unsafe situations in relation to drugs and drug use<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11855,,
+ACPPS001,ELBP85,ELBP85,"describing how they feel when they are learning a new skill and what strategies they can use to persist until they are successful<br/>Subject: P",1,,,,0,null,,11647,,
+ACPPS033,ELBP86,ELBP86,"suggesting ways to respond positively to challenges and failure, such as using self-talk, early help-seeking behaviours, and optimistic thinking<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11845,,
+ACPMP031,ELBP87,ELBP87,"predicting possible outcomes of alternative actions and deciding which one is likely to be the most effective<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11709,,
+ACPMP103,ELBP88,ELBP88,"using ICT to analyse movements and enhance movement sequences and performances<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12144,,
+ACPMP030,ELBP89,ELBP89,"suggesting and trialling how a game can be changed so that everyone can be involved<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11705,,
+ACPMP028,ELBP9,ELBP9,"participating in new and unfamiliar activities and describing how they felt about the experience<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11733,,
+ACPPS056,ELBP90,ELBP90,"discussing how inappropriate emotional responses impact relationships<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11972,,
+ACPPS089,ELBP91,ELBP91,"investigating how cultural beliefs and practices surrounding transitions to adulthood differ between cultures<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12156,,
+ACPMP082,ELBP92,ELBP92,"examining and demonstrating the similarities of strategies used in different physical activities and how they can be transferred to new movement situations<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12024,,
+ACPPS020,ELBP93,ELBP93,"identifying the body’s reaction to a range of situations, including safe and unsafe situations, and comparing the different emotional responses<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11772,,
+ACPMP029,ELBP94,ELBP94,"demonstrating how they can balance on different parts of the body and make different shapes<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11737,,
+ACPPS034,ELBP95,ELBP95,"discussing physical, social and emotional changes that occur as individuals get older, and exploring how these changes impact on how they think and feel about themselves and different situations<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11849,,
+ACPPS070,ELBP96,ELBP96,"identifying feelings and emotions associated with transitions, and practising self-talk and help-seeking strategies to manage these transitions and associated responsibilities<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,,12047,,
+ACPMP067,ELBP97,ELBP97,"demonstrating negotiation skills when dealing with conflicts or disagreements in movement situations<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11900,,
+ACPMP106,ELBP98,ELBP98,"reflecting on successful movement solutions and proposing how they can be transferred to new movement challenges<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12115,,
+ACPPS089,ELBP99,ELBP99,"analysing the role of family, friends and community in supporting an individual’s identities, and proposing strategies to enhance their own and others’ wellbeing<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12157,,
+8cd7bef0-e6e0-43bb-8e7e-779e82863a70,a1700436-b847-46d2-8abd-975a4fe72a98,"Learning through movement","Learning through movement<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,9d024cd7-8c5a-4f51-870f-0cb034e305e7,11895,,
+297b31d2-dba6-488e-bc43-69c8a9a7d3e5,a469a7a6-ba00-4cdf-a813-8bca952b4864,"Understanding movement","Understanding movement<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,82592328-a8ea-47af-917c-bec0adaaee80,11729,,
+,a5fadb7e-c459-4b4d-bbd9-42d3b71b2121,Safety,"addresses safety issues that students may encounter in their daily lives. The content supports students to develop knowledge, understanding and skills to make safe decisions and behave in ways that protect their own safety and that of others.
+It is expected that all students at appropriate intervals across the continuum of learning from Foundation to Year 10 will learn about the following:
+
+safety at school
+safe practices at home, in road or transport environments, in the outdoors and when near water
+safe and unsafe situations at home, school and parties and in the community
+strategies for dealing with unsafe or uncomfortable situations
+safe practices when using information and communication technologies (ICT) and online services, including dealing with cyberbullying
+managing personal safety
+first aid and emergency care, including safe blood practices
+safety when participating in physical activity, including sports safety, sun safety, use of protective equipment and modifying rules
+relationship and dating safety.<br/>Subject: P",1,,,,0,null,,11698,,
+ee7fbc6a-05bf-452e-86b2-22c6fd558473,a6251d98-2fa2-492f-9124-7f7759fb6456,"Understanding movement","Understanding movement<br/>Subject: P",1,,,,0,null,82592328-a8ea-47af-917c-bec0adaaee80,11631,,
+,a79d023d-89ec-4d86-8362-ebfa07348bc3,"Years 5 and 6","The Year 5 and 6 curriculum supports students to develop knowledge, understanding and skills to create opportunities and take action to enhance their own and others' health, wellbeing, safety and physical activity participation. Students develop skills to manage their emotions, understand the physical and social changes that are occurring for them and examine how the nature of their relationships changes over time.
+The content provides opportunities for students to contribute to building a positive school environment that supports healthy, safe and active choices for everyone. Students also explore a range of factors and behaviours that can influence health, safety and wellbeing.
+Students refine and further develop a wide range of fundamental movement skills in more complex movement patterns and situations. They also apply their understanding of movement strategies and concepts when composing and creating movement sequences and participating in games and sport. Students in Years 5 and 6 further develop their understanding about movement as they learn to monitor how their body responds to different types of physical activity. In addition, they continue to learn to apply rules fairly and behave ethically when participating in different physical activities. Students also learn to effectively communicate and problem-solve in teams or groups in movement settings.
+Focus areas to be addressed in Years 5 and 6 include:
+
+alcohol and other drugs (AD)
+food and nutrition (FN)
+health benefits of physical activity (HBPA)
+mental health and wellbeing (MH)
+relationships and sexuality (RS)
+safety (S)
+challenge and adventure activities (CA)
+fundamental movement skills (FMS)
+games and sports (GS)
+lifelong physical activities (LLPA)
+rhythmic and expressive movement activities (RE).<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,,11893,,
+6bdb6afa-5a7b-4ffb-bfea-73de96a04e93,aedf56fb-57a1-489b-bfd9-93f1bc912963,"Personal, Social and Community Health","<br/>Subject: P",1,,,,0,null,09538db5-f34c-40c2-9c88-de13fcc332ce,11641,,
+,b7f78659-3214-4b68-83bf-bd7e1b3f0275,"Fundamental movement skills","focuses on the development of fundamental movement skills that provide the foundation for competent and confident participation in a range of physical activities such as games, sports, dance, gymnastics and physical recreation.
+It is expected that all students at appropriate intervals across the continuum of learning from Foundation to Year 6 will have opportunities to practise and develop the following skills:
+Locomotor and non-locomotor skills:
+
+rolling
+balancing
+sliding
+jogging
+running
+leaping
+jumping
+hopping
+dodging
+galloping
+skipping
+floating and moving the body through water to safety.
+
+Object control skills:
+
+bouncing
+throwing
+catching
+kicking
+striking.<br/>Subject: P",1,,,,0,null,,11683,,
+,bcb8e40f-1ae9-4260-a0f9-88b56cbd6601,"Alcohol and other drugs","addresses a range of drugs, including prescription drugs, bush and alternative medicines, energy drinks, caffeine, tobacco, alcohol, illegal drugs and performance-enhancing drugs. The content supports students to explore the impact drugs can have on individuals, families and communities.
+It is expected that all students at appropriate intervals across the continuum of learning from Foundation to Year 10 will learn about the following:
+
+safe use of medicines
+alternatives to taking medicines
+the effect of drugs on the body (including energy drinks and caffeine)
+factors that influence the use of different types of drugs
+impact of drug use on individuals and communities
+making informed decisions about drugs (assertive behaviour, peer influence, harm minimisation, awareness of blood-borne viruses)
+performance-enhancing drugs in sport.<br/>Subject: P",1,,,,0,null,,11599,,
+a79d023d-89ec-4d86-8362-ebfa07348bc3,bda2249a-7c2d-418e-a211-c573c7e729d1,"Personal, Social and Community Health","<br/>Education Level: 6<br/>Subject: P",1,,,,0,null,09538db5-f34c-40c2-9c88-de13fcc332ce,11940,,
+171d7258-a639-45a6-aaab-ab12b661bb9d,c124f639-68a2-44a2-8bf7-a77af31f9eeb,"Personal, Social and Community Health","<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,09538db5-f34c-40c2-9c88-de13fcc332ce,12040,,
+81401370-3a60-410c-8390-349ce8a579dd,c86648f0-aa4f-49f5-80ce-5d4461d69c2d,"Years 1 and 2 Achievement Standard","By the end of Year 2, students describe changes that occur as they grow older. They recognise how strengths and achievements contribute to identities. They identify how emotional responses impact on others&rsquo; feelings. They examine messages related to health decisions and describe how to keep themselves and others healthy, safe and physically active. They identify areas where they can be active and how the body reacts to different physical activities.
+Students demonstrate positive ways to interact with others. They select and apply strategies to keep themselves healthy and safe and are able to ask for help with tasks or problems. They demonstrate fundamental movement skills in a variety of movement sequences and situations and test alternatives to solve movement challenges. They perform movement sequences that incorporate the elements of movement.<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,,11792,,
+ee7fbc6a-05bf-452e-86b2-22c6fd558473,d17c709f-b66b-4127-a5bc-5fdb37c5e4aa,"Moving our body","Moving our body<br/>Subject: P",1,,,,0,null,6c3229d9-79b5-4668-8d1c-3f5ef97eb0bb,11620,,
+171d7258-a639-45a6-aaab-ab12b661bb9d,d2fc84db-d789-440b-bb0e-12320e669315,"Movement and Physical Activity","<br/>Education Level: 8<br/>Subject: P",1,,,,0,null,f54cce28-8cc6-4de4-a4b2-d12f045e73a8,11996,,
+9242ee5a-461a-4f45-961c-15c7a4b89ff7,dadf4163-274e-4ab0-8430-c2142b52c7fe,"Years 3 and 4 Achievement Standard","By the end of Year 4, students recognise strategies for managing change. They identify influences that strengthen identities. They investigate how emotional responses vary and understand how to interact positively with others in a variety of situations. Students interpret health messages and discuss the influences on healthy and safe choices. They understand the benefits of being healthy and physically active. They describe the connections they have to their community and identify local resources to support their health, wellbeing, safety and physical activity.
+Students apply strategies for working cooperatively and apply rules fairly. They use decision-making and problem-solving skills to select and demonstrate strategies that help them stay safe, healthy and active. They refine fundamental movement skills and apply movement concepts and strategies in a variety of physical activities and to solve movement challenges. They create and perform movement sequences using fundamental movement skills and the elements of movement.<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,,11892,,
+2a5be8e0-7af9-4494-8cfa-0e0629e0ba5e,dd10a964-fa7b-4a39-bbfb-dfd5b7d01d7c,"Understanding movement","Understanding movement<br/>Education Level: 4<br/>Subject: P",1,,,,0,null,82592328-a8ea-47af-917c-bec0adaaee80,11826,,
+8d002c4c-2226-4b1f-9260-e480390b796a,def0beed-9246-456f-99b6-3904efb9fe53,"Being healthy, safe and active","Being healthy, safe and active<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,8b7b926f-e620-4b97-9dac-f2e5cfa40c55,12152,,
+6078736e-6e90-4cb4-bf1a-da1b4ecb809e,e7619e60-1525-4096-aa9c-16c60f56710f,"Contributing to healthy and active communities","Contributing to healthy and active communities<br/>Education Level: 2<br/>Subject: P",1,,,,0,null,48b09732-b420-4fdc-b918-c92b635bdf88,11777,,
+5dcefb8b-112d-48e3-a878-e23608f0b53f,eb0136cb-f5a3-49dd-9490-73767da1453e,"Understanding movement","Understanding movement<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,82592328-a8ea-47af-917c-bec0adaaee80,12134,,
+,eb023574-1a0c-4f39-9ed1-8dfd0f89367e,"Rhythmic and expressive movement activities","focuses on how movement can be composed and performed in response to stimuli such as equipment, beats and sounds, images, words or themes.
+It is expected that all students at appropriate intervals across the continuum of learning from Foundation to Year 10 will participate in the following:
+
+creative movement
+movement exploration
+dance styles and dance elements.
+
+Schools could also offer the following activities if they have access to specialised facilities and equipment and relevant teacher expertise:
+
+circus skills
+rhythmic gymnastics
+educational gymnastics
+tai chi, yoga.<br/>Subject: P",1,,,,0,null,,11697,,
+,ecf580d5-b334-4d39-bf1e-8fe22d187ee5,"Relationships and sexuality","addresses physical, social and emotional changes that occur over time and the significant role relationships and sexuality play in these changes. The content supports students to develop knowledge, understanding and skills that will help them to establish and manage respectful relationships. It also supports them to develop positive practices in relation to their reproductive and sexual health and the development of their identities. In doing so, students will gain an understanding of the factors that influence gender and sexual identities.
+During Foundation to Year 2, students will learn about:
+
+parts of the body and how the body changes as they grow
+people who are important to them
+strategies for relating to and interacting with others
+assertive behaviour and standing up for themselves.
+
+It is expected that all students at appropriate intervals across the continuum of learning from Year 3 to Year 10 will learn about the following:
+
+people who are important to them
+strategies for relating to and interacting with others
+assertive behaviour and standing up for themselves
+establishing and managing changing relationships (offline and online)
+bullying, harassment, discrimination and violence (including discrimination based on race, gender and sexuality)
+strategies for dealing with relationships when there is an imbalance of power (including seeking help or leaving the relationship)
+puberty and how the body changes over time
+managing the physical, social and emotional changes that occur during puberty
+reproduction and sexual health
+practices that support reproductive and sexual health (contraception, negotiating consent, and prevention of sexually transmitted infections and blood-borne viruses)
+changing identities and the factors that influence them (including personal, cultural, gender and sexual identities)
+celebrating and respecting difference and diversity in individuals and communities.<br/>Subject: P",1,,,,0,null,,11696,,
+76eeced3-8580-4bf6-addd-5e5207ba4bbd,edb8c973-5952-49de-8e1e-461c44b83d4b,"Years 9 and 10 Achievement Standard","By the end of Year 10, students critically analyse contextual factors that influence identities, relationships, decisions and behaviours. They analyse the impact attitudes and beliefs about diversity have on community connection and wellbeing. They evaluate the outcomes of emotional responses to different situations. Students access, synthesise and apply health information from credible sources to propose and justify responses to health situations. Students propose and evaluate interventions to improve fitness and physical activity levels in their communities. They examine the role physical activity has played historically in defining cultures and cultural identities.
+Students demonstrate leadership, fair play and cooperation across a range of movement and health contexts. They apply decision-making and problem-solving skills when taking action to enhance their own and others&rsquo; health, safety and wellbeing. They apply and transfer movement concepts and strategies to new and challenging movement situations. They apply criteria to make judgements about and refine their own and others&rsquo; specialised movement skills and movement performances. They work collaboratively to design and apply solutions to movement challenges.<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,,12206,,
+6bdb6afa-5a7b-4ffb-bfea-73de96a04e93,ee7fbc6a-05bf-452e-86b2-22c6fd558473,"Movement and Physical Activity","<br/>Subject: P",1,,,,0,null,f54cce28-8cc6-4de4-a4b2-d12f045e73a8,11604,,
+,f54cce28-8cc6-4de4-a4b2-d12f045e73a8,"Movement and Physical Activity","Movement and Physical Activity<br/>Education Level: 10<br/>Subject: P",1,,,,0,null,"ee7fbc6a-05bf-452e-86b2-22c6fd558473,297b31d2-dba6-488e-bc43-69c8a9a7d3e5,2a5be8e0-7af9-4494-8cfa-0e0629e0ba5e,8cd7bef0-e6e0-43bb-8e7e-779e82863a70,d2fc84db-d789-440b-bb0e-12320e669315,5dcefb8b-112d-48e3-a878-e23608f0b53f",11688,,

@@ -1,0 +1,772 @@
+Parent ID number,ID number,Short name,Description,Description format,Scale values,Scale configuration,Rule type (optional),Rule outcome (optional),Rule config (optional),Cross-referenced competency ID numbers,Exported ID (optional),Is framework,Taxonomy
+,ISCED-F 2013,International Standard Classification of Education: Fields of Education and Training 2013,"<p></p><p><b>ISCED</b> is the reference international classification for 
+organising education programmes and related qualifications by levels and
+ fields. <b>ISCED Fields of Education and Training 2013</b> - is a classification
+ of fields of education, which accompanies ISCED 2011 (levels of education). It will be 
+implemented in EU data collections from 2016.
+ISCED-F 2013 contains 11 broad fields (2 digits), 29 narrow fields (3 
+digits) and about 80 detailed fields (4 digits). See http://ec.europa.eu/eurostat/statistics-explained/index.php/International_Standard_Classification_of_Education_(ISCED) for more information.<br /></p><br />",1,"Missing,Incomplete,Unacceptable,Acceptable,Good,Excellent","[{""scaleid"":""731""},{""id"":1,""scaledefault"":1,""proficient"":0},{""id"":4,""scaledefault"":0,""proficient"":1},{""id"":5,""scaledefault"":0,""proficient"":1},{""id"":6,""scaledefault"":0,""proficient"":1}]",,,,,,1,"domain,domain,domain,competency"
+,ISCED-F 00,00 Generic programmes and qualifications,"<p></p><div>Generic programmes and qualifications are those providing fundamental and personal skills education  which  cover  a  broad  range  of  subjects  and do  not  emphasise  or  specialise  in  a particular broad or narrow field.<br /><br />This broad field should not be used as a residual category. Programmes and qualifications with a specific</div><div>subject emphasis should be classified in broad fields 01 to 10. In particular, education at the tertiary level should only by way of exception be classified here. </div><br />",1,,,,0,null,,2,,
+ISCED-F 00,ISCED-F 000,000 Generic programmes and qualifications not further defined ,,,,,,,,,,,
+ISCED-F 000,ISCED-F 0000,0000 Generic programmes and qualifications not further defined ,,,,,,,,,,,
+ISCED-F 00,ISCED-F 001,001 Basic programmes and qualifications,,1,,,,0,null,,3,,
+ISCED-F 001,ISCED-F 0011,0011 Basic programmes and qualifications,"<p></p><div>Basic   programmes   and   qualifications are   designed   to   provide   participants   with fundamental skills in reading, writing and arithmetic along with an elementary understanding of other subjects such as history, geography, natural science, social science, art and music, and in some cases religious instruction. These programmes and qualifications are normally offered at primary and lower secondary levels. Broad, non-specialised programmes at upper secondary level are also classified here even if there is some concentration on, for example, humanities,  social  science,  natural  science  etc.  Vocational  programmes  and  qualifications </div><div>are included here only by way of exception.<br /><br />Programmes and qualifications with the following main subject content are classified here: </div><div><br /><ul><li>Basic programmes and qualifications </li><li>Broad, generic (non-specialised) programmes and qualifications </li><li>General programmes and qualifications with no specific subject emphasis </li><li>Programmes and qualifications at primary level </li></ul></div><div><i>Inclusions:</i> <br />Basic  programmes  and  qualifications at  upper  secondary  level  (in  some  countries  at  lower secondary level) with some emphasis on e.g. humanities, social sciences or natural sciences but  still  covering  other  fields  of  knowledge  are  included  in  this  detailed  field.  In  some countries such programmes or qualifications are offered on a modular basis and should also be classified here. </div><div><br /><i>Exclusions:  </i></div><div>Programmes  that  are  considered  as  general  in  the  programme  orientation  sense  (non-vocational) but have a clear emphasis on a detailed, narrow or broad field are excluded from this  detailed  field  and  included  in  one  of  the  broad  fields  01-10,  depending  on  the  subject covered. </div><br />",1,,,,0,null,,4,,
+ISCED-F 00,ISCED-F 002,002 Literacy and numeracy,,1,,,,0,null,,5,,
+ISCED-F 002,ISCED-F 0021,0021 Literacy and numeracy,"<p></p><div><b>Literacy  and  numeracy</b> are  programmes  or  qualifications  arranged  mainly  for adults, designed to teach fundamental skills in reading, writing and arithmetic. The typical age range of  participants  can  be  used  to  distinguish  between detailed  field  0011  ‘Basic  programmes and qualifications’ and this detailed field.  </div><div><br />Programmes and qualifications with the following main content are classified here: </div><ul><li>Basic remedial programmes for youth or adults </li><li>Literacy </li><li>Numeracy </li></ul><p><br /></p>",1,,,,0,null,,6,,
+ISCED-F 00,ISCED-F 003,003 Personal skills,,1,,,,0,null,,7,,
+ISCED-F 003,ISCED-F 0031,0031 Personal skills,"<p></p><div><b>Personal skills</b> are defined by reference to the effects on the individual’s capacity (mental, social etc.). This detailed field covers personal skills programmes not included in 0011 ‘Basic programmes  and  qualifications’  or  0021  ‘Literacy  and  numeracy’,  giving  key  competencies and transferable skills.  </div><div><br />Programmes and qualifications with the following main content are classified here: </div><ul><li>Argumentation and presentation  </li><li>Assertiveness training </li><li>Communication skills </li><li>Co-operation </li><li>Development of behavioural capacities </li><li>Development of mental skills </li><li>Job-seeking programmes </li><li>Parenting courses </li><li>Public speaking </li><li>Self-esteem skills </li><li>Social competence </li><li>Time management</li></ul><p></p><div><i>Inclusions:  </i></div><div>Education and training in <i>leadership</i> in the context of <i>personal development</i> is included here. </div><div><br />Education  and  training  related  to  the <i>work  place</i> or  to <i>work assignments</i> is  included  in  this detailed  field  if  it  has  more  to  do  with  personal  development  than  work  development. Personal skills courses can be taught at the workplace, but still be classified here based on their content. </div><div><br />Programmes for people with special needs on how to <i>cope with their daily life</i> are included here. </div><br /><div><i>Exclusions:  </i></div><div>Study of leadership in the context of management is excluded from this group and included in detailed field 0413 ‘Management and administration’. </div><br />",1,,,,0,null,,8,,
+ISCED-F 00,ISCED-F 009,009 Generic programmes and qualifications not elsewhere classified ,,,,,,,,,,,
+ISCED-F 009,ISCED-F 0099,0099 Generic programmes and qualifications not elsewhere classified ,,,,,,,,,,,
+,ISCED-F 01,01 Education,,1,,,,0,null,,1,,
+ISCED-F 01,ISCED-F 011,011 Education,,1,,,,0,null,,9,,
+ISCED-F 011,ISCED-F 0110,0110 Education not further defined,,,,,,,,,,,
+ISCED-F 011,ISCED-F 0111,0111 Education science,"<p></p><div><b>Education  science</b> is  the  study  of  the  learning  process  and  the  theories,  methods  and techniques of imparting knowledge to others.  </div><div><br />Programmes and qualifications with the following main content are classified here: </div><ul><li>Curriculum studies </li><li>Didactics </li><li>Educational assessment, testing and measurement </li><li>Educational evaluation and research Paedagogical sciences</li></ul><p></p><div><i>Exclusions:  </i></div><div>Teacher training programmes which combine education science with the practice of teaching are  excluded  from  this  detailed  field  and  included in  one  of  the  detailed  fields  for  teacher training (0112-0114). </div><br />",1,,,,0,null,,10,,
+ISCED-F 011,ISCED-F 0112,0112 Training for pre-school teachers,"<p></p><div><b>Training  for  pre-school  teachers</b> is  the  study  of  the  theories,  methods  and  practice of teaching  very  young  children  up  to  7  years  of  age  within  formal  school  settings  at  pre-primary or early childhood educational development levels.  </div><div><br />Programmes and qualifications with the following main content are classified here: </div><ul><li>Early childhood teaching (within formal school settings) </li><li>Pre-primary teacher training</li></ul><p></p><div><i>Exclusions:  </i></div><div>Training  in  caring  for  children  outside  formal  school  settings  is  excluded  from  this  detailed field and included in detailed field 0922 “Child care and youth services.” </div><br />",1,,,,0,null,,11,,
+ISCED-F 011,ISCED-F 0113,0113 Teacher training without subject specialisation ,"<p></p><div><b>Training for teachers without subject specialisation</b> is the study of the theories, methods and  practice  of  providing  children  between  approximately  5  and  15  years  of  age  with  the fundamental   skills   in   reading,   writing   and   mathematics   along   with   an   elementary understanding  of  other  subjects  such  as  history,  geography,  social  science  etc  and  laying the  foundation  for  lifelong  learning.  Subject  specialisation  is  stressed  less  than  in  detailed field 0114 ‘Teacher training with subject specialisation’. The study of teaching children with special  needs  is  included  in  this  detailed  field,  likewise  the  study  of  teaching  adults fundamental reading and writing skills and teaching immigrants these types of skills in their home or first language.  </div><div><br />Programmes and qualifications with the following main content are classified here: </div><ul><li>Class teacher training </li><li>Indigenous teacher training </li><li>Primary teaching Teacher training for children with special needs</li></ul><p></p><div><i>Inclusions: </i></div><div>The  study  of <i>teaching  adults  basic  literacy  and numeracy skills</i>  is  included  here. <i>Teacher’s aide (teaching assistant)</i> is also included here. </div><p></p><div><i>Exclusions: </i></div><div>Teacher  training  with  subject  specialisation even  if  intended  for  the  teaching  of  children  in primary  or  lower  secondary  education  is  excluded  from  this  detailed  field  and  included  in detailed field 0114 ‘Teacher training with subject specialisation’. </div><br />",1,,,,0,null,,12,,
+ISCED-F 011,ISCED-F 0114,0114 Teacher training with subject specialisation,"<p></p><div><b>Teacher  training  with  subject  specialisation</b> is  the  study  of  the  theories,  methods  and practice  of  teaching  a  specific  subject,  mostly  at secondary  or  higher  levels  of  education. Programmes and qualifications included in this detailed field often comprise both studies as well as the subject/subjects that are going to be taught.<br /><br /></div><div>Programmes and qualifications with the following main content are classified here: </div><ul><li>Teacher training−arts and crafts  </li><li>Teacher training−commercial subjects  </li><li>Teacher training−music </li><li>Teacher training−nursing </li><li>Teacher training−physical training </li><li>Teacher training – second languages </li><li>Teacher training−specific theoretical subjects, e.g. English, mathematics, history </li><li>Teacher training−technical subjects </li><li>Teacher training – vocational subjects </li><li>Training of driving instructors </li><li>Training of trainers  </li></ul><p></p><div><i>Inclusions: </i></div><div>Teacher training  courses  for  university  teachers,  instructors  of  work  place  and  working  life skills and in practical and artistic subjects are included here.<br /><br /></div><div><i>Exclusions: </i></div><div>Training  of sports  trainers is  excluded  from  this  detailed  field  and  included in  detailed  field 1014 ‘Sports’. </div><br />",1,,,,0,null,,13,,
+ISCED-F 011,ISCED-F 0119,0119 Education not elsewhere classified ,,,,,,,,,,,
+ISCED-F 01,ISCED-F 018,018 Inter-disciplinary programmes and qualifications involving education,,1,,,,0,null,,14,,
+ISCED-F 018,ISCED-F 0188,0188 Inter-disciplinary programmes and qualifications involving education,<p></p><div><i>Inter-disciplinary programmes and qualifications</i> to which the greatest intended learning time is devoted to education are classified here. </div><br />,1,,,,0,null,,15,,
+,ISCED-F 02,02 Arts and Humanities,,1,,,,0,null,,16,,
+ISCED-F 02,ISCED-F 020,020 Arts and humanities not further defined ,,,,,,,,,,,
+ISCED-F 020,ISCED-F 0200,0200 Arts and humanities not further defined ,,,,,,,,,,,
+ISCED-F 02,ISCED-F 021,021 Arts,,1,,,,0,null,,17,,
+ISCED-F 021,ISCED-F 0210,0210 Arts not further defined,,,,,,,,,,,
+ISCED-F 021,ISCED-F 0211,0211 Audio-visual techniques and media production,"<p></p><div><b>Audio-visual  techniques  and  media  production</b> is  the  study  of  techniques  and  skills  to produce  books  or  newspapers,  radio  or  TV  production,  film  or  video  production,  recorded music  production  and  graphic  reproduction.  It  includes  programmes  and  qualifications  in methods  of  colour  reproduction,  photography  and  computer  graphics.  Study  of  combining pictures, words and decorations in the production of books, magazines, posters, adverts etc. is also included.  </div><div><br />Programmes and qualifications with the following main content are classified here: </div><ul><li>Animation </li><li>Bookbinding </li><li>Camera operating </li><li>Compositing (printing) </li><li>Computer game production </li><li>Computer type-setting </li><li>Film and video production </li><li>Graphic design </li><li>Graphic reproduction </li><li>Illustration </li><li>Interactive media design </li><li>Media techniques </li><li>Multimedia production  </li><li>Photography </li><li>Pre-press operations </li><li>Print finishing and binding </li><li>Printing </li><li>Publishing design, lay-out </li><li>Radio and TV production </li><li>Recorded music production </li><li>Sound techniques Type-setting</li></ul><p></p><div><br /></div><div><i>Inclusions:  </i></div><div>Desktop publishing and lay-out are included here.<br /><br /></div><div><i>Exclusions:  </i></div><div>Programmes  and  qualifications  in  the  use  of <i>specific  software  applications</i> for  desktop publishing  and  website  development  are  excluded  from  this  detailed  field  and  included  in detailed field 0611 ‘Computer use”.<br /><br /></div><div>Study  of journalism (wording  and  content  of  messages)  is  excluded  from this  detailed  field and included in detailed field 0321 ‘Journalism and reporting’. </div><br />",1,,,,0,null,,18,,
+ISCED-F 021,ISCED-F 0212,"0212 Fashion, interior and industrial design","<p></p><div><b>Fashion, interior and industrial design</b> is the study of creatively combining line, form and fabric in designing and constructing e.g. fashion garments, industrial products and interiors.  </div><div><br />Programmes and qualifications with the following main content are classified here: </div><ul><li>Costume design </li><li>Design of industrial products </li><li>Fashion design  </li><li>Interior architecture  </li><li>Interior design </li><li>Stage designing </li><li>Window dressing </li></ul><p></p><div><i>Exclusions:  </i></div><div>Study  of <i>Building  design</i> is  excluded  from  this  detailed  field  and  included in  detailed  field 0731 ‘Architecture and town planning’.  </div><div><br />Study of <i>Industrial design</i> is excluded from this detailed field if emphasis is given to technical subjects  and  not  to  artistic  design,  and  included in  the  appropriate  detailed field  under  071 ‘Engineering and engineering trades’.   </div><div><br /><i>Publishing  design</i> and <i>graphic  design</i> are  excluded  from  this  detailed  field  and  included in detailed field 0211 ‘Audio-visual techniques and media production’.   </div><br />",1,,,,0,null,,19,,
+ISCED-F 021,ISCED-F 0213,0213 Fine arts,"<p></p><div><b>Fine  arts</b> is  the  study  of  visual  forms  of  creative  expression,  dealing  with  theory,  history, techniques, performance and production in fine arts.  </div><div><br />Programmes and qualifications with the following main content are classified here: </div><ul><li>Art theory </li><li>Calligraphy </li><li>Etching </li><li>Fine art printmaking </li><li>History of art </li><li>Painting  </li><li>Philosophy of art </li><li>Sculpture</li></ul><p></p><div><i>Exclusions:  </i></div><div>Training in <i>ceramics, pottery etc.</i> is excluded from this detailed field and included in detailed field 0214 ‘Handicrafts’. </div><div><br /><i>Study of architecture</i> is excluded from this detailed field and included in  detailed field 0731 ‘Architecture and town planning’. </div><div><br /><i>Teacher training</i> in arts is excluded from this detailed field and included in detailed field 0114 ‘Teacher training with subject specialisation’. </div>",1,,,,0,null,,20,,
+ISCED-F 021,ISCED-F 0214,0214 Handicrafts,"<p></p><div><b>Handicrafts</b> is  the  study  of  techniques  and  skills  in  a  chosen  craft,  such  as  jewellery, pottery, weaving, woodcarving etc.   </div><div><br />Programmes and qualifications with the following main content are classified here: </div><ul><li>Ceramics </li><li>Crafts, folk arts and artisan </li><li>Decorative metal crafts </li><li>Indigenous crafts </li><li>Embroidery  </li><li>Floristry (flower arranging)   </li><li>Glass arts and craft </li><li>Goldsmithing </li><li>Jewellery </li><li>Making of musical instruments (not industrial) </li><li>Musical instruments (repairing and tuning) </li><li>Silversmithing </li><li>Stone carving (craft) </li><li>Weaving (craft) </li><li>Woodcarving </li></ul><p></p><div><i>Exclusions:  </i></div><div>Study  of <i>industrial  (large  scaled  mechanised)  production</i> of  pottery,  woven  materials, embroidery  etc.  is  excluded  from  this  field  and  included  in  one  of  the  detailed  fields  under broad field 07 ‘Engineering, manufacturing and construction’. </div>",1,,,,0,null,,21,,
+ISCED-F 021,ISCED-F 0215,0215 Music and performing arts,"<p></p><div><b>Music  and  performing  arts</b> is  the  study  of  the  principles  and  techniques  associated  with performance involving music, speech, movement, mime, characterisation, improvisation and stage craft.  </div><div><br />Programmes and qualifications with the following main content are classified here: </div><ul><li>Acting and directing </li><li>Ballet  </li><li>Choreography </li><li>Circus </li><li>Composition (music) </li><li>Conducting (music) </li><li>Creative and performance art </li><li>Dance  </li><li>Drama </li><li>History of film and theatre </li><li>History of music </li><li>Music </li><li>Music conducting </li><li>Musicology </li><li>Theatre/Theatre sciences</li></ul><p></p><div><i>Inclusions:  </i></div><div>Study of music and performing arts history and theory is included here.<br /><br /></div><div><i>Exclusions:  </i></div><div><i>Teacher training</i> in music and other performing arts is excluded from this detailed field and included in detailed field 0114 ‘Teacher training with subject specialisation’. </div><br />",1,,,,0,null,,22,,
+ISCED-F 021,ISCED-F 0219,0219 Arts not elsewhere classified,,,,,,,,,,,
+ISCED-F 02,ISCED-F 022,022 Humanities (except languages),,1,,,,0,null,,23,,
+ISCED-F 022,ISCED-F 0220,0220 Humanities (except languages) not further defined ,,,,,,,,,,,
+ISCED-F 022,ISCED-F 0221,0221 Religion and theology,"<p></p><div><b>Religion and theology</b> is the study of religious beliefs, concepts, symbols, expressions and texts of spirituality.  </div><div><br />Programmes and qualifications with the following main content are classified here: </div><ul><li>Religious history </li><li>Study of sacred books </li><li>Study of different religions </li><li>Theology</li></ul><p></p><div><i>Inclusions:  </i></div><div>Included in this detailed field are programmes for children and young people, usually given in religious schools or seminars, in monasteries etc, <i>aiming to develop an interest in the tenets of  their  religion</i> and  sufficient  familiarity  with  its  philosophy  to assist  in  the  propagation  of their faith.<br /><br /></div><div><i>Exclusions:  </i></div><div><i>Basic  programmes  given  in  religious  schools</i>,  seminars  etc.  containing  religious  instruction but not emphasising it or leading to a religious vocation, are excluded from this detailed field and included in 0011 ‘Basic programmes and qualifications’. <i>Islamic sharia</i> programmes and qualifications are excluded from this detailed field and included in detailed field 0421 ‘Law’.  </div>",1,,,,0,null,,24,,
+ISCED-F 022,ISCED-F 0222,0222 History and archaeology,"<p></p><div><b>History</b> is   the   study   of   past   events,   especially   the   political,   social   and   economic development  of  a  country,  a  continent  or  the  world. History  of  medicine  is  classified  here, likewise  the  study  of  history  of  science  and  ideas. <b>Archaeology</b> is  the  study  of  ancient civilisations by scientific analysis of what is found in the ground.  </div><p></p><div>Programmes and qualifications with the following main content are classified here: </div><ul><li>Archaeology </li><li>Cultural history </li><li>Folklore studies </li><li>History </li><li>History of literature </li><li>History of medicine </li><li>History of science and ideas </li><li>History of technology</li></ul><p></p><div><i>Inclusions: </i></div><div><i>Restoration</i> and <i>preservation</i> of artistic heritage are included here.<br /><br /></div><div><i>Exclusions:  </i></div><div>Study of <i>literature combined with study of a specific language</i> is excluded from this detailed field and included in detailed field 0232 ‘Literature and linguistics’. </div><div><br />Study of <i>classical languages</i> (Latin etc.) is excluded from this detailed field and included in detailed field 0231 ‘Language acquisition’. </div><div><br />Study of <i>History of art</i> is excluded from this detailed field and included in detailed field 0213 ‘Fine arts’.<br /><br /></div><div>Study of <i>Music and performing arts history</i> is excluded from this detailed field and included in detailed field 0215 ‘Music and performing arts’. </div><div><br />Study  of<i> Economic  history/history  of  economics</i> is  excluded  from  this  detailed  field  and included in detailed field 0311 ‘Economics’. </div>",1,,,,0,null,,25,,
+ISCED-F 022,ISCED-F 0223,0223 Philosophy and ethics,"<p></p><div><b>Philosophy and ethics</b> is the study of philosophy, ethics and related subjects dealing with the conception of life.  </div><div><br />Programmes and qualifications with the following main content are classified here: </div><ul><li>Ethics </li><li>Logic </li><li>Morals </li><li>Philosophy </li></ul><p></p><div><i>Exclusions:  </i></div><div>Study  of <i>religion</i> is  excluded  from  this  detailed  field  and  included in  detailed  field  0221 ‘Religion’.<br /><br /></div><div>Study  of <i>Philosophy  of  arts</i> is  excluded  from  this  detailed  field  and  is  included  in  detailed field 0213 ‘Fine arts'. </div>",1,,,,0,null,,26,,
+ISCED-F 022,ISCED-F 0229,0229 Humanities (except languages) not elsewhere classified ,,,,,,,,,,,
+ISCED-F 02,ISCED-F 023,023 Languages,,1,,,,0,null,,27,,
+ISCED-F 023,ISCED-F 0230,0230 Languages not further defined ,,,,,,,,,,,
+ISCED-F 023,ISCED-F 0231,0231 Language acquisition,"<p></p><div><b>Language acquisition</b> is the study of the structure and composition of languages taught as second or foreign languages (i.e. that are intended for non-native or non-fluent speakers of the language). It includes the study of related cultures, literature, linguistics and phonetics if related  to  the  specific  language  being  acquired  and forms  part  of  the  same  programme  or qualification.  Classical  or  dead  languages  are  included  here  as  it  is  assumed  there  are  no native  speakers  of the  language  and  hence  the  manner  of  teaching  and  the  content  of the curriculum are more similar to the teaching of foreign languages. </div><p></p><div>Programmes and qualifications with the following main content are classified here:  </div><ul><li>Classical languages </li><li>Exogenous languages  </li><li>Foreign languages  </li><li>Interpretation </li><li>Phonetics  </li><li>Second languages, for example English as a second language </li><li>Sign language  </li><li>Sign language interpreting </li><li>Translation </li></ul><p></p><div><i>Inclusions: </i></div><div><i>Language and linguistics studies</i> are included here if the linguistics are related to a specific language  or  languages  being  acquired  and  forming  part  of  the  same  programme  or qualification. Translation and interpretation are included here.<br /><br /></div><div><i>Exclusions: </i></div><div>The study of the <i>mother tongue</i> or <i>first language</i> (i.e. that are intended for native, fluent or competent speakers of the language), even if this language is not a national language of the country of study (e.g. programmes for immigrants learning their mother tongue) are excluded from this detailed field and included in detailed field 0232 ‘Literature and linguistics’.  </div>",1,,,,0,null,,28,,
+ISCED-F 023,ISCED-F 0232,0232 Literature and linguistics,"<p></p><div><b>Literature  and  linguistics</b> is  here  defined as  the  study  of  language(s)  intended for  native, fluent or competent speakers of the language. It includes the study of related literature and linguistics and may or may not include the structure and composition of the language.<br /><br /></div><div>Programmes and qualifications with the following main content are classified here:  </div><ul><li>Creative writing  </li><li>First language  </li><li>Indigenous languages </li><li>Linguistics  </li><li>Literature  </li><li>“Mother tongue” languages  </li><li>Native first languages  </li></ul><p></p><div><i>Inclusions: </i></div><div>Languages <i>taught  as  the  first  language  (“mother  tongue”)</i>,  even  if  the  language  is  not the national language of the country of study (e.g. programmes for immigrants in their home or first language) are included here. Local and regional languages are included here if they are  first  languages  spoken  by  a  significant  minority  in  the  country  and  are  intended  for  at least competent speakers of the language.<br /><br /></div><div>Study  of <i>comparative  literature</i> is  included  here. Study  of <i>general  linguistics</i> (not  related  to the  study  of  a  particular  language)  is  included  here.  Study  of literature  in  general (not combined with study of a special language) is included here. </div><p></p><div><i>Exclusions: </i></div><div>Language  programmes  are  excluded  from  this  detailed field  if  the  language  is <i>taught  as  a foreign or a second language</i>, and are then included in 0231 ‘Language acquisition’.<br /><br /></div><div>Programmes  in <i>literacy and  numeracy</i> are  excluded from this  detailed field  and  included in detailed field 0021 ‘Literacy and numeracy’.  </div><div><br />Sign  language  programmes  are  excluded  from  this  detailed  field  and  included  in  detailed field 0231 ‘Language acquisition’. </div>",1,,,,0,null,,29,,
+ISCED-F 023,ISCED-F 0239,0239 Languages not elsewhere classified ,,,,,,,,,,,
+ISCED-F 02,ISCED-F 028,028 Inter-disciplinary programmes and qualifications involving arts and humanities,,1,,,,0,null,,30,,
+ISCED-F 028,ISCED-F 0288,0288 Inter-disciplinary programmes and qualifications involving arts and humanities,<p></p><div>Inter-disciplinary programmes and qualifications to which the greatest intended learning time is devoted to arts and humanities are classified here. </div><br />,1,,,,0,null,,31,,
+ISCED-F 02,ISCED-F 029,029 Arts and humanities not elsewhere classified ,,,,,,,,,,,
+ISCED-F 029,ISCED-F 0299,0299 Arts and humanities not elsewhere classified ,,,,,,,,,,,
+,ISCED-F 03,"03 Social Sciences, Journalism and Information",,1,,,,0,null,,32,,
+ISCED-F 03,ISCED-F 030,"030 Social sciences, journalism and information not further defined ",,,,,,,,,,,
+ISCED-F 030,ISCED-F 0300,"0300 Social sciences, journalism and information not further defined ",,,,,,,,,,,
+ISCED-F 03,ISCED-F 031,031 Social and behavioural sciences,,1,,,,0,null,,33,,
+ISCED-F 031,ISCED-F 0310,0310 Social and behavioural sciences not further defined ,,,,,,,,,,,
+ISCED-F 031,ISCED-F 0311,0311 Economics,"<p></p><div><b>Economics</b> is  the  study  of  economic  policy,  economic  theory  and  economic  decision making.  </div><div><br />Programmes and qualifications with the following main content are classified here: </div><ul><li>Econometrics </li><li>Economic history </li><li>Economics </li><li>Political economics </li></ul><p></p><div><i>Exclusions:  </i></div><div>Study  of <i>economics  where  emphasis  is  given  to  business  studies</i> is  excluded  from  this detailed  field  and  classified  under  041  ‘Business  and  administration’.  Study  of <i>home economics</i> is  excluded  from  this  detailed  field  and  included in  the  detailed  field  1011 ‘Domestic services’.  </div><br />",1,,,,0,null,,34,,
+ISCED-F 031,ISCED-F 0312,0312 Political sciences and civics,<p></p><div><b>Political sciences and civics</b> is the study of government and political principles or practice. The study of the rights and duties of the citizens are included here.  </div><div><br />Programmes and qualifications with the following main content are classified here: </div><ul><li>Civics </li><li>Human rights </li><li>International relations </li><li>Peace and conflict studies </li><li>Political history </li><li>Political science </li><li>Public policy studies </li></ul><p></p><div><i>Exclusions: </i></div><div>Study of <i>political economics</i> is excluded from this detailed field and included in the detailed field 0311 ‘Economics’. </div><br />,1,,,,0,null,,35,,
+ISCED-F 031,ISCED-F 0313,0313 Psychology,"<p></p><div><b>Psychology</b> is  the  study  of  the  human  mind  and  behaviour  as  a result  of  individual differences, experience and environment.  </div><div><br />Programmes and qualifications with the following main content are classified here: </div><ul><li>Cognitive science </li><li>Psychoanalysis </li><li>Psychology </li><li>Psychotherapy </li></ul><p><br /></p>",1,,,,0,null,,36,,
+ISCED-F 031,ISCED-F 0314,0314 Sociology and cultural studies,"<p></p><div><b>Sociology and cultural studies</b> is the study of human beings and the way they behave in groups  and  in  relation  to  society.  The  study  of  ethnology  and  social  anthropology  are included here, likewise the study of human and social geography.  </div><div><br />Programmes and qualifications with the following main content are classified here: </div><ul><li>Criminology </li><li>Cultural geography  </li><li>Cultural studies </li><li>Demography/population studies </li><li>Ethnology </li><li>Gender studies  </li><li>Social anthropology </li><li>Sociology  </li></ul><p></p><div><i>Exclusions:  </i></div><div><i>Social welfare</i> where emphasis is given to practical social work is excluded from this detailed field and included in detailed field 0923 ‘Social work and counselling’. </div><div><br /><i>Physical  geography</i>  is  excluded  from  this  detailed  field  and  included  in  detailed  field  0532 ‘Earth science’. </div>",1,,,,0,null,,37,,
+ISCED-F 031,ISCED-F 0319,0319 Social and behavioural sciences not elsewhere classified ,,,,,,,,,,,
+ISCED-F 03,ISCED-F 032,032 Journalism and information,,1,,,,0,null,,38,,
+ISCED-F 032,ISCED-F 0320,0320 Journalism and information not further defined ,,,,,,,,,,,
+ISCED-F 032,ISCED-F 0321,0321 Journalism and reporting,"<p></p><div><b>Journalism and reporting</b> is the study of the theory and practices of journalism/reporting as part of the field of mass communication. Journalism and reporting is about the wording and content of messages. It comprises news reporting, writing commentaries and feature stories of public interest etc.  </div><div><br />Programmes and qualifications with the following main content are classified here: </div><ul><li>Broadcast journalism </li><li>Editing </li><li>Information (wording and content) </li><li>Journalism </li><li>Mass communication (wording and content) </li><li>News reporting </li></ul><p></p><div><i>Exclusions:  </i></div><div>Study  of <i>techniques  for  mass  communication</i> (e.g.  printing  and  radio/TV  production)  is excluded from this detailed field and included in detailed field 0211 ‘Audio-visual techniques and media production’.<br /><br /></div><div>Study  of <i> lay-out  and  publishing  design</i> is  excluded  from  this  detailed  field  and  included in detailed field 0211 ‘Audio-visual techniques and media production’. <br /><br />Study  of <i>public  relations</i> is  excluded  from  this  detailed  field  and  included in  detailed  field 0414 ‘Marketing and advertising’. </div><br />",1,,,,0,null,,39,,
+ISCED-F 032,ISCED-F 0322,"0322 Library, information and archival studies","<p></p><div>Library,  information  and  archival  studies is  the  study  of  the  methods  of  selecting, acquiring,  organizing  and  storing  collections  of  information,  and  facilitating  the  use  of information. Museum and library studies are included here.  </div><div><br />Programmes and qualifications with the following main content are classified here: </div><ul><li>Archival sciences </li><li>Curatorial studies </li><li>Documentation </li><li>Information science </li><li>Library studies </li><li>Museum documentation </li><li>Museum studies </li><li>Museology</li></ul><p></p><div><i>Exclusions:  </i></div><div><i>Restoration</i> and<i> preservation</i> of artistic heritage are excluded from this field and included in field 0222 ‘History and archaeology’.  </div>",1,,,,0,null,,40,,
+ISCED-F 032,ISCED-F 0329,0329 Journalism and information not elsewhere classified ,,,,,,,,,,,
+ISCED-F 03,ISCED-F 038,"038 Inter-disciplinary programmes and qualifications involving social sciences, journalism and info",,1,,,,0,null,,41,,
+ISCED-F 038,ISCED-F 0388,"0388 Inter-disciplinary programmes and qualifications involving social sciences, journalism and info","<p></p><div><i>Inter-disciplinary programmes and qualifications</i> to which the greatest intended learning time is devoted to social sciences, journalism and information are classified here.  </div><br />",1,,,,0,null,,42,,
+ISCED-F 03,ISCED-F 039,"039 Social sciences, journalism and information not elsewhere classified ",,,,,,,,,,,
+ISCED-F 039,ISCED-F 0399,"0399 Social sciences, journalism and information not elsewhere classified ",,,,,,,,,,,
+,ISCED-F 04,"04 Business, Administration and Law",,1,,,,0,null,,43,,
+ISCED-F 04,ISCED-F 040,"040 Business, administration and law not further defined ",,,,,,,,,,,
+ISCED-F 040,ISCED-F 0400,"0400 Business, administration and law not further defined ",,,,,,,,,,,
+ISCED-F 04,ISCED-F 041,041 Business and administration,,1,,,,0,null,,50,,
+ISCED-F 041,ISCED-F 0410,0410 Business and administration not further defined ,,,,,,,,,,,
+ISCED-F 041,ISCED-F 0411,0411 Accounting and taxation,"<p><b>Accounting and taxation</b> is the study of maintaining, auditing and recording financial <br />transactions. <br />Programmes and qualifications with the following main content are classified here: <br /></p><ul><li>Accounting </li><li>Auditing </li><li>Bookkeeping </li><li>Tax accounting </li><li>Tax management </li></ul><p><i>Exclusions</i>: <br />Study of tax laws is excluded from this detailed field and included in detailed field 0421 ‘Law’. <br /></p>",1,,,,0,null,,77,,
+ISCED-F 041,ISCED-F 0412,"0412 Finance, banking and insurance","<p><b>Finance, banking and insurance</b> is the study of planning, directing, organizing and controlling financial activities and services. It includes the control and monitoring of the financial resources of organizations, institutions and individuals, and the provision of financial services at the corporate and individual level.</p><p>Programmes and qualifications with the following main content are classified here: <br /></p><ul><li>Bank teller studies </li><li>Banking and finance </li><li>Finance theory </li><li>Insurance </li><li>Investment analysis </li><li>Investments and securities </li><li>Pension insurance </li><li>Social insurance </li><li>Stock-broking</li></ul><p><i>Exclusions</i>: <br />Study of <i>actuarial science</i> is excluded from this detailed field and included <br />in detailed field 0542 ‘Statistics’. <br /></p>",1,,,,0,null,,78,,
+ISCED-F 041,ISCED-F 0413,0413 Management and administration,"<p><b>Management and administration</b> is the study of planning, directing and operating the functions and activities of organizations and institutions. <br /></p><p>Programmes in management also including administration, economics, finance etc. are included here if emphasis is given to management and administration. Programmes and qualifications with the following main content are classified here: <br /></p><ul><li>Administration </li><li>Educational management </li><li>Employment management </li><li>Entrepreneurship </li><li>Health administration </li><li>Logistic management </li><li>Management science </li><li>Office management </li><li>Organizational theory and behaviour </li><li>Personnel administration </li><li>Personnel management </li><li>‘Start your own business’ courses </li><li>Supply change management </li><li>Training management<br /></li></ul><p><i>Inclusions</i>: <br />Study of <i>leadership in the context of management</i> is included here. <br /><br /><i>Exclusions</i>: <br />Training in <i>leadership in the context of personal development</i> is excluded from this detailed field and included in detailed field 0031 ‘Personal skills’. <br />Study of <i>administration in the meaning of office work</i> is excluded from this detailed field and included in detailed field 0415 ‘Secretarial and office work’. <br /></p>",1,,,,0,null,,79,,
+ISCED-F 041,ISCED-F 0414,0414 Marketing and advertising,"<p>Marketing and advertising is the study of promoting the exchange processes of goods and services between organizations and/or individuals, and the study of consumer behaviour and requirements. It includes the study of the role of product development, pricing, distribution, promotion and sales in order to maximise business performance. <br /></p><p>Programmes and qualifications with the following main content are classified here: <br /></p><ul><li>Advertising </li><li>Consumer behaviour </li><li>Market research </li><li>Marketing </li><li>Merchandising </li><li>Public relations </li></ul>",1,,,,0,null,,80,,
+ISCED-F 041,ISCED-F 0415,0415 Secretarial and office work,"<p><b>Secretarial and office work</b> is the study of administrative procedures and practices, office technology and clerical, shorthand and keyboard skills. Specialised secretarial programmes (bilingual, medical, law, accounting etc) are included if the programme has secretarial work as its objective, rather than work as specialised assistants.</p><p>Programmes and qualifications with the following main content are classified here: <br /></p><ul><li>Administrative and secretarial services </li><li>Clerical programmes </li><li>Data entry </li><li>Foreign language secretary programmes </li><li>Keyboard skills </li><li>Legal secretary programmes </li><li>Medical secretary programmes </li><li>Operation of office equipment </li><li>Receptionist training </li><li>Secretarial programmes </li><li>Shorthand </li><li>Switchboard operating </li><li>Typing </li></ul><p><i>Inclusions</i>: <br /><i>Broad secretarial programmes</i> comprising among other things computer courses are included here. </p><p><br /><i>Exclusions</i>: <br />Separate programmes or qualifications in <i>using a specific computer software</i> are excluded from this detailed field and included under detailed field 0611 ‘Computer use”. <br /><i>Office management</i> is excluded from this detailed field and included in detailed field 0413 ‘Management and administration’. <br /><i>Hotel receptionist</i> programmes are excluded from this detailed field and included in detailed field 1013 ‘Hotel, restaurant and catering’. <br /></p>",1,,,,0,null,,81,,
+ISCED-F 041,ISCED-F 0416,0416 Wholesale and retail sales,"<p><b>Wholesale and retail sales</b> is the study of buying and selling goods and services, including stock  management,  pricing practices,  loss  prevention,  sales  systems  and  procedures.  It includes the study of the workings and current trends of the wholesale and retail industries. Selling of buildings and properties is also included.  <br /></p><p>Programmes and qualifications with the following main content are classified here: <br /></p><ul><li>Auctioneering </li><li>Consumer services </li><li>Demonstration techniques </li><li>Purchasing </li><li>Real-estate business </li><li>Retailing </li><li>Stock-keeping </li><li>Ware-housing </li><li>Wholesaling</li></ul><p><br /><i>Inclusions</i>:  <br />Study of buying and selling buildings and properties is included here. <br /></p>",1,,,,0,null,,82,,
+ISCED-F 041,ISCED-F 0417,0417 Work skills ,"<p><b>Work skills</b> is the study of the structure and function of working life. It comprises programmes, mainly given as staff training, related to the working place and to work assignments. <br /></p><p>Programmes and qualifications with the following main content are classified here: <br /></p><ul><li>Clients’ needs </li><li>Company knowledge </li><li>Customer service training </li><li>‘Introduction to work’ courses </li><li>Organization at work </li><li>Quality assurance </li><li>Trade union courses (general) </li><li>Work development </li></ul><p><br /><i>Inclusions</i>: <br /><i>Staff training</i> related to the <i>work place or work assignments</i> is included here. <br /><br /><i>Exclusions</i>: <br />Training related to the work place or work assignments is excluded from this detailed field if it has <i>more to do with personal development</i> than work development and is included in detailed field 0031 ‘Personal skills’. <br /></p><p><i>Staff training</i> which can be classified to any other field is excluded from this detailed field and included in the appropriate field (e.g. quality courses should, if technical, be included in the detailed fields under 071 ‘Engineering and engineering trades’.) <br /></p><p>Programmes in <i>work environment</i> should be included in detailed field 1022 ‘Occupational health and safety’.</p><p>Programmes, mostly at tertiary level, dealing with <i>working life in general</i> in terms of the labour market, the social partners, industrial psychology etc. are excluded from this detailed field and included in the detailed fields under 031 ‘Social and behaviour sciences’. <br /></p>",1,,,,0,null,,83,,
+ISCED-F 041,ISCED-F 0419,0419 Business and administration not elsewhere classified ,,,,,,,,,,,
+ISCED-F 04,ISCED-F 042,042 Law,,1,,,,0,null,,51,,
+ISCED-F 042,ISCED-F 0421,0421 Law,"<p><b>Law</b> is the study of the principles and procedures for formally maintaining social order, including training for legal professions such as advocate or training for the judicial bench. <br /></p><p>Programmes and qualifications with the following main content are classified here: <br /><br /></p><ul><li>Commercial law </li><li>Criminal justice studies </li><li>History of law </li><li>Indigenous law </li><li>Jurisprudence </li><li>Labour law </li><li>Legal practice </li><li>Notary/Notary’s practise </li><li>Paralegal studies </li></ul><p><br /><i>Exclusions</i>: <br /><i>Court reporting programmes</i> and <i>legal secretary programmes</i> are excluded from this detailed field and included in detailed field 0415 “Secretarial and office work”. <br /></p><p><i>Police studies</i> are excluded from this detailed field and included in detailed field 1032 ‘Protection of persons and property’. <br /></p>",1,,,,0,null,,84,,
+ISCED-F 04,ISCED-F 048,"048 Inter-disciplinary programmes and qualifications involving business, administration and law",,1,,,,0,null,,52,,
+ISCED-F 048,ISCED-F 0488,"0488 Inter-disciplinary programmes and qualifications involving business, administration and law","<p><i>Inter-disciplinary programmes and qualifications</i> to which the greatest intended learning time is devoted to business, administration and law are classified here. <br /></p><p><i>Inclusions</i>: <br />Study of <i>business and administration</i> where emphasis is not given towards any of the detailed fields under 041 is included in this field. <br /></p><p><i>Exclusions</i>: <br /><i>Business programmes</i> where emphasis is given to any of the detailed fields under 041 ‘Business and administration’ (management, administration, marketing etc.) should be classified according to the specialisation. <br /></p>",1,,,,0,null,,85,,
+ISCED-F 04,ISCED-F 049,"049 Business, administration and law not elsewhere classified ",,,,,,,,,,,
+ISCED-F 049,ISCED-F 0499,"0499 Business, administration and law not elsewhere classified ",,,,,,,,,,,
+,ISCED-F 05,"05 Natural Sciences, Mathematics and Statistics",,1,,,,0,null,,44,,
+ISCED-F 05,ISCED-F 050,"050 Natural sciences, mathematics and statistics not further defined ",,,,,,,,,,,
+ISCED-F 050,ISCED-F 0500,"0500 Natural sciences, mathematics and statistics not further defined ",,,,,,,,,,,
+ISCED-F 05,ISCED-F 051,051 Biological and related sciences,,1,,,,0,null,,53,,
+ISCED-F 051,ISCED-F 0510,0510 Biological and related sciences not further defined ,,,,,,,,,,,
+ISCED-F 051,ISCED-F 0511,0511 Biology,"<p><b>Biology</b> is the study of the structure, function, reproduction, growth, evolution and behaviour of all living organisms.</p><p>Programmes and qualifications with the following main content are classified here: <br /></p><ul><li>Biology </li><li>Botany </li><li>Cell biology </li><li>Entomology </li><li>Genetics </li><li>Mycology </li><li>Zoology </li></ul><p><i>Exclusions</i>: <br />Study of <i>environmental sciences</i>, which is the study of the relation between living organisms and the environment, is excluded from this detailed field and included in detailed field 0521 ‘Environmental sciences’. <br />Study of <i>chemical processes in living organisms</i> (biochemistry, toxicology, pharmacology etc.) is excluded from this detailed field and included in detailed field 0512 ‘Biochemistry’. <br /></p>",1,,,,0,null,,86,,
+ISCED-F 051,ISCED-F 0512,0512 Biochemistry,"<p><b>Biochemistry</b>, sometimes called Biological chemistry, is the study of the chemistry of living organisms, including but not limited to, living matter. <br /><br />Programmes and qualifications with the following main content are classified here: <br /></p><ul><li>Biological chemistry </li><li>Cell technology </li><li>Forensic sciences </li><li>Genetic code (DNA, RNA) studies </li><li>Genetic engineering </li><li>Pharmacology </li><li>Tissue culture technology </li><li>Toxicology </li><li>Virology </li></ul><p><br /><i>Inclusions</i>: <br /><i>Biotechnology</i> is included here. <br /></p>",1,,,,0,null,,87,,
+ISCED-F 051,ISCED-F 0519,0519 Biological and related sciences not elsewhere classified ,,,,,,,,,,,
+ISCED-F 05,ISCED-F 052,052 Environment,,1,,,,0,null,,54,,
+ISCED-F 052,ISCED-F 0520,0520 Environment not further defined,,,,,,,,,,,
+ISCED-F 052,ISCED-F 0521,0521 Environmental sciences,<p><b>Environmental sciences</b> are the study of organisms in relation to one another and to the environment. <br /><br />Programmes and qualifications with the following main content are classified here: <br /></p><ul><li>Ecology </li><li>Environmental science </li></ul><p><br /><i>Exclusions</i>: <br />The study of <i>biology</i> and <i>toxicology</i> are excluded from this detailed field and included under narrow field 051 ‘Biological and related sciences’.<br /></p>,1,,,,0,null,,88,,
+ISCED-F 052,ISCED-F 0522,0522 Natural environments and wildlife ,"<p><b>Natural environments and wildlife</b> is the study of the relationships between living organisms in natural environments in order to protect nature and wildlife. It includes the study of establishing and maintaining national parks in order to preserve their original natural state. <br /><br />Programmes and qualifications with the following main content are classified here: <br /><br /></p><ul><li>National parks and wildlife management </li><li>Nature conservation </li><li>Wildlife</li></ul><p><br /><i>Exclusions</i>: <br />Study of <i>agriculture</i>, <i>horticulture</i> and <i>forestry</i> are excluded from this detailed field and included in some of the detailed fields under 08 ‘Agriculture, forestry, fisheries and veterinary’. <br />Study of <i>hunting and trapping</i> is excluded from this detailed field and included in detailed field 0821 ‘Forestry’. <br /></p>",1,,,,0,null,,89,,
+ISCED-F 052,ISCED-F 0529,0529 Environment not elsewhere classified ,,,,,,,,,,,
+ISCED-F 05,ISCED-F 053,053 Physical sciences,,1,,,,0,null,,55,,
+ISCED-F 053,ISCED-F 0530,0530 Physical sciences not further defined ,,,,,,,,,,,
+ISCED-F 053,ISCED-F 0531,0531 Chemistry,<p><b>Chemistry</b> is the study of substances and their elements and how they react when combined.</p><p>Programmes and qualifications with the following main content are classified here:<br /></p><ul><li>Inorganic chemistry</li><li>Organic chemistry</li><li>Physical chemistry</li></ul><p><i>Exclusions</i>:<br /><i>Biochemistry</i> is excluded from this detailed field and included in detailed field 0512‘Biochemistry’.<br /></p>,1,,,,0,null,,90,,
+ISCED-F 053,ISCED-F 0532,0532 Earth sciences,<p><b>Earth sciences</b> is the study of the composition and structure of earth including the hydrosphere and the atmosphere.<br /><br />Programmes and qualifications with the following main content are classified here:<br /><br /></p><ul><li>Climate research</li><li>Earth science</li><li>Geodesy</li><li>Geography (physical)</li><li>Geology</li><li>Geomatics</li><li>Geospatial technology</li><li>Meteorology</li><li>Oceanography</li><li>Seismology</li></ul><p><br /><i>Exclusions</i>:<br /><br /><i>Social geography</i> is excluded from this detailed field and included in detailed field 0314 ‘Sociology and cultural studies’. <i>Soil science</i> is excluded from this detailed field and included in detailed field 0811 ‘Crop and livestock production’.<br /></p>,1,,,,0,null,,91,,
+ISCED-F 053,ISCED-F 0533,0533 Physics,<p><b>Physics</b> is the study of properties and interactions of matter and energy. It includes the study of astronomy and space science.</p><p>Programmes and qualifications with the following main content are classified here:<br /><br /></p><ul><li>Astronomy</li><li>Astrophysics</li><li>Chemical physics</li><li>Medical physics</li><li>Optics</li><li>Physics</li><li>Space science</li></ul><p><br /><i>Exclusions</i>:<br /><i>Opticians’ practice</i> is excluded from this detailed field and included in detailed field 0914 ‘Medical diagnostic and treatment technology’.<br /></p>,1,,,,0,null,,92,,
+ISCED-F 053,ISCED-F 0539,0539 Physical sciences not elsewhere classified ,,,,,,,,,,,
+ISCED-F 05,ISCED-F 054,054 Mathematics and statistics,,1,,,,0,null,,56,,
+ISCED-F 054,ISCED-F 0540,0540 Mathematics and statistics not further defined ,,,,,,,,,,,
+ISCED-F 054,ISCED-F 0541,0541 Mathematics,"<p><b>Mathematics</b> is the study of abstract deductive systems. It includes algebra, arithmetic, geometry, real and complex analysis and pure and applied mathematics.<br /><br />Programmes and qualifications with the following main content are classified here:<br /><br /></p><ul><li>Algebra</li><li>Geometry</li><li>Mathematics</li><li>Numerical analysis</li><li>Operational research</li></ul>",1,,,,0,null,,93,,
+ISCED-F 054,ISCED-F 0542,0542 Statistics,"<p><b>Statistics</b> is the study of collecting, describing, arranging and analysing numerical data. The study of probability theory and actuarial science is included.<br /><br />Programmes and qualifications with the following main content are classified here:<br /><br /></p><ul><li>Actuarial science</li><li>Probability theory</li><li>Statistics, applied</li><li>Survey design</li><li>Survey sampling</li></ul><p><br /><i>Inclusions</i>:<br />Study of <i>mathematical (theoretical) statistics</i> is included here.<br /><br /><i>Exclusions</i>:<br /><i>Demography/population studies</i> is excluded from this detailed field and included in detailed field 0314 ‘Sociology and cultural studies’.<br /></p>",1,,,,0,null,,94,,
+ISCED-F 054,ISCED-F 0549,0549 Mathematics and statistics not elsewhere classified,,,,,,,,,,,
+ISCED-F 05,ISCED-F 058,058 Inter-disciplinary programmes and qualifications involving mathematics and statistics,,1,,,,0,null,,57,,
+ISCED-F 058,ISCED-F 0588,0588 Inter-disciplinary programmes and qualifications involving mathematics and statistics,"<p><i>Inter-disciplinary or broad programmes and qualifications</i> to which the greatest intended learning time is devoted to natural sciences, mathematics and statistics are classified here.<br /></p>",1,,,,0,null,,95,,
+ISCED-F 05,ISCED-F 059,"059 Natural sciences, mathematics and statistics not elsewhere classified ",,,,,,,,,,,
+ISCED-F 059,ISCED-F 0599,"0599 Natural sciences, mathematics and statistics not elsewhere classified ",,,,,,,,,,,
+,ISCED-F 06,06 Information and Communication Technologies,,1,,,,0,null,,45,,
+ISCED-F 06,ISCED-F 061,061 Information and Communication Technologies,,1,,,,0,null,,58,,
+ISCED-F 061,ISCED-F 0610,0610 Information and Communication Technologies (ICTs) not further defined ,,,,,,,,,,,
+ISCED-F 061,ISCED-F 0611,0611 Computer use,<p><b>Computer use</b> is the study of using computers and computer software and applications for different purposes. These programmes are generally of short duration.</p><p>Programmes and qualifications with the following main content are classified here:<br /></p><ul><li>Computer use</li><li>Use of software for calculating (spread sheets)</li><li>Use of software for data processing</li><li>Use of software for desk top publishing</li><li>Use of software for word processing</li><li>Use of Internet</li></ul><p></p>,1,,,,0,null,,96,,
+ISCED-F 061,ISCED-F 0612,0612 Database and network design and administration,"<p><b>Database and network design and administration</b> is the study of the design, maintenanceand integration of software applications. Computer media applications are included.</p><p>Programmes and qualifications with the following main content are classified here:<br /></p><ul><li>Computer administration and management</li><li>Computer media applications</li><li>Computer network installation and maintenance</li><li>Database administrator studies</li><li>Information technology administration</li><li>Information technology security</li><li>Network administration</li><li>Network design</li><li>Web design</li></ul><p></p>",1,,,,0,null,,97,,
+ISCED-F 061,ISCED-F 0613,0613 Software and applications development and analysis,<p>Software and applications development and analysis is the study of the design and development of computer systems and computing environments.</p><p>Programmes and qualifications with the following main content are classified here:<br /></p><ul><li>Computer programming</li><li>Computer science</li><li>Computer systems analysis</li><li>Computer systems design</li><li>Informatics</li><li>Operating systems</li><li>Programming languages development</li><li>Software development</li><li>Software programming</li></ul><p><i>Exclusions</i>:<br /><i>Computer engineering (hardware)</i> is excluded from this detailed field and included in detailed field 0714 ‘Electronics and automation’.<br />Programmes and qualifications in <i>using computer applications</i> are excluded from this detailed field and included in detailed field 0611 ‘Computer use’. Database and network design and administration is excluded from this detailed field and included in detailed field 0612 ‘Database and network design and administration’.<br /></p>,1,,,,0,null,,98,,
+ISCED-F 061,ISCED-F 0619,0619 Information and Communication Technologies not elsewhere classified,<p>Information technology studies not fitting in the detailed fields are classified here:<br /></p><ul><li>Artificial intelligence</li></ul>,1,,,,0,null,,99,,
+ISCED-F 06,ISCED-F 068,068 Inter-disciplinary programmes and qualifications involving Information and Communication Tech,,1,,,,0,null,,59,,
+ISCED-F 068,ISCED-F 0688,0688 Inter-disciplinary programmes and qualifications involving Information and Communication Tech,<p>Inter-disciplinary programmes and qualifications to which the greatest intended learning time is devoted to information and communication technologies (ICTs) are classified here.<br /></p>,1,,,,0,null,,100,,
+,ISCED-F 07,"07 Engineering, Manufacturing and Construction",,1,,,,0,null,,46,,
+ISCED-F 07,ISCED-F 070,"070 Engineering, manufacturing and construction not further defined ",,,,,,,,,,,
+ISCED-F 070,ISCED-F 0700,"0700 Engineering, manufacturing and construction not further defined ",,,,,,,,,,,
+ISCED-F 07,ISCED-F 071,071 Engineering and engineering trades,,1,,,,0,null,,60,,
+ISCED-F 071,ISCED-F 0710,0710 Engineering and engineering trades not further defined ,,,,,,,,,,,
+ISCED-F 071,ISCED-F 0711,0711 Chemical engineering and processes,"  Chemical engineering 
+  Chemical process engineering 
+  Laboratory assistant programmes 
+  Laboratory technician programmes 
+  Laboratory technology    
+  Oil/gas/petrochemicals processing 
+  Oil refining  
+  Plant and machine operation (processing) 
+  Process technology ",,,,,,,,,,
+ISCED-F 071,ISCED-F 0712,0712 Environmental protection technology,"  Air pollution control 
+  Ecological technology 
+  Energy efficiency 
+  Environmental control 
+  Environmental engineering 
+  Environmental protection technology 
+  Industrial discharge control 
+  Noise pollution control 
+  Recycling 
+  Water pollution control ",,,,,,,,,,
+ISCED-F 071,ISCED-F 0713,0713 Electricity and energy,"Air-conditioning trades (installation and 
+maintenance) 
+  Climate engineering 
+  Electrical appliances repairing 
+  Electrical engineering 
+  Electrical fitting 
+  Electrical power generation 
+  Electrical trades  
+  Energy studies 
+  Gas distribution 
+Heating trades (installation and 
+maintenance) 
+  Nuclear, hydraulic and thermal energy 
+  Power line installation and maintenance  
+  Power production 
+  Refrigeration 
+  Solar energy 
+  Solar power 
+  Wind turbines ",,,,,,,,,,
+ISCED-F 071,ISCED-F 0714,0714 Electronics and automation,"  Automation 
+  Broadcasting electronics 
+  Communication systems 
+  Communications equipment installation   
+   Communications equipment maintenance 
+  Computer engineering 
+  Computer repairing  
+  Control engineering 
+  Data processing technology 
+  Digital technology 
+  Electronic engineering 
+  Electronic equipment servicing 
+  Network technology 
+  Robotics 
+  Telecommunications technology 
+  Television and radio repairing ",,,,,,,,,,
+ISCED-F 071,ISCED-F 0715,0715 Mechanics and metal trades,"  Bicycle production 
+  Bicycle repair 
+  Boilermaking and welding 
+  Gunsmithing 
+  Hydraulics 
+  Locksmithing and safe repairing 
+  Mechanical engineering 
+  Mechanical trades  
+  Metal casting and patternmaking 
+  Metal fitting, turning and machining 
+  Metal trades programmes 
+  Metallurgical engineering 
+  Metallurgical technology 
+  Micromechanics 
+  Precision mechanics 
+  Sheet metal working 
+  Steel production 
+  Tool and die making 
+  Watchmaking
+  Welding ",,,,,,,,,,
+ISCED-F 071,ISCED-F 0716,"0716 Motor vehicles, ships and aircraft","  Aeronautical engineering 
+  Aerospace engineering 
+  Agriculture machinery mechanics 
+  Aircraft engineering 
+  Aircraft maintenance    
+  Automotive electrical systems 
+  Automotive engineering 
+  Avionics 
+  Coachwork 
+  Helicopter construction 
+  Marine construction 
+  Marine engineering 
+  Maritime engineering 
+  Motorcycle engineering 
+  Motorcycle mechanics 
+  Naval engineering 
+  Panel beating 
+  Shipbuilding 
+  Train repair and maintenance 
+  Vehicle and motor engineering 
+  Vehicle building 
+  Vehicle diagnostics 
+  Vehicle electrical systems 
+  Vehicle mechanics 
+  Vehicle painting 
+  Vehicle repairing 
+  Vehicle trimming 
+  Vehicle varnishers/sprayers ",,,,,,,,,,
+ISCED-F 071,ISCED-F 0719,0719 Engineering and engineering trades not elsewhere classified,Nanotechnology,,,,,,,,,,
+ISCED-F 07,ISCED-F 072,072 Manufacturing and processing,,1,,,,0,null,,61,,
+ISCED-F 072,ISCED-F 0720,0720 Manufacturing and processing not further defined ,,,,,,,,,,,
+ISCED-F 072,ISCED-F 0721,0721 Food processing,"  Baking 
+  Brewing 
+  Butchery 
+  Cheese production 
+  Confectionery 
+  Dairy foods (industrial) 
+  Dairy science 
+  Distilling 
+  Food and drink processing 
+  Food handling/hygiene   
+  Food preparation 
+  Food preservation 
+  Food processing industry 
+  Food science 
+  Food science and technology 
+  Food techniques 
+  Industrial bakery/flour production 
+  Meat processing 
+  Pastry cooking 
+  Tobacco processing 
+  Wine production 
+  Wine science 
+  Wine storing/maturing ",,,,,,,,,,
+ISCED-F 072,ISCED-F 0722,"0722 Materials (glass, paper, plastic and wood)","  Boat building (non-motor) 
+  Cabinet making 
+  Cane, willow and bamboo work 
+  Carpentry (furniture) 
+  Ceramics (industrial) 
+  Furniture crafts 
+  Furniture making 
+  Glass production 
+  Glass working (industrial) 
+  Industrial diamond production 
+  Paper manufacturing and processing 
+  Plastic manufacturing 
+  Rubber processing 
+  Stone cutting 
+  Synthetic fibre manufacturing 
+  Timber technology 
+  Wood machining and turning 
+  Wood technology 
+  Woodwork trades  
+  Woodworking and carpentry ",,,,,,,,,,
+ISCED-F 072,ISCED-F 0723,"0723 Textiles (clothes, footwear and leather)","  Clothing, apparel and textile working  
+  Clothing industry 
+  Clothing trades  
+  Custom tailoring     
+  Cutting and tailoring 
+  Dressmaking 
+  Embroidery and needlework (industrial) 
+  Footwear making 
+  Fur making 
+  Furrier 
+  Garment production 
+  Knitting (industrial) 
+  Leather goods production 
+  Leather processing 
+  Leather trades 
+  Pelt worker 
+  Saddlery 
+  Sewing (industrial) 
+  Shoe, boot and leather repairing 
+  Shoemaking 
+  Skins and leather production 
+  Soft furnishings 
+  Spinning 
+  Tailoring 
+  Textiles, clothing and footwear  
+  Textile techniques 
+  Textile trades 
+  Upholstery 
+  Weaving (industrial) 
+  Wool science ",,,,,,,,,,
+ISCED-F 072,ISCED-F 0724,0724 Mining and extraction,"  Coal mining 
+  Drilling 
+  Mineral technology 
+  Mining engineering 
+  Mining of minerals 
+  Mining technology 
+  Oil and gas drilling 
+  Oil and gas extraction 
+  Quarry supervision 
+  Raw material extraction ",,,,,,,,,,
+ISCED-F 072,ISCED-F 0729,0729 Manufacturing and processing not elsewhere classified ,,,,,,,,,,,
+ISCED-F 07,ISCED-F 073,073 Architecture and construction,,1,,,,0,null,,62,,
+ISCED-F 073,ISCED-F 0730,0730 Architecture and construction not further defined ,,,,,,,,,,,
+ISCED-F 073,ISCED-F 0731,0731 Architecture and town planning,"  Architectural urban design and planning 
+  Architecture 
+  Building design 
+  Cartography/Land surveying 
+  City planning 
+  Community development 
+  Community planning 
+  Landscape architecture 
+  Rural development 
+  Structural architecture 
+  Surveying 
+  Topography 
+  Town and country planning 
+  Town and regional planning 
+  Town planning 
+  Urban planning 
+  Urban studies ",,,,,,,,,,
+ISCED-F 073,ISCED-F 0732,0732 Building and civil engineering,"  Bricklaying 
+  Brickwork and masonry 
+  Bridge construction 
+  Building construction 
+  Building engineering 
+  Building maintenance 
+  Building renovation 
+  Building technology 
+  Carpentry and joinery (building) 
+  Cement working 
+  Civil engineering 
+  Construction equipment 
+  Construction plant operation 
+  Construction technology 
+  Constructional engineering 
+  Constructional metalwork (building) 
+  Demolition    
+  Dock and harbour engineering 
+  Drawing, technical 
+  Excavation engineering 
+  Floor and wall tiling 
+  Floor covering 
+  Glazing 
+  House building 
+  Industrial abseiling (commercial) 
+  Insulation 
+  Irrigation and drainage (construction) 
+  Joinery and carpentry (building) 
+  Masonry and tile setting 
+  Painting and wall covering 
+  Pipe fitting 
+  Plastering (building) 
+  Plumbing 
+  Quantity surveying 
+  Road building 
+  Roof fixing 
+  Sanitation (building) 
+  Scaffolding work 
+  Stonemasonry 
+  Structural engineering 
+  Technical drawing 
+  Water supply and sewerage engineering 
+  Water technology and engineering 
+  Ventilation (building)  ",,,,,,,,,,
+ISCED-F 07,ISCED-F 078,"078 Inter-disciplinary programmes and qualifications involving engineering, manufacturing and constr",,1,,,,0,null,,63,,
+ISCED-F 078,ISCED-F 0788,"0788 Inter-disciplinary programmes and qualifications involving engineering, manufacturing and construction",,,,,,,,,,,
+ISCED-F 07,ISCED-F 079,"079 Engineering, manufacturing and construction not elsewhere classified ",,,,,,,,,,,
+ISCED-F 079,ISCED-F 0799,"0799 Engineering, manufacturing and construction not elsewhere classified ",,,,,,,,,,,
+,ISCED-F 08,"08 Agriculture, Forestry, Fisheries and Veterinary",,1,,,,0,null,,47,,
+ISCED-F 08,ISCED-F 080,"080 Agriculture, forestry, fisheries and veterinary not further defined ",,,,,,,,,,,
+ISCED-F 080,ISCED-F 0800,"0800 Agriculture, forestry, fisheries and veterinary not further defined ",,,,,,,,,,,
+ISCED-F 08,ISCED-F 081,081 Agriculture,,1,,,,0,null,,64,,
+ISCED-F 081,ISCED-F 0810,0810 Agriculture not further defined,,,,,,,,,,,
+ISCED-F 081,ISCED-F 0811,0811 Crop and livestock production,"Agricultural business/agribusiness 
+operations 
+  Agricultural economics 
+  Agricultural sciences 
+  Agriculture 
+  Agronomy and crop science 
+  Animal breeding 
+  Animal husbandry 
+  Animal training 
+  Basic skills in agriculture 
+  Crop growing 
+  Dog breeding 
+  Farm and ranch management 
+  Farm maintenance 
+  Farming 
+  Fruit growing 
+  Fruit production 
+  Goose keeping 
+  Grain growing 
+  Horse breeding 
+  Horse husbandry 
+  Irrigation techniques 
+  Olive growing 
+  Orchards construction 
+  Pig farming 
+  Poultry husbandry 
+  Race horse care 
+  Rye and wheat growing 
+  Sheep farming 
+  Soil and water technician programmes 
+  Soil fertility 
+  Soil science 
+  Sugar cane growing 
+  Vegetable plantation 
+  Wine growing    
+  Vineyard construction 
+  Viticulture ",,,,,,,,,,
+ISCED-F 081,ISCED-F 0812,0812 Horticulture,"  Floriculture 
+  Gardening 
+  Green keeping 
+  Greenhouse operations 
+  Horticultural techniques 
+  Horticulture 
+  Landscape gardening 
+  Nursery management (horticulture) 
+  Ornamental plants production 
+  Sports grounds maintenance 
+  Turf cultivation and management ",,,,,,,,,,
+ISCED-F 081,ISCED-F 0819,0819 Agriculture not elsewhere classified ,,,,,,,,,,,
+ISCED-F 08,ISCED-F 082,082 Forestry,,1,,,,0,null,,65,,
+ISCED-F 082,ISCED-F 0821,0821 Forestry,"  Charcoal burning 
+  Forest keeping 
+  Forest product techniques 
+  Forest ranging 
+  Forestry 
+  Hunting and trapping 
+  Logging 
+  Tree felling ",,,,,,,,,,
+ISCED-F 08,ISCED-F 083,083 Fisheries,,1,,,,0,null,,66,,
+ISCED-F 083,ISCED-F 0831,0831 Fisheries,"  Aquaculture 
+  Deep sea fishing 
+  Fish breeding 
+  Fish farms 
+  Fish husbandry 
+  Fishery 
+  Fishery science and technology 
+  Mariculture 
+  Pearl cultivating 
+  Sea food breeding 
+  Shellfish breeding ",,,,,,,,,,
+ISCED-F 08,ISCED-F 084,084 Veterinary,,1,,,,0,null,,67,,
+ISCED-F 084,ISCED-F 0841,0841 Veterinary,"  Animal health care 
+  Animal reproduction (science) 
+  Artificial insemination (of animals) 
+  Veterinary assisting 
+  Veterinary medicine 
+  Veterinary nursing 
+  Veterinary science ",,,,,,,,,,
+ISCED-F 08,ISCED-F 088,"088 Inter-disciplinary programmes and qualifications / agriculture, forestry, fisheries and veterina",,1,,,,0,null,,68,,
+ISCED-F 088,ISCED-F 0888,"0888 Inter-disciplinary programmes and qualifications / agriculture, forestry, fisheries and veterina",,,,,,,,,,,
+ISCED-F 08,ISCED-F 089,"089 Agriculture, forestry, fisheries and veterinary not elsewhere classified ",,,,,,,,,,,
+ISCED-F 089,ISCED-F 0899,"0899 Agriculture, forestry, fisheries and veterinary not elsewhere classified ",,,,,,,,,,,
+,ISCED-F 09,09 Health and Welfare,,1,,,,0,null,,48,,
+ISCED-F 09,ISCED-F 090,090 Health and welfare not further defined ,,,,,,,,,,,
+ISCED-F 090,ISCED-F 0900,0900 Health and welfare not further defined ,,,,,,,,,,,
+ISCED-F 09,ISCED-F 091,091 Health,,1,,,,0,null,,69,,
+ISCED-F 091,ISCED-F 0910,0910 Health not further defined,,,,,,,,,,,
+ISCED-F 091,ISCED-F 0911,0911 Dental studies,"  Clinical dentistry 
+  Dental assisting 
+  Dental hygiene 
+  Dental laboratory technology 
+  Dental nursing 
+  Dental science 
+  Dental surgery 
+  Dental technology 
+  Dentistry 
+  Odontology 
+  Oral surgery 
+  Orthodontics",,,,,,,,,,
+ISCED-F 091,ISCED-F 0912,0912 Medicine,"  Anaesthetics 
+  Anatomy 
+  Audiology/hearing sciences 
+  Bacteriology    
+  Cardiology 
+  Cytology 
+  Dermatology 
+  Epidemiology 
+  Forensic medicine 
+  Forensic pathology 
+  General medicine 
+  Gerontology 
+  Gynaecology 
+  Haematology 
+  Histology 
+  Immunology 
+  Internal medicine 
+  Medical science 
+  Medical training 
+  Medicine 
+  Naturopathic medicine 
+  Neurology 
+  Obstetrics and gynaecology 
+  Oncology 
+  Ophthalmic 
+  Ophthalmology 
+  Paediatrics 
+  Pathology 
+  Physiology 
+  Plastic surgery 
+  Preventive and social medicine 
+  Psychiatry 
+  Stomatology 
+  Surgery 
+  Training of doctors 
+  Training of physicians ",,,,,,,,,,
+ISCED-F 091,ISCED-F 0913,0913 Nursing and midwifery,"  Assistant nursing 
+  Basic nursing 
+  Community nursing 
+  General nursing 
+  Gerontological services  
+  Health care of old people     
+  Health care of the disabled 
+  Health care programmes 
+  Hygiene, medical 
+  Infant hygiene (nursing) 
+  Midwifery 
+  Mother craft nursing 
+  Nursing 
+  Nursing aide/Orderly 
+  Psychiatric nursing 
+  Specialised nursing",,,,,,,,,,
+ISCED-F 091,ISCED-F 0914,0914 Medical diagnostic and treatment technology,"  Ambulance service 
+  Ambulance technology 
+  Auditory prosthetics 
+  Emergency para-medical technologies 
+  Forensic medicine technology 
+  Hearing aid technology 
+  Medical laboratory technology 
+  Medical technology 
+  Nuclear medicine technologies 
+  Optical lens making 
+  Optical prosthetics 
+  Optical technology 
+  Orthopaedic prosthetics 
+  Prosthetic technology 
+  Radiography 
+  Radiology technology 
+  Radiotherapy 
+  X-ray technology (medical) ",,,,,,,,,,
+ISCED-F 091,ISCED-F 0915,0915 Therapy and rehabilitation,"  Chiropractice 
+  Dietician programmes 
+  Massage (medical) 
+  Mental health services 
+  Nutrition and dietetics 
+  Occupational therapy 
+  Optometry 
+  Osteopathy 
+  Physiotherapy    
+  Reflexology 
+  Rehabilitation 
+  Speech pathology and therapy 
+  Vocational rehabilitation ",,,,,,,,,,
+ISCED-F 091,ISCED-F 0916,0916 Pharmacy,"  Dispensing pharmacy 
+  Pharmacy ",,,,,,,,,,
+ISCED-F 091,ISCED-F 0917,0917 Traditional and complementary medicine and therapy,"Acupuncture and oriental medicine 
+Aromatherapy 
+Ayurvedic medicine 
+Herbalism 
+Herbology 
+Holistic medicine 
+Homeopathic medicine 
+Traditional medicine, for example Chinese ",,,,,,,,,,
+ISCED-F 091,ISCED-F 0919,0919 Health not elsewhere classified,,,,,,,,,,,
+ISCED-F 09,ISCED-F 092,092 Welfare,,1,,,,0,null,,70,,
+ISCED-F 092,ISCED-F 0920,0920 Welfare not further defined ,,,,,,,,,,,
+ISCED-F 092,ISCED-F 0921,0921 Care of elderly and of disabled adults,"  Care (non-medical) of the elderly 
+  Non-medical care of disabled adults 
+  Personal care of adults ",,,,,,,,,,
+ISCED-F 092,ISCED-F 0922,0922 Child care and youth services,"  Child care (non-medical) 
+  Child recreation programmes 
+  Day care 
+  Non-medical care of disabled children 
+  Youth recreation programmes 
+  Youth services 
+  Youth worker programmes ",,,,,,,,,,
+ISCED-F 092,ISCED-F 0923,0923 Social work and counselling,"  Alcohol and drug abuse counselling 
+  Alcohol, tobacco, drugs (knowledge about) 
+  Career advising 
+  Counselling 
+  Crisis support 
+  Family and marriage counselling 
+  Maltreatment (knowledge about)    
+  Mobbing (knowledge about) 
+  Parole officer training 
+  Probation officer training 
+  Social care 
+  Social policy 
+  Social practice 
+  Social theory (applied) 
+  Social work (welfare) 
+  Vocational counselling 
+  Vocational guidance ",,,,,,,,,,
+ISCED-F 092,ISCED-F 0929,0929 Welfare not elsewhere classified,,,,,,,,,,,
+ISCED-F 09,ISCED-F 098,098 Inter-disciplinary programmes and qualifications involving health and welfare,,1,,,,0,null,,71,,
+ISCED-F 098,ISCED-F 0988,0988 Inter-disciplinary programmes and qualifications involving health and welfare,,,,,,,,,,,
+ISCED-F 09,ISCED-F 099,099 Health and welfare not elsewhere classified ,,,,,,,,,,,
+ISCED-F 099,ISCED-F 0999,0999 Health and welfare not elsewhere classified ,,,,,,,,,,,
+,ISCED-F 10,10 Services,,1,,,,0,null,,49,,
+ISCED-F 10,ISCED-F 100,100 Services not further defined ,,,,,,,,,,,
+ISCED-F 100,ISCED-F 1000,1000 Services not further defined ,,,,,,,,,,,
+ISCED-F 10,ISCED-F 101,101 Personal services,,1,,,,0,null,,72,,
+ISCED-F 101,ISCED-F 1010,1010 Personal services not further defined ,,,,,,,,,,,
+ISCED-F 101,ISCED-F 1011,1011 Domestic services  ,"  Caretaking, housekeeping, home service 
+  Chimney sweeping 
+  Cleaning 
+  Cooking (home) 
+  Custodian/caretaker 
+  Domestic science 
+  Dry-cleaning 
+  Funeral services and mortuary science 
+  Home economics 
+  Laundry 
+  Needlework (home) 
+  Sewing (home) 
+  Window cleaning ",,,,,,,,,,
+ISCED-F 101,ISCED-F 1012,1012 Hair and beauty services,"  Barbering 
+  Beauty therapy    
+  Cosmetic services 
+  Cosmetology 
+  Fitness and weight control 
+  Fitness services 
+  Hairdressing 
+  Make-up 
+  Manicure 
+  Massage (beauty) 
+  Pedicure 
+  Salon services (beauty therapy) 
+  Wig making",,,,,,,,,,
+ISCED-F 101,ISCED-F 1013,"1013 Hotel, restaurants and catering","  Bar service 
+  Bartender/mixologist 
+  Catering 
+  Cooking (restaurant and hotel-type) 
+  Croupier training 
+  Culinary arts 
+  Fast food preparation 
+  Food and hospitality services 
+  Food serving 
+  Hospitality services 
+  Hotel and restaurant studies  
+  Hotel receptionist training 
+  Hotel services 
+  Waiting and bar service ",,,,,,,,,,
+ISCED-F 101,ISCED-F 1014,1014 Sports,"  Bookmaking (horses etc) 
+  Diving (sport) 
+  Football playing 
+  Gymnastics 
+  Jockeying 
+  Physical training (sports) 
+  Sport leadership 
+  Sport trainer studies 
+  Sports 
+  Sports coaching 
+  Sports instructor training 
+  Umpires and other sports officials ",,,,,,,,,,
+ISCED-F 101,ISCED-F 1015,"1015 Travel, tourism and leisure","  Abseiling (leisure) 
+  Adventure based activities 
+  Ground crew training (airports) 
+  Guiding, tour leading 
+  Leisure and tourism 
+  Recreation and leisure 
+  Recreation management 
+  Tourism 
+  Tourist trades 
+  Travel agency services 
+  Travel and tourism 
+  Travel services ",,,,,,,,,,
+ISCED-F 101,ISCED-F 1019,1019 Personal services not elsewhere classified ,,,,,,,,,,,
+ISCED-F 10,ISCED-F 102,102 Hygiene and occupational health services,,1,,,,0,null,,73,,
+ISCED-F 102,ISCED-F 1020,1020 Hygiene and occupational health services not further defined ,,,,,,,,,,,
+ISCED-F 102,ISCED-F 1021,1021 Community sanitation ,"  Garbage disposal 
+  Hygiene, community 
+  Hygienic standards 
+  Refuse collection 
+  Refuse/sewage disposal 
+  Sanitation, community 
+  Street cleaning 
+  Water supply (service) 
+  Waste management ",,,,,,,,,,
+ISCED-F 102,ISCED-F 1022,1022 Occupational health and safety,"Ergonomics (occupational health and 
+safety) 
+  Health and safety in the work place 
+  Industrial welfare 
+  Job safety 
+  Labour protection 
+  Labour security 
+  Labour welfare (safety) 
+  Occupational health and industrial hygiene 
+  Occupational health and safety 
+  Stress management 
+  Work environment ",,,,,,,,,,
+ISCED-F 102,ISCED-F 1029,1029 Hygiene and occupational health services not elsewhere classified ,,,,,,,,,,,
+ISCED-F 10,ISCED-F 103,103 Security services,,1,,,,0,null,,74,,
+ISCED-F 103,ISCED-F 1030,1030 Security services not further defined ,,,,,,,,,,,
+ISCED-F 103,ISCED-F 1031,1031 Military and defence ,"  Army training 
+  Defence studies 
+  Military science 
+  National security 
+  Navy training 
+  War theory ",,,,,,,,,,
+ISCED-F 103,ISCED-F 1032,1032 Protection of persons and property ,"  Civil security 
+  Customs programmes 
+  Diving (professional) 
+  Fire-protection (fire-fighting) 
+  Fire technology 
+  Law enforcement 
+  Life guarding 
+  Police work 
+  Policing studies 
+  Prison work 
+  Public security 
+  Security and loss prevention services 
+  Security guarding",,,,,,,,,,
+ISCED-F 103,ISCED-F 1039,1039 Security services not elsewhere classified ,,,,,,,,,,,
+ISCED-F 10,ISCED-F 104,104 Transport services,,1,,,,0,null,,75,,
+ISCED-F 104,ISCED-F 1041,1041 Transport services,"  Air crew (flying and navigation) 
+  Air traffic control 
+  Air traffic safety 
+  Aircraft operation 
+  Aviation 
+  Bus and coach driving 
+  Cabin crew training 
+  Communications (air, railway, road etc.)  
+  Crane and truck driving     
+  Driving training 
+  Flying and navigation 
+  Fork-lift truck driving 
+  Mail operations 
+  Nautical science 
+  Navigation technologies 
+  Postal services 
+  Railway operations 
+  Road motor vehicle operations 
+  Seamanship 
+  Seamen's programmes/qualifications    
+  Shipping 
+  Stewardess/steward training (air) 
+  Transport studies 
+  Truck driving 
+  Ship operation ",,,,,,,,,,
+ISCED-F 10,ISCED-F 108,108 Inter-disciplinary programmes and qualifications involving services ,,1,,,,0,null,,76,,
+ISCED-F 108,ISCED-F 1088,1088 Inter-disciplinary programmes and qualifications involving services ,,,,,,,,,,,
+ISCED-F 10,ISCED-F 109,109 Services not elsewhere classified,,,,,,,,,,,
+ISCED-F 109,ISCED-F 109,1099 Services not elsewhere classified ,,,,,,,,,,,
+,ISCED-F 99,99 Field unknown,,,,,,,,,,,
+ISCED-F 99,ISCED-F 999,999 Field unknown,,,,,,,,,,,
+ISCED-F 999,ISCED-F 9999,9999 Field unknown,,,,,,,,,,,

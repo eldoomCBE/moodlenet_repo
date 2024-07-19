@@ -1,0 +1,91 @@
+Parent ID number	ID number	Short name	Description	Description format	Scale values	Scale configuration	Rule type (optional)	Rule outcome (optional)	Rule config (optional)	Cross-referenced competency ID numbers			
+	KMK_MK	KMK Medienkompetenz		1	Kompetenz noch nicht vorhanden,Kompetenz vorhanden	"[{""scaleid"":""3""},{""id"":1,""scaledefault"":1,""proficient"":0},{""id"":2,""scaledefault"":0,""proficient"":1}]"		0	null			1	competency,competency,competency,competency
+	1	Suchen, Verarbeiten …	Suchen, Verarbeiten und Aufbewahren	1									
+1	11	Suchen und Filtern	Suchen und Filtern	1									
+11	111	Arbeits- und Suchinteressen …	Arbeits- und Suchinteressen klären und festlegen	1									
+11	112	Suchstrategien 	Suchstrategien nutzen und weiterentwickeln	1									
+11	113	In versch digitalen Umgebungen suchen	In verschiedenen digitalen Umgebungen suchen	1									
+11	114	Quellen identifizieren	Relevante Quellen identifizieren und zusammenführen	1									
+1	12	Auswerten und Bewerten	Auswerten und Bewerten	1									
+12	121	Informationen analysieren	Informationen und Daten analysieren, interpretieren und kritisch bewerten 	1									
+12	122	Informationsquellen analysieren	Informationsquellen analysieren und kritisch bewerten	1									
+1	13	Speichern und Abrufen	Speichern und Abrufen	1									
+13	131	Informationen sicher speichern	Informationen und Daten sicher speichern, wiederfinden und von verschiedenen Orten abrufen	1									
+13	132	Informationen zusammenfassen	Informationen und Daten zusammenfassen, organisieren und strukturiert aufbewahren	1									
+	2	Kommunizieren und Kooperieren	Kommunizieren und Kooperieren	1									
+2	21	Interagieren	Interagieren	1									
+21	211	Digital kommunizieren	Mit Hilfe verschiedener digitaler Kommunikationsmöglichkeiten kommunizieren	1									
+21	212	Kommunikationsmöglichkeiten auswählen	Digitale Kommunikationsmöglichkeiten zielgerichtet- und situationsgerecht auswählen	1									
+2	22	Teilen	Teilen	1									
+22	221	Dateien, Informationen teilen	Dateien, Informationen und Links teilen	1									
+22	222	Referenzierungspraxis 	Referenzierungspraxis beherrschen (Quellenangaben)	1									
+2	23	Zusammenarbeiten	Zusammenarbeiten	1									
+23	231	Werkzeuge für die Zusammenarbeit  nutzen	Digitale Werkzeuge für die Zusammenarbeit bei der Zusammenführung von Informationen, Daten und Ressourcen nutzen	1									
+23	232	Werkzeuge gem. Erarbeitung von Dokumenten nutzen	Digitale Werkzeuge bei der gemeinsamen Erarbeitung von Dokumentennutzen	1									
+2	24	Umgangsregeln (Netiquette)	Umgangsregeln kennen und einhalten (Netiquette)	1									
+24	241	Verhaltensregeln kennen und anwenden	Verhaltensregeln bei digitaler Interaktion und Kooperation kennen und anwenden	1									
+24	242	Kommunikation der Umgebung anpassen	Kommunikation der jeweiligen Umgebung anpassen	1									
+24	243	Ethische Prinzipien bei der Kommunikation	Ethische Prinzipien bei der Kommunikation kennen und berücksichtigen	1									
+24	244	Kulturelle Vielfalt berücksichtigen	Kulturelle Vielfalt in digitalen Umgebungen berücksichtigen	1									
+2	25	An Gesellschaft teilhaben	An der Gesellschaft aktiv teilhaben	1									
+25	251	Öffentliche und private Dienste nutzen	Öffentliche und private Dienste nutzen	1									
+25	252	Medienerfahrungen weitergeben	Medienerfahrungen weitergeben und in kommunikative Prozesse einbringen	1									
+25	253	Als Bürger aktiv teilhaben	Als selbstbestimmter Bürger aktiv an der Gesellschaft teilhaben	1									
+	3	Produzieren und Präsentieren	Produzieren und Präsentieren	1									
+3	31	Entwickeln und Produzieren	Entwickeln und Produzieren	1									
+31	311	Technische Bearbeitungswerkzeuge kennen und anwenden	Mehrere technische Bearbeitungswerkzeuge kennen und anwenden	1									
+31	312	Produktion planen und gestalten	Eine Produktion planen und in verschiedenen Formaten gestalten, präsentieren, veröffentlichen oder teilen	1									
+3	32	Weiterverarbeiten und Integrieren	Weiterverarbeiten und Integrieren	1									
+32	321	Inhalte bearbeiten… veröffentlichen oder teilen	Inhalte in verschiedenen Formaten bearbeiten, zusammenführen, präsentieren und veröffentlichen oder teilen	1									
+32	322	Digitale Produkte weiterverarbeiten 	Informationen, Inhalte und vorhandene digitale Produkte weiterverarbeitenund in bestehendes Wissen integrieren	1									
+3	33	Rechtliche Vorgaben beachten	Rechtliche Vorgaben beachten	1									
+33	331	Urheberrecht 	Bedeutung von Urheberrecht und geistigem Eigentum kennen	1									
+33	332	Lizenzen berücksichtigen	Urheber- und Nutzungsrechte (Lizenzen) bei eigenen und fremden Werken berücksichtigen	1									
+3	34	Persönlichkeitsrechte beachten	Persönlichkeitsrechte beachten	1									
+	4	Schützen und sicher Agieren	Schützen und sicher Agieren	1									
+4	41	Sicher in digitalen Umgebungen agieren	Sicher in digitalen Umgebungen agieren	1									
+41	411	Risiken und Gefahren	Risiken und Gefahren in digitalen Umgebungen kennen, reflektieren undberücksichtigen	1									
+41	412	Strategien zum Schutz entwickeln und anwenden	Strategien zum Schutz entwickeln und anwenden	1									
+4	42	Persönliche Daten und Privatsphäre schützen	Persönliche Daten und Privatsphäre schützen	1									
+42	421	Datensicherheit und Datenmissbrauch	Maßnahmen für Datensicherheit und gegen Datenmissbrauch berücksichtigen	1									
+42	422	Privatsphäre schützen	Privatsphäre in digitalen Umgebungen durch geeignete Maßnahmenschützen	1									
+42	423	Sicherheitseinstellungen 	Sicherheitseinstellungen ständig aktualisieren	1									
+42	424	Jugendschutz- und Verbraucherschutz	Jugendschutz- und Verbraucherschutzmaßnahmen berücksichtigen	1									
+4	43	Gesundheit schützen	Gesundheit schützen	1									
+43	431	Suchtgefahren 	Suchtgefahren vermeiden, sich Selbst und andere vor möglichen Gefahrenschützen	1									
+43	432	Digitale Technologien gesundheitsbewusst nutzen	Digitale Technologien gesundheitsbewusst nutzen	1									
+43	433	Digitale Technologien für soziales Wohlergehen	Digitale Technologien für soziales Wohlergehen und Eingliederung nutzen	1									
+4	44	Natur und Umwelt schützen	Natur und Umwelt schützen	1									
+44	441	Umweltauswirkungen digitaler Technologien berücksichtigen	Umweltauswirkungen digitaler Technologien berücksichtigen	1									
+	5	Problemlösen und Handeln	Problemlösen und Handeln	1									
+5	51	Technische Probleme lösen	Technische Probleme lösen	1									
+51	511	Anforderungen an digitale Umgebungen formulieren	Anforderungen an digitale Umgebungen formulieren	1									
+51	512	Technische Probleme identifizieren	Technische Probleme identifizieren	1									
+51	513	Bedarfe für Lösungen ermitteln Lösungsstrategien entwickeln	Bedarfe für Lösungen ermitteln und Lösungen finden bzw. Lösungsstrategien entwickeln	1									
+5	52	Werkzeuge bedarfsgerecht einsetzen	Werkzeuge bedarfsgerecht einsetzen	1									
+51	521	Eine Vielzahl von digitalen Werkzeugen kennen und kreativ anwenden	Eine Vielzahl von digitalen Werkzeugen kennen und kreativ anwenden	1									
+52	522	Anforderungen an digitale Werkzeuge formulieren	Anforderungen an digitale Werkzeuge formulieren	1									
+52	523	Passende Werkzeuge zur Lösung identifizieren	Passende Werkzeuge zur Lösung identifizieren	1									
+52	524	Digitale Umgebungen und Werkzeuge anpassen	Digitale Umgebungen und Werkzeuge zum persönlichen Gebrauch anpassen	1									
+5	53	Eigene Defizite ermitteln und nach Lösungen suchen	Eigene Defizite ermitteln und nach Lösungen suchen	1									
+53	531	Eigene Defizite bei der Nutzung digitaler Werkzeuge erkennen	Eigene Defizite bei der Nutzung digitaler Werkzeuge erkennen und Strategien zur Beseitigung entwickeln	1									
+53	532	Eigene Strategien zur Problemlösung mit anderen teilen	Eigene Strategien zur Problemlösung mit anderen teilen	1									
+5	54	Digitale Werkzeuge zum Lernen, Arbeiten und Problemlösen nutzen	Digitale Werkzeuge und Medien zum Lernen, Arbeiten und Problemlösen nutzen	1									
+54	541	Effektive digitale Lernmöglichkeiten finden, bewerten und nutzen	Effektive digitale Lernmöglichkeiten finden, bewerten und nutzen	1									
+54	542	Persönliches System digitaler Lernressourcen selbst organisieren können	Persönliches System von vernetzten digitalen Lernressourcen selbstorganisieren können	1									
+5	55	Algorithmen erkennen und formulieren	Algorithmen erkennen und formulieren	1									
+55	551	Funktionsweisen und grundlegende Prinzipien der digitalen Welt verstehen	Funktionsweisen und grundlegende Prinzipien der digitalen Welt kennenund verstehen.	1									
+55	552	Algorithmische Strukturen in genutzten digitalen Tools erkennen 	Algorithmische Strukturen in genutzten digitalen Tools erkennen und formulieren	1									
+55	553	Eine strukturierte, algorithmische Sequenz zur Lösung eines Problems planen 	Eine strukturierte, algorithmische Sequenz zur Lösung eines Problemsplanen und verwenden	1									
+	6	Analysieren und Reflektieren	Analysieren und Reflektieren	1									
+6	61	Medien analysieren und bewerten	Medien analysieren und bewerten	1									
+61	611	Gestaltungsmittel von digitalen Medienangeboten kennen und bewerten	Gestaltungsmittel von digitalen Medienangeboten kennen und bewerten	1									
+61	612	Interessengeleitete Setzung von Themen in digitalen Umgebungen erkennen 	Interessengeleitete Setzung, Verbreitung und Dominanz von Themen indigitalen Umgebungen erkennen und beurteilen	1									
+61	613	Wirkungen von Medien in der digitalen Welt  	Wirkungen von Medien in der digitalen Welt (z. B. mediale Konstrukte,Stars, Idole, Computerspiele, mediale Gewaltdarstellungen) analysieren und konstruktiv damit umgehen 	1									
+6	62	Medien in der digitalen Welt verstehen und reflektieren	Medien in der digitalen Welt verstehen und reflektieren	1									
+62	621	Vielfalt der digitalen Medienlandschaft kennen	Vielfalt der digitalen Medienlandschaft kennen	1									
+62	622	Chancen und Risiken des Mediengebrauchs erkennen und reflektieren 	Chancen und Risiken des Mediengebrauchs in unterschiedlichen Lebens-bereichen erkennen, eigenen Mediengebrauch reflektieren und ggf. modifizieren	1									
+62	623	Vorteile und Risiken von Geschäftsaktivitäten im Internet analysieren 	Vorteile und Risiken von Geschäftsaktivitäten und Services im Internetanalysieren und beurteilen	1									
+62	624	Wirtschaftliche Bedeutung der digitalen Medien kennen und nutzen	Wirtschaftliche Bedeutung der digitalen Medien und digitaler Technologienkennen und sie für eigene Geschäftsideen nutzen	1									
+62	625	Die Bedeutung von digitalen Medien für die politische Meinungsbildung kennen	Die Bedeutung von digitalen Medien für die politische Meinungsbildung und Entscheidungsfindung kennen und nutzen	1									
+62	626	Potenziale der Digitalisierung für Integration und Teilhabe erkennen 	Potenziale der Digitalisierung im Sinne sozialer Integration und sozialer Teilhabe erkennen, analysieren und reflektieren	1									

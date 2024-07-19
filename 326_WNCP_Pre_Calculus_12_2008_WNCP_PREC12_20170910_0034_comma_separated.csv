@@ -1,0 +1,617 @@
+"Parent ID number","ID number","Short name",Description,"Description format","Scale values","Scale configuration","Rule type (optional)","Rule outcome (optional)","Rule config (optional)","Cross-referenced competency ID numbers","Exported ID (optional)","Is framework",Taxonomy
+,WNCP--PREC12,"WNCP Pre-Calculus 12 (2008)","<p>The Western Canadian Protocol (WCP) for Collaboration in Basic Education Kindergarten to Grade 12 was signed in December 1993 by the Ministers of Education from Alberta, British Columbia, Manitoba, Northwest Territories, Saskatchewan and Yukon Territory. In February 2000, following the addition of Nunavut, the protocol was renamed the Western and Northern Canadian Protocol (WNCP) for Collaboration in Basic Education (Kindergarten to Grade 12).</p><p>This pathway is designed to provide students with the mathematical understandings and critical-thinking skills identified for entry into post-secondary programs that require the study of theoretical calculus. Topics include binomial theorem, combinations, permutations relations and functions and trigonometry . The seven mathematical process (communication, connections, mental mathematics and estimation, problem solving, technology and visualization) are interwoven throughout the mathematical topics.<br /></p><p>The Common Curriculum Framework for Grades 10–12 Mathematics: Western and Northern Canadian Protocol was developed by the seven ministries of education in collaboration with teachers, administrators, parents, business representatives, post-secondary educators and others. The framework identifies beliefs about mathematics learning and teaching, general and specific outcomes, and achievement indicators agreed upon by the seven jurisdictions.</p>
+<p>(<em>Please note that set of indicators under each outcome <strong>may</strong> be used to determine whether students have met the corresponding outcome.</em>)</p>
+<p>http://www.wncp.ca/english/subjectarea/mathematics/ccf.aspx<br />http://www.wncp.ca/media/38771/math10to12.pdf</p>
+<p>(TeX notation filter was used to render math.)</p>",1,"Not yet competent,Competent","[{""scaleid"":""2""},{""id"":2,""scaledefault"":1,""proficient"":1}]",,,,,,1,"domain,concept,outcome,indicator"
+,PREC12,"Pre-calculus 12","<p>Topics include binomial theorem, combinations, permutations relations and functions and trigonometry.<br /></p>",1,,,,0,null,,1629,,
+PREC12,PREC12-A,Trigonometry,"<p>General Outcome: Develop trigonometric reasoning.<br /></p>",1,,,,0,null,,1630,,
+PREC12-A,PREC12-A1,"A1 Demonstrate an understanding of angles in standard position, expressed in degrees and radians.","<p>Demonstrate an understanding of angles in standard
+position, expressed in degrees and radians.<br /></p>",1,,,,0,null,"WNCP--M[CN],WNCP--M[ME],WNCP--M[R],WNCP--M[V]",1631,,
+PREC12-A1,PREC12-A1.1,"1.1 Sketch, in standard position, an angle (positive or negative) when the measure is given in...","<p>Sketch, in standard position, an angle (positive or negative) when the measure is given in
+degrees.<br /></p>",1,,,,0,null,,1632,,
+PREC12-A1,PREC12-A1.2,"1.2 Describe the relationship among different systems of angle measurement, with emphasis on...","<p>Describe the relationship among different systems of angle measurement, with emphasis on
+radians and degrees.<br /></p>",1,,,,0,null,,1633,,
+PREC12-A1,PREC12-A1.3,"1.3 Sketch, in standard position, an angle with a measure of 1 radian. ","<p>Sketch, in standard position, an angle with a measure of 1 radian.<br /></p>",1,,,,0,null,,1634,,
+PREC12-A1,PREC12-A1.4,"1.4 Sketch, in standard position, an angle with a measure expressed in the form kπ radians, where..","<p>Sketch, in standard position, an angle with a measure expressed in the form <i>kπ</i> radians,
+where <i>k </i>∈<i>ℚ</i> .<br /></p>",1,,,,0,null,,1635,,
+PREC12-A1,PREC12-A1.5,"1.5 Express the measure of an angle in radians (exact value or decimal approximation), given its...","<p>Express the measure of an angle in radians (exact value or decimal approximation), given its
+measure in degrees.<br /></p>",1,,,,0,null,,1636,,
+PREC12-A1,PREC12-A1.6,"1.6 Express the measure of an angle in degrees, given its measure in radians (exact value or...","<p>Express the measure of an angle in degrees, given its measure in radians (exact value or
+decimal approximation).<br /></p>",1,,,,0,null,,1637,,
+PREC12-A1,PREC12-A1.7,"1.7 Determine the measures, in degrees or radians, of all angles in a given domain that are...","<p>Determine the measures, in degrees or radians, of all angles in a given domain that are
+coterminal with a given angle in standard position.<br /></p>",1,,,,0,null,,1638,,
+PREC12-A1,PREC12-A1.8,"1.8 Determine the general form of the measures, in degrees or radians, of all angles that are...","<p>Determine the general form of the measures, in degrees or radians, of all angles that are
+coterminal with a given angle in standard position.<br /></p>",1,,,,0,null,,1639,,
+PREC12-A1,PREC12-A1.9,"1.9 Explain the relationship between the radian measure of an angle in standard position and the...","<p>Explain the relationship between the radian measure of an angle in standard position and the
+length of the arc cut on a circle of radius <i>r</i>, and solve problems based upon that relationship.<br /></p>",1,,,,0,null,,1640,,
+PREC12-A,PREC12-A2,"A2 Develop and apply the equation of the unit circle. ","<p>Develop and apply the equation of the unit circle.<br /></p>",1,,,,0,null,"WNCP--M[CN],WNCP--M[R],WNCP--M[V]",1641,,
+PREC12-A2,PREC12-A2.1,"2.1 Derive the equation of the unit circle from the Pythagorean theorem. ","<p>Derive the equation of the unit circle from the Pythagorean theorem.<br /></p>",1,,,,0,null,,1642,,
+PREC12-A2,PREC12-A2.2,"2.2 Describe the six trigonometric ratios, using a point P(x,y) that is the intersection of the...","<p>Describe the six trigonometric ratios, using a point P(x,y) that is the intersection of the
+terminal arm of an angle and the unit circle.<br /></p>",1,,,,0,null,,1643,,
+PREC12-A2,PREC12-A2.3,"2.3 Generalize the equation of a circle with centre (0, 0) and radius r.","<p>Generalize the equation of a circle with centre (0, 0) and radius <i>r</i>.<br /></p>",1,,,,0,null,,1644,,
+PREC12-A,PREC12-A3,"A3 Solve problems, using the six trigonometric ratios for angles expressed in radians and degrees","<p>Solve problems, using the six trigonometric ratios for
+angles expressed in radians and degrees.<br /></p>",1,,,,0,null,"WNCP--M[ME],WNCP--M[PS],WNCP--M[R],WNCP--M[T],WNCP--M[V]",1645,,
+PREC12-A3,PREC12-A3.1,"3.1 Determine, with technology, the approximate value of a trigonometric ratio for any angle with...","<p>Determine, with technology, the approximate value of a trigonometric ratio for any angle with
+a measure expressed in either degrees or radians.<br /></p>",1,,,,0,null,,1646,,
+PREC12-A3,PREC12-A3.2,"3.2 Determine, using a unit circle or reference triangle, the exact value of a trigonometric...","<p>Determine, using a unit circle or reference triangle, the exact value of a trigonometric ratio for
+angles expressed in degrees that are multiples of 0º, 30º, 45º, 60º or 90º, or for angles expressed in radians that are multiples of 0, π/6, π/4, π/3 or π/2 \( \left(0, \dfrac{\pi}{6}, \dfrac{\pi}{4}, \dfrac{\pi}{3} \text{ or } \dfrac{\pi}{2}\right) \) and explain the strategy. <br /></p>",1,,,,0,null,,1647,,
+PREC12-A3,PREC12-A3.3,"3.3 Determine, with or without technology, the measures, in degrees or radians, of the angles in...","<p>Determine, with or without technology, the measures, in degrees or radians, of the angles in a specified domain, given the value of a trigonometric ratio.<br /></p>",1,,,,0,null,,1648,,
+PREC12-A3,PREC12-A3.4,"3.4 Explain how to determine the exact values of the six trigonometric ratios, given the...","<p>Explain how to determine the exact values of the six trigonometric ratios, given the
+coordinates of a point on the terminal arm of an angle in standard position.<br /></p>",1,,,,0,null,,1649,,
+PREC12-A3,PREC12-A3.5,"3.5 Determine the measures of the angles in a specified domain in degrees or radians, given a...","<p>Determine the measures of the angles in a specified domain in degrees or radians, given a
+point on the terminal arm of an angle in standard position.<br /></p>",1,,,,0,null,,1650,,
+PREC12-A3,PREC12-A3.6,"3.6 Determine the exact values of the other trigonometric ratios, given the value of one...","<p>Determine the exact values of the other trigonometric ratios, given the value of one
+trigonometric ratio in a specified domain.<br /></p>",1,,,,0,null,,1651,,
+PREC12-A3,PREC12-A3.7,"3.7 Sketch a diagram to represent a problem that involves trigonometric ratios","<p>Sketch a diagram to represent a problem that involves trigonometric ratios.<br /></p>",1,,,,0,null,,1652,,
+PREC12-A3,PREC12-A3.8,"3.8 Solve a problem, using trigonometric ratios","<p>Solve a problem, using trigonometric ratios.<br /></p>",1,,,,0,null,,1653,,
+PREC12-A,PREC12-A4,"A4 Graph and analyze the trigonometric functions sine, cosine and tangent to solve problems","<p>Graph and analyze the trigonometric functions sine,
+cosine and tangent to solve problems.<br /></p>",1,,,,0,null,"WNCP--M[CN],WNCP--M[PS],WNCP--M[T],WNCP--M[V]",1654,,
+PREC12-A4,PREC12-A4.1,"4.1 Sketch, with or without technology, the graph of y = sin x, y = cos x or y = tan x. ","<p>Sketch, with or without technology, the graph of y = sin x, y = cos x or y = tan x.<br /></p>",1,,,,0,null,,1655,,
+PREC12-A4,PREC12-A4.10,"4.10 Determine a trigonometric function that models a situation to solve a problem","<p>Determine a trigonometric function that models a situation to solve a problem.<br /></p>",1,,,,0,null,,1664,,
+PREC12-A4,PREC12-A4.11,"4.11  Explain how the characteristics of the graph of a trigonometric function relate to the...","<p>Explain how the characteristics of the graph of a trigonometric function relate to the
+conditions in a problem situation.<br /></p>",1,,,,0,null,,1665,,
+PREC12-A4,PREC12-A4.12,"4.12 Solve a problem by analyzing the graph of a trigonometric function","<p>Solve a problem by analyzing the graph of a trigonometric function.<br /></p>",1,,,,0,null,,1666,,
+PREC12-A4,PREC12-A4.2,"4.2 Determine the characteristics (amplitude, asymptotes, domain, period, range and zeros) of the...","<p>Determine the characteristics (amplitude, asymptotes, domain, period, range and zeros) of the
+graph of y = sin x, y = cos x or y = tan x.<br /></p>",1,,,,0,null,,1656,,
+PREC12-A4,PREC12-A4.3,"4.3 Determine how varying the value of a affects the graphs of y = a sin x and y = a cos x","<p>Determine how varying the value of a affects the graphs of y = a sin x and y = a cos x.<br /></p>",1,,,,0,null,,1657,,
+PREC12-A4,PREC12-A4.4,"4.4 Determine how varying the value of d affects the graphs of y=sin x+d and y = cos x+d","<p>Determine how varying the value of d affects the graphs of y = sin x + d and y = cos x + d.<br /></p>",1,,,,0,null,,1658,,
+PREC12-A4,PREC12-A4.5,"4.5 Determine how varying the value of c affects the graphs of y=sin(x+c) and y=cos(x+c)","<p>4.5 Determine how varying the value of c affects the graphs of y=sin(x+c) and y=cos(x+c)<br /></p>",1,,,,0,null,,1659,,
+PREC12-A4,PREC12-A4.6,"4.6 Determine how varying the value of b affects the graphs of y=sin bx and y=cos bx","<p>Determine how varying the value of b affects the graphs of y = sin bx and y = cos bx.<br /></p>",1,,,,0,null,,1660,,
+PREC12-A4,PREC12-A4.7,"4.7 Sketch, without technology, graphs of the form y = a sin b(x − c) + d or...","<p>Sketch, without technology, graphs of the form y = a sin b(x − c) + d or
+y = a cos b(x − c) + d, using transformations, and explain the strategies.<br /></p>",1,,,,0,null,,1661,,
+PREC12-A4,PREC12-A4.8,"4.8 Determine the characteristics (amplitude, asymptotes, domain, period, phase shift, range and...","<p>Determine the characteristics (amplitude, asymptotes, domain, period, phase shift, range and
+zeros) of the graph of a trigonometric function of the form y = a sin b(x − c) + d or
+y = a cos b(x − c) + d.<br /></p>",1,,,,0,null,,1662,,
+PREC12-A4,PREC12-A4.9,"4.9 Determine the values of a, b, c and d for functions of the form y = a sin b(x − c) + d or...","<p>Determine the values of a, b, c and d for functions of the form y = a sin b(x − c) + d or
+y = a cos b(x − c) + d that correspond to a given graph, and write the equation of the function.<br /></p>",1,,,,0,null,,1663,,
+PREC12-A,PREC12-A5,"A5  Solve, algebraically and graphically, first and second degree trigonometric equations with...","<p>Solve, algebraically and graphically, first and second
+degree trigonometric equations with the domain
+expressed in degrees and radians.<br /></p>",1,,,,0,null,"WNCP--M[CN],WNCP--M[PS],WNCP--M[R],WNCP--M[T],WNCP--M[V]",1667,,
+PREC12-A5,PREC12-A5.1,"5.1 Verify, with or without technology, that a given value is a solution to a trigonometric equation","<p>Verify, with or without technology, that a given value is a solution to a trigonometric
+equation.<br /></p>",1,,,,0,null,,1668,,
+PREC12-A5,PREC12-A5.2,"5.2 Determine, algebraically, the solution of a trigonometric equation, stating the solution in...","<p>Determine, algebraically, the solution of a trigonometric equation, stating the solution in
+exact form when possible.<br /></p>",1,,,,0,null,,1669,,
+PREC12-A5,PREC12-A5.3,"5.3 Determine, using technology, the approximate solution of a trigonometric equation in a...","<p>Determine, using technology, the approximate solution of a trigonometric equation in a
+restricted domain.<br /></p>",1,,,,0,null,,1670,,
+PREC12-A5,PREC12-A5.4,"5.4 Relate the general solution of a trigonometric equation to the zeros of the corresponding...","<p>Relate the general solution of a trigonometric equation to the zeros of the corresponding
+trigonometric function (restricted to sine and cosine functions).<br /></p>",1,,,,0,null,,1671,,
+PREC12-A5,PREC12-A5.5,"5.5 Determine, using technology, the general solution of a given trigonometric equation","<p>Determine, using technology, the general solution of a given trigonometric equation.<br /></p>",1,,,,0,null,,1672,,
+PREC12-A5,PREC12-A5.6,"5.6 Identify and correct errors in a solution for a trigonometric equation.","<p>Identify and correct errors in a solution for a trigonometric equation.<br /></p>",1,,,,0,null,,1673,,
+PREC12-A,PREC12-A6,"A6 Prove trigonometric identities, using: reciprocal identities, quotient identities, Pythagorean...","<p>Prove trigonometric identities, using:</p><p><span>• reciprocal identities
+<br />• quotient identities<br />• Pythagorean identities
+<br />• sum or difference identities (restricted to sine,
+cosine and tangent)
+<br />• double-angle identities (restricted to sine, cosine
+and tangent).</span></p>",1,,,,0,null,"WNCP--M[R],WNCP--M[T],WNCP--M[V]",1674,,
+PREC12-A6,PREC12-A6.1,"6.1 Explain the difference between a trigonometric identity and a trigonometric equation","<p>Explain the difference between a trigonometric identity and a trigonometric equation.<br /></p>",1,,,,0,null,,1675,,
+PREC12-A6,PREC12-A6.3,"6.3 Explain why verifying that the two sides of a trigonometric identity are equal for given...","<p>Explain why verifying that the two sides of a trigonometric identity are equal for given values
+is insufficient to conclude that the identity is valid.<br /></p>",1,,,,0,null,,1677,,
+PREC12-A6,PREC12-A6.4,"6.4 Determine, graphically, the potential validity of a trigonometric identity, using technology ","<p>Determine, graphically, the potential validity of a trigonometric identity, using technology.<br /></p>",1,,,,0,null,,1678,,
+PREC12-A6,PREC12-A6.5,"6.5 Determine the non-permissible values of a trigonometric identity","<p>Determine the non-permissible values of a trigonometric identity.<br /></p>",1,,,,0,null,,1679,,
+PREC12-A6,PREC12-A6.6,"6.6 Prove, algebraically, that a trigonometric identity is valid","<p>Prove, algebraically, that a trigonometric identity is valid.<br /></p>",1,,,,0,null,,1680,,
+PREC12-A6,PREC12-A6.7,"6.7 Determine, using the sum, difference and double-angle identities, the exact value of a...","<p>Determine, using the sum, difference and double-angle identities, the exact value of a
+trigonometric ratio.<br /></p>",1,,,,0,null,,1681,,
+PREC12,PREC12-B,"Relations and Functions","<p>General Outcome: Develop algebraic and graphical reasoning through the study of relations.<br /></p>",1,,,,0,null,,1682,,
+PREC12-B,PREC12-B1,"B1 Demonstrate an understanding of operations on, and compositions of, functions","<p>Demonstrate an understanding of operations on, and
+compositions of, functions.<br /></p>",1,,,,0,null,"WNCP--M[CN],WNCP--M[R],WNCP--M[T],WNCP--M[V]",1683,,
+PREC12-B1,PREC12-B1.1,"1.1 Sketch the graph of a function that is the sum, difference, product or quotient of two functions","<p>Sketch the graph of a function that is the sum, difference, product or quotient of two
+functions, given their graphs.<br /></p>",1,,,,0,null,,1684,,
+PREC12-B1,PREC12-B1.2,"1.2 Write the equation of a function that is the sum, difference, product or quotient of two or...","<p>Write the equation of a function that is the sum, difference, product or quotient of two or
+more functions, given their equations.<br /></p>",1,,,,0,null,,1685,,
+PREC12-B1,PREC12-B1.3,"1.3 Determine the domain and range of a function that is the sum, difference, product or quotient...","<p>Determine the domain and range of a function that is the sum, difference, product or quotient
+of two functions.<br /></p>",1,,,,0,null,,1686,,
+PREC12-B1,PREC12-B1.4,"1.4 Write a function h(x) as the sum, difference, product or quotient of two or more functions","<p>Write a function h(x) as the sum, difference, product or quotient of two or more functions.<br /></p>",1,,,,0,null,,1687,,
+PREC12-B1,PREC12-B1.5,"1.5 Determine the value of the composition of functions when evaluated at a point, including...","<p>Determine the value of the composition of functions when evaluated at a point, including: </p><p>f(f(a)) \( f\Big(f(a)\Big) \)<br />f(g(a)) \( f\Big(g(a)\Big) \)<br />g(f(a)) \( g\Big(f(a)\Big) \)<br /></p>",1,,,,0,null,,1688,,
+PREC12-B1,PREC12-B1.6,"1.6 Determine, given the equations of two functions f(x) and g(x), the equation of the composite...","<p>Determine, given the equations of two functions f(x) and g(x), the equation of the composite
+function:<br /></p><p>f(f(x)) \( f\Big(f(x)\Big) \)<br />f(g(x)) \( f\Big(g(x)\Big) \)<br />g(f(x)) \( g\Big(f(x)\Big) \)</p><p>and explain any restrictions </p>",1,,,,0,null,,1689,,
+PREC12-B1,PREC12-B1.7,"1.7 Sketch, given the equations of two functions f(x) and g(x), the graph of the composite...","<p>Sketch, given the equations of two functions f(x) and g(x), the graph of the composite
+function:<br /></p><p>f(f(x)) \( f\Big(f(x)\Big) \)<br />f(g(x)) \( f\Big(g(x)\Big) \)<br />g(f(x)) \( g\Big(f(x)\Big) \)</p>",1,,,,0,null,,1690,,
+PREC12-B1,PREC12-B1.8,"1.8 Write a function h(x) as the composition of two or more functions","<p>Write a function h(x) as the composition of two or more functions<br /></p>",1,,,,0,null,,1691,,
+PREC12-B1,PREC12-B1.9,"1.9 Write a function h(x) by combining two or more functions through operations on, and...","<p>Write a function h(x) by combining two or more functions through operations on, and
+compositions of, functions.<br /></p>",1,,,,0,null,,1692,,
+PREC12-B,PREC12-B10,"B10 Solve problems that involve exponential and logarithmic equations","<p>Solve problems that involve exponential and
+ logarithmic equations.<br /></p>",1,,,,0,null,"WNCP--M[C],WNCP--M[CN],WNCP--M[PS],WNCP--M[R]",1741,,
+PREC12-B10,PREC12-B10.1,"10.1 Determine the solution of an exponential equation in which the bases are powers of one another","<p>Determine the solution of an exponential equation in which the bases are powers of one
+another.<br /></p>",1,,,,0,null,,1742,,
+PREC12-B10,PREC12-B10.2,"10.2 Determine the solution of an exponential equation in which the bases are not powers of one...","<p>Determine the solution of an exponential equation in which the bases are not powers of one
+another, using a variety of strategies.<br /></p>",1,,,,0,null,,1743,,
+PREC12-B10,PREC12-B10.3,"10.3 Determine the solution of a logarithmic equation, and verify the solution","<p>Determine the solution of a logarithmic equation, and verify the solution.<br /></p>",1,,,,0,null,,1744,,
+PREC12-B10,PREC12-B10.4,"10.4 Explain why a value obtained in solving a logarithmic equation may be extraneous","<p>Explain why a value obtained in solving a logarithmic equation may be extraneous.<br /></p>",1,,,,0,null,,1745,,
+PREC12-B10,PREC12-B10.5,"10.5 Solve a problem that involves exponential growth or decay","<p>Solve a problem that involves exponential growth or decay.<br /></p>",1,,,,0,null,,1746,,
+PREC12-B10,PREC12-B10.6,"10.6 Solve a problem that involves the application of exponential equations to loans, mortgages...","<p>Solve a problem that involves the application of exponential equations to loans, mortgages
+and investments.<br /></p>",1,,,,0,null,,1747,,
+PREC12-B10,PREC12-B10.7,"10.7 Solve a problem that involves logarithmic scales, such as the Richter scale and the pH scale","<p>Solve a problem that involves logarithmic scales, such as the Richter scale and the pH scale.<br /></p>",1,,,,0,null,,1748,,
+PREC12-B10,PREC12-B10.8,"10.8 Solve a problem by modelling a situation with an exponential or a logarithmic equation","<p>Solve a problem by modelling a situation with an exponential or a logarithmic equation.<br /></p>",1,,,,0,null,,1749,,
+PREC12-B,PREC12-B11,"B11 Demonstrate an understanding of factoring  polynomials of degree greater than 2...","<p>Demonstrate an understanding of factoring
+ polynomials of degree greater than 2 (limited to
+ polynomials of degree ≤ 5 with integral
+ coefficients).<br /></p>",1,,,,0,null,"WNCP--M[C],WNCP--M[CN],WNCP--M[ME]",1750,,
+PREC12-B11,PREC12-B11.1,"11.1 Explain how long division of a polynomial expression by a binomial expression of the form...","<p>Explain how long division of a polynomial expression by a binomial expression of the form
+x − a, a ∈ Z (\( x-a,\, a \in \mathbb{Z} \)) is related to synthetic division.<br /></p>",1,,,,0,null,,1751,,
+PREC12-B11,PREC12-B11.2,"11.2 Divide a polynomial expression by a binomial expression of the form x − a, a ∈ Z, using long...","<p>Divide a polynomial expression by a binomial expression of the form \( x-a,\, a \in \mathbb{Z} \), using
+long division or synthetic division.<br /></p>",1,,,,0,null,,1752,,
+PREC12-B11,PREC12-B11.3,"11.3 Explain the relationship between the linear factors of a polynomial expression and the zeros...","<p>Explain the relationship between the linear factors of a polynomial expression and the zeros
+of the corresponding polynomial function.<br /></p>",1,,,,0,null,,1753,,
+PREC12-B11,PREC12-B11.4,"11.4 Explain the relationship between the remainder when a polynomial expression is divided by...","<p>Explain the relationship between the remainder when a polynomial expression is divided
+by \( x-a,\, a \in \mathbb{Z} \), and the value of the polynomial expression at \(x = a\) (remainder theorem).<br /></p>",1,,,,0,null,,1754,,
+PREC12-B11,PREC12-B11.5,"11.5 Explain and apply the factor theorem to express a polynomial expression as a product of factors","<p>Explain and apply the factor theorem to express a polynomial expression as a product of
+factors.<br /></p>",1,,,,0,null,,1755,,
+PREC12-B,PREC12-B12,"B12 Graph and analyze polynomial functions (limited to  polynomial functions of degree ≤ 5 )","<p>Graph and analyze polynomial functions (limited to
+ polynomial functions of degree ≤ 5 ).<br /></p>",1,,,,0,null,"WNCP--M[C],WNCP--M[CN],WNCP--M[T],WNCP--M[V]",1756,,
+PREC12-B12,PREC12-B12.1,"12.1 Identify the polynomial functions in a set of functions, and explain the reasoning","<p>Identify the polynomial functions in a set of functions, and explain the reasoning.<br /></p>",1,,,,0,null,,1757,,
+PREC12-B12,PREC12-B12.2,"12.2 Explain the role of the constant term and leading coefficient in the equation of a...","<p>Explain the role of the constant term and leading coefficient in the equation of a polynomial
+function with respect to the graph of the function.<br /></p>",1,,,,0,null,,1758,,
+PREC12-B12,PREC12-B12.3,"12.3 Generalize rules for graphing polynomial functions of odd or even degree","<p>Generalize rules for graphing polynomial functions of odd or even degree.<br /></p>",1,,,,0,null,,1759,,
+PREC12-B12,PREC12-B12.4,"12.4 Explain the relationship between: the zeros of a polynomial function, the roots of the...","<p>Explain the relationship between: </p><p>• the zeros of a polynomial function<br />• <span>the roots of the corresponding polynomial equation<br />• the x-intercepts of the graph of the polynomial function.</span></p>",1,,,,0,null,,1760,,
+PREC12-B12,PREC12-B12.5,"12.5 Explain how the multiplicity of a zero of a polynomial function affects the graph","<p>Explain how the multiplicity of a zero of a polynomial function affects the graph.<br /></p>",1,,,,0,null,,1761,,
+PREC12-B12,PREC12-B12.6,"12.6 Sketch, with or without technology, the graph of a polynomial function","<p>Sketch, with or without technology, the graph of a polynomial function.<br /></p>",1,,,,0,null,,1762,,
+PREC12-B12,PREC12-B12.7,"12.7 Solve a problem by modelling a given situation with a polynomial function and analyzing the...","<p>Solve a problem by modelling a given situation with a polynomial function and analyzing
+the graph of the function.<br /></p>",1,,,,0,null,,1763,,
+PREC12-B,PREC12-B13,"B13 Graph and analyze radical functions (limited to  functions involving one radical)","<p>Graph and analyze radical functions (limited to
+ functions involving one radical).<br /></p>",1,,,,0,null,"WNCP--M[CN],WNCP--M[R],WNCP--M[T],WNCP--M[V]",1764,,
+PREC12-B13,PREC12-B13.1,"13.1 Sketch the graph of the function y=√(x), using a table of values, and state the domain and...","<p>Sketch the graph of the function \( y=\sqrt{x} \), using a table of values, and state the domain and
+range.<br /></p>",1,,,,0,null,,1765,,
+PREC12-B13,PREC12-B13.2,"13.2 Sketch the graph of the function y=a√[b(x-h)] +k by applying transformations to the graph of...","<p>Sketch the graph of the function \( y=a\sqrt{b(x-h)}+k \) by applying transformations to the graph
+of the function \( y=\sqrt{x} \), and state the domain and range.<br /></p>",1,,,,0,null,,1766,,
+PREC12-B13,PREC12-B13.3,"13.3 Sketch the graph of the function y=√[f(x)], given the graph of the function y=f(x), and...","<p>Sketch the graph of the function \( y=\sqrt{f(x)} \) , given the graph of the function \( y=f(x) \), and
+explain the strategies used.<br /></p>",1,,,,0,null,,1767,,
+PREC12-B13,PREC12-B13.4,"13.4 Compare the domain and range of the function y=√[f(x)], to the domain and range of the function","<p></p><p>Compare the domain and range of the function \( y=\sqrt{f(x)} \), to the domain and range of the
+function \( y=f(x) \), and explain why the domains and ranges may differ.</p><br />",1,,,,0,null,,1768,,
+PREC12-B13,PREC12-B13.5,"13.5 Describe the relationship between the roots of a radical equation and the x-intercepts of...","<p>Describe the relationship between the roots of a radical equation and the x-intercepts of the
+graph of the corresponding radical function.<br /></p>",1,,,,0,null,,1769,,
+PREC12-B13,PREC12-B13.6,"13.6 Determine, graphically, an approximate solution of a radical equation","<p>Determine, graphically, an approximate solution of a radical equation.<br /></p>",1,,,,0,null,,1770,,
+PREC12-B,PREC12-B14,"B14 Graph and analyze rational functions (limited to  numerators and denominators that are...","<p>Graph and analyze rational functions (limited to
+ numerators and denominators that are monomials,
+ binomials or trinomials).<br /></p>",1,,,,0,null,"WNCP--M[CN],WNCP--M[R],WNCP--M[T],WNCP--M[V]",1771,,
+PREC12-B14,PREC12-B14.1,"14.1 Graph, with or without technology, a rational function","<p>Graph, with or without technology, a rational function.<br /></p>",1,,,,0,null,,1772,,
+PREC12-B14,PREC12-B14.2,"14.2 Analyze the graphs of a set of rational functions to identify common characteristics. ","<p>Analyze the graphs of a set of rational functions to identify common characteristics.<br /></p>",1,,,,0,null,,1773,,
+PREC12-B14,PREC12-B14.3,"14.3 Explain the behaviour of the graph of a rational function for values of the variable near a...","<p>Explain the behaviour of the graph of a rational function for values of the variable near a
+non-permissible value.<br /></p>",1,,,,0,null,,1774,,
+PREC12-B14,PREC12-B14.4,"14.4 Determine if the graph of a rational function will have an asymptote or a hole for a...","<p>Determine if the graph of a rational function will have an asymptote or a hole for a non-permissible
+value.<br /></p>",1,,,,0,null,,1775,,
+PREC12-B14,PREC12-B14.5,"14.5 Match a set of rational functions to their graphs, and explain the reasoning","<p>Match a set of rational functions to their graphs, and explain the reasoning.<br /></p>",1,,,,0,null,,1776,,
+PREC12-B14,PREC12-B14.6,"14.6 Describe the relationship between the roots of a rational equation and the x-intercepts of...","<p>Describe the relationship between the roots of a rational equation and the x-intercepts of the
+graph of the corresponding rational function.<br /></p>",1,,,,0,null,,1777,,
+PREC12-B14,PREC12-B14.7,"14.7 Determine, graphically, an approximate solution of a rational equation","<p>Determine, graphically, an approximate solution of a rational equation.<br /></p>",1,,,,0,null,,1778,,
+PREC12-B,PREC12-B2,"B2 Demonstrate an understanding of the effects of horizontal and vertical translations on the","<p>Demonstrate an understanding of the effects of
+horizontal and vertical translations on the graphs of
+functions and their related equations.<br /></p>",1,,,,0,null,"WNCP--M[C],WNCP--M[CN],WNCP--M[R],WNCP--M[V]",1693,,
+PREC12-B2,PREC12-B2.1,"2.1 Compare the graphs of a set of functions of the form y–k=f(x) to the graph of y=f(x)...","<p>Compare the graphs of a set of functions of the form <span>y–k=f(x)</span> to the graph of y=f(x),
+and generalize, using inductive reasoning, a rule about the effect of k.<br /></p>",1,,,,0,null,,1694,,
+PREC12-B2,PREC12-B2.2,"2.2 Compare the graphs of a set of functions of the form y=f(x-h) to the graph of y=f(x), and...","<p>Compare the graphs of a set of functions of the form y=f(x-h) to the graph of
+y=f(x), and generalize, using inductive reasoning, a rule about the effect of h.<br /></p>",1,,,,0,null,,1695,,
+PREC12-B2,PREC12-B2.3,"2.3 Compare the graphs of a set of functions of the form y-k=f(x-h) to the graph of y=f(x), and","<p>Compare the graphs of a set of functions of the form y-k=f(x-h) to the graph of y=f(x), and generalize, using inductive reasoning, a rule about the effects of h and k.<br /></p>",1,,,,0,null,,1696,,
+PREC12-B2,PREC12-B2.4,"2.4 Sketch the graph of y-k=f(x), y=f(x-h) or y-k=f(x-h) for given values of h and k, given a...","<p>Sketch the graph of y-k=f(x), y=f(x-h) or y-k=f(x-h) for given values of h
+and k, given a sketch of the function y=f(x), where the equation of y=f(x) is not given.<br /></p>",1,,,,0,null,,1697,,
+PREC12-B2,PREC12-B2.5,"2.5 Write the equation of a function whose graph is a vertical and/or horizontal translation of...","<p>Write the equation of a function whose graph is a vertical and/or horizontal translation of the
+graph of the function y=f(x).<br /></p>",1,,,,0,null,,1698,,
+PREC12-B,PREC12-B3,"B3 Demonstrate an understanding of the effects of horizontal and vertical stretches on the graphs...","<p>Demonstrate an understanding of the effects of
+horizontal and vertical stretches on the graphs of
+functions and their related equations.<br /></p>",1,,,,0,null,"WNCP--M[C],WNCP--M[CN],WNCP--M[R],WNCP--M[V]",1699,,
+PREC12-B3,PREC12-B3.1,"3.1 Compare the graphs of a set of functions of the form y=af(x) to the graph of y=f(x) and...","<p>Compare the graphs of a set of functions of the form y=af(x) to the graph of y=f(x) and
+generalize, using inductive reasoning, a rule about the effect of a.<br /></p>",1,,,,0,null,,1700,,
+PREC12-B3,PREC12-B3.2,"3.2 Compare the graphs of a set of functions of the form y=f(bx) to the graph of y=f(x), and general","<p>Compare the graphs of a set of functions of the form y=f(bx) to the graph of y=f(x), and
+generalize, using inductive reasoning, a rule about the effect of b.<br /></p>",1,,,,0,null,,1701,,
+PREC12-B3,PREC12-B3.3,"3.3 Compare the graphs of a set of functions of the form y=af(bx) to the graph of y=f(x), and...","<p>Compare the graphs of a set of functions of the form y=af(bx) to the graph of y=f(x), and generalize, using inductive reasoning, a rule about the effects of a and b<br /></p>",1,,,,0,null,,1702,,
+PREC12-B3,PREC12-B3.4,"3.4 Sketch the graph of y=af(x), y=f(bx) or y=af(bx) for given values of a and b, given a sketch...","<p>Sketch the graph of y=af(x), y=f(bx) or y=af(bx) for given values of a and b, given a
+sketch of the function y=f(x), where the equation of y=f(x) is not given.<br /></p>",1,,,,0,null,,1703,,
+PREC12-B3,PREC12-B3.5,"3.5 Write the equation of a function, given its graph which is a vertical and/or horizontal...","<p>Write the equation of a function, given its graph which is a vertical and/or horizontal stretch
+of the graph of the function y=f(x).<br /></p>",1,,,,0,null,,1704,,
+PREC12-B,PREC12-B4,"B4 Apply translations and stretches to the graphs and equations of functions","<p>Apply translations and stretches to the graphs and
+equations of functions.<br /></p>",1,,,,0,null,"WNCP--M[C],WNCP--M[CN],WNCP--M[R],WNCP--M[V]",1705,,
+PREC12-B4,PREC12-B4.1,"4.1 Sketch the graph of the function y-k=af(b(x-h)) for given values of a, b, h and k, given the...","<p>Sketch the graph of the function y-k=af(b(x-h)) for given values of a, b, h and k, given
+the graph of the function y=f(x), where the equation of y=f(x) is not given.<br /></p>",1,,,,0,null,,1706,,
+PREC12-B4,PREC12-B4.2,"4.2 Write the equation of a function, given its graph which is a translation and/or stretch of...","<p>Write the equation of a function, given its graph which is a translation and/or stretch of the
+graph of the function y=f(x).<br /></p>",1,,,,0,null,,1707,,
+PREC12-B,PREC12-B5,"B5 Demonstrate an understanding of the effects of reflections on the graphs of functions and...","<p>Demonstrate an understanding of the effects of
+reflections on the graphs of functions and their
+related equations, including reflections through the:<br /></p><p>• x-axis <br /><span>• y-axis
+<br />• line y = x.</span></p>",1,,,,0,null,"WNCP--M[C],WNCP--M[CN],WNCP--M[R],WNCP--M[V]",1708,,
+PREC12-B5,PREC12-B5.1,"5.1 Generalize the relationship between the coordinates of an ordered pair and the coordinates of...","<p>Generalize the relationship between the coordinates of an ordered pair and the coordinates of
+the corresponding ordered pair that results from a reflection through the x-axis, the y-axis or
+the line y = x.<br /></p>",1,,,,0,null,,1709,,
+PREC12-B5,PREC12-B5.2,"5.2 Sketch the reflection of the graph of a function y=f(x) through the x-axis, the y-axis or the...","<p>Sketch the reflection of the graph of a function y=f(x) through the x-axis, the y-axis or the
+line y = x, given the graph of the function y=f(x), where the equation of y=f(x) is not
+given.<br /></p>",1,,,,0,null,,1710,,
+PREC12-B5,PREC12-B5.3,"5.3 Generalize, using inductive reasoning, and explain rules for the reflection of the graph of...","<p>5.3 Generalize, using inductive reasoning, and explain rules for the reflection of the graph of the
+function y=f(x) through the x-axis, the y-axis or the line y=x.<br /></p>",1,,,,0,null,,1711,,
+PREC12-B5,PREC12-B5.4,"5.4 Sketch the graphs of the functions y = −f(x), y = f(−x) and x = −f(y), given the graph of the...","<p>Sketch the graphs of the functions y=−f(x), y=f(−x) and x=−f(y), given the graph of the
+function y=f(x), where the equation of y=f(x) is not given.<br /></p>",1,,,,0,null,,1712,,
+PREC12-B5,PREC12-B5.5,"5.5 Write the equation of a function, given its graph which is a reflection of the graph of the...","<p>Write the equation of a function, given its graph which is a reflection of the graph of the
+function y=f(x) through the x-axis, the y-axis or the line y=x.<br /></p>",1,,,,0,null,,1713,,
+PREC12-B,PREC12-B6,"B6  Demonstrate an understanding of inverses of relations","<p>Demonstrate an understanding of inverses of
+relations.<br /></p>",1,,,,0,null,"WNCP--M[C],WNCP--M[CN],WNCP--M[R],WNCP--M[V]",1714,,
+PREC12-B6,PREC12-B6.1,"6.1 Explain how the graph of the line y=x can be used to sketch the inverse of a relation","<p>Explain how the graph of the line y=x can be used to sketch the inverse of a relation.<br /></p>",1,,,,0,null,,1715,,
+PREC12-B6,PREC12-B6.2,"6.2 Explain how the transformation (x, y) => (y, x) can be used to sketch the inverse of a relation","<p>Explain how the transformation (x, y) =&gt; (y, x) can be used to sketch the inverse of a relation.<br /></p>",1,,,,0,null,,1716,,
+PREC12-B6,PREC12-B6.3,"6.3 Sketch the graph of the inverse relation, given the graph of a relation","<p>Sketch the graph of the inverse relation, given the graph of a relation.<br /></p>",1,,,,0,null,,1717,,
+PREC12-B6,PREC12-B6.4,"6.4 Determine if a relation and its inverse are functions","<p>Determine if a relation and its inverse are functions.<br /></p>",1,,,,0,null,,1718,,
+PREC12-B6,PREC12-B6.5,"6.5 Determine restrictions on the domain of a function in order for its inverse to be a function","<p>Determine restrictions on the domain of a function in order for its inverse to be a function.<br /></p>",1,,,,0,null,,1719,,
+PREC12-B6,PREC12-B6.6,"6.6 Determine the equation and sketch the graph of the inverse relation, given the equation of a...","<p>Determine the equation and sketch the graph of the inverse relation, given the equation of a
+linear or quadratic relation.<br /></p>",1,,,,0,null,,1720,,
+PREC12-B6,PREC12-B6.7,"6.7 Explain the relationship between the domains and ranges of a relation and its inverse","<p>Explain the relationship between the domains and ranges of a relation and its inverse.<br /></p>",1,,,,0,null,,1721,,
+PREC12-B6,PREC12-B6.8,"6.8 Determine, algebraically or graphically, if two functions are inverses of each other","<p>Determine, algebraically or graphically, if two functions are inverses of each other.<br /></p>",1,,,,0,null,,1722,,
+PREC12-B,PREC12-B7,"B7 Demonstrate an understanding of logarithms","<p>Demonstrate an understanding of logarithms.<br /></p>",1,,,,0,null,"WNCP--M[CN],WNCP--M[ME],WNCP--M[R]",1723,,
+PREC12-B7,PREC12-B7.1,"7.1 Explain the relationship between logarithms and exponents","<p>Explain the relationship between logarithms and exponents.<br /></p>",1,,,,0,null,,1724,,
+PREC12-B7,PREC12-B7.2,"7.2 Express a logarithmic expression as an exponential expression and vice versa","<p>Express a logarithmic expression as an exponential expression and vice versa.<br /></p>",1,,,,0,null,,1725,,
+PREC12-B7,PREC12-B7.3,"7.3 Determine, without technology, the exact value of a logarithm, such as log₂8. ","<p>Determine, without technology, the exact value of a logarithm, such as log₂8.<br /></p>",1,,,,0,null,,1726,,
+PREC12-B7,PREC12-B7.4,"7.4 Estimate the value of a logarithm, using benchmarks, and explain the reasoning...","<p>7.4 Estimate the value of a logarithm, using benchmarks, and explain the reasoning; e.g.,
+ since log₂8=3 and log₂16=4, log₂9 is approximately equal to 3.1.<br /></p>",1,,,,0,null,,1727,,
+PREC12-B,PREC12-B8,"B8 Demonstrate an understanding of the product, quotient and power laws of logarithms","<p>Demonstrate an understanding of the product,
+quotient and power laws of logarithms.<br /></p>",1,,,,0,null,"WNCP--M[C],WNCP--M[CN],WNCP--M[R],WNCP--M[T]",1728,,
+PREC12-B8,PREC12-B8.1,"8.1 Develop and generalize the laws for logarithms, using numeric examples and exponent laws","<p>Develop and generalize the laws for logarithms, using numeric examples and exponent laws.<br /></p>",1,,,,0,null,,1729,,
+PREC12-B8,PREC12-B8.2,"8.2 Derive each law of logarithms","<p>Derive each law of logarithms.<br /></p>",1,,,,0,null,,1730,,
+PREC12-B8,PREC12-B8.3,"8.3 Determine, using the laws of logarithms, an equivalent expression for a logarithmic expression","<p>Determine, using the laws of logarithms, an equivalent expression for a logarithmic
+expression.<br /></p>",1,,,,0,null,,1731,,
+PREC12-B8,PREC12-B8.4,"8.4 Determine, with technology, the approximate value of a logarithmic expression, such as log₂9","<p>Determine, with technology, the approximate value of a logarithmic expression, such as log₂9 .<br /></p>",1,,,,0,null,,1732,,
+PREC12-B,PREC12-B9,"B9 Graph and analyze exponential and logarithmic functions","<p>Graph and analyze exponential and logarithmic
+functions.<br /></p>",1,,,,0,null,"WNCP--M[C],WNCP--M[CN],WNCP--M[T],WNCP--M[V]",1733,,
+PREC12-B9,PREC12-B9.1,"9.1 Sketch, with or without technology, a graph of an exponential function of the form y=a^x... ","<p>Sketch, with or without technology, a graph of an exponential function of the form
+y = a^x, a &gt; 0.<br /></p>",1,,,,0,null,,1734,,
+PREC12-B9,PREC12-B9.2,"9.2 Identify the characteristics of the graph of an exponential function of the form y=a^x, a>0...","<p>Identify the characteristics of the graph of an exponential function of the form \[y = a^x,\, a &gt; 0\], including the domain, range, horizontal asymptote and intercepts, and explain the
+significance of the horizontal asymptote.<br /></p>",1,,,,0,null,,1735,,
+PREC12-B9,PREC12-B9.3,"9.3 Sketch the graph of an exponential function by applying a set of transformations to the graph of","<p>Sketch the graph of an exponential function by applying a set of transformations to the graph
+of \[y = a^x,\, a &gt; 0\], and state the characteristics of the graph.<br /></p>",1,,,,0,null,,1736,,
+PREC12-B9,PREC12-B9.4,"9.4 Sketch, with or without technology, the graph of a logarithmic function of the form y=logᵦx...","<p>Sketch, with or without technology, the graph of a logarithmic function of the form
+\[y = log_b x,\, b &gt; 1.\]<br /></p>",1,,,,0,null,,1737,,
+PREC12-B9,PREC12-B9.5,"9.5 Identify the characteristics of the graph of a logarithmic function of the form y=logᵦx,b>1...","<p>Identify the characteristics of the graph of a logarithmic function of the form \[y = log_bx,\, b &gt; 1\], including the domain, range, vertical asymptote and intercepts, and explain the
+significance of the vertical asymptote.<br /></p>",1,,,,0,null,,1738,,
+PREC12-B9,PREC12-B9.6,"9.6 Sketch the graph of a logarithmic function by applying a set of transformations to the graph...","<p>Sketch the graph of a logarithmic function by applying a set of transformations to the graph
+of \[y = log_bx,\, b &gt; 1\] and state the characteristics of the graph.<br /></p>",1,,,,0,null,,1739,,
+PREC12-B9,PREC12-B9.7,"9.7 Demonstrate, graphically, that a logarithmic function and an exponential function with the...","<p>9.7 Demonstrate, graphically, that a logarithmic function and an exponential function with the
+same base are inverses of each other.<br /></p>",1,,,,0,null,,1740,,
+PREC12,PREC12-C,"Permutations, Combinations and Binomial Theorem","<p>General Outcome: Develop algebraic and numeric reasoning that involves combinatorics.<br /></p>",1,,,,0,null,,1779,,
+PREC12-C,PREC12-C1,"C1 Apply the fundamental counting principle to solve problems","<p>Apply the fundamental counting principle to solve
+problems.<br /></p>",1,,,,0,null,"WNCP--M[C],WNCP--M[PS],WNCP--M[R],WNCP--M[V]",1780,,
+PREC12-C1,PREC12-C1.1,"1.1 Count the total number of possible choices that can be made, using graphic organizers such as...","<p>Count the total number of possible choices that can be made, using graphic organizers such as
+lists and tree diagrams.<br /></p>",1,,,,0,null,,1781,,
+PREC12-C1,PREC12-C1.2,"1.2 Explain, using examples, why the total number of possible choices is found by multiplying...","<p>Explain, using examples, why the total number of possible choices is found by multiplying
+rather than adding the number of ways the individual choices can be made.<br /></p>",1,,,,0,null,,1782,,
+PREC12-C1,PREC12-C1.3,"1.3 Solve a simple counting problem by applying the fundamental counting principle","<p>Solve a simple counting problem by applying the fundamental counting principle.<br /></p>",1,,,,0,null,,1783,,
+PREC12-C,PREC12-C2,"C2 Determine the number of permutations of n elements taken r at a time to solve problems","<p>Determine the number of permutations of \(n\) elements
+taken \(r\) at a time to solve problems.<br /></p>",1,,,,0,null,"WNCP--M[C],WNCP--M[PS],WNCP--M[R],WNCP--M[V]",1784,,
+PREC12-C2,PREC12-C2.1,"2.1 Count, using graphic organizers such as lists and tree diagrams, the number of ways of...","<p>Count, using graphic organizers such as lists and tree diagrams, the number of ways of
+arranging the elements of a set in a row.<br /></p>",1,,,,0,null,,1785,,
+PREC12-C2,PREC12-C2.2,"2.2 Determine, in factorial notation, the number of permutations of n different elements taken n...","<p>Determine, in factorial notation, the number of permutations of n different elements taken n at
+a time to solve a problem.<br /></p>",1,,,,0,null,,1786,,
+PREC12-C2,PREC12-C2.3,"2.3 Determine, using a variety of strategies, the number of permutations of n different elements...","<p>Determine, using a variety of strategies, the number of permutations of n different elements
+taken r at a time to solve a problem.<br /></p>",1,,,,0,null,,1787,,
+PREC12-C2,PREC12-C2.4,"2.4 Explain why n must be greater than or equal to r in the notation nPr","<p>Explain why n must be greater than or equal to r in the notation \( _nP_r \).<br /></p>",1,,,,0,null,,1788,,
+PREC12-C2,PREC12-C2.5,"2.5 Solve an equation that involves nPr notation, such as nP₂=30 . ","<p>Solve an equation that involves \( _nP_r \) notation, such as \( _nP_2=30 \) . <br /></p>",1,,,,0,null,,1789,,
+PREC12-C2,PREC12-C2.6,"2.6 Explain, using examples, the effect on the total number of permutations when two or more...","Explain, using examples, the effect on the total number of permutations when two or more
+elements are identical.",1,,,,0,null,,1790,,
+PREC12-C,PREC12-C3,"C3 Determine the number of combinations of n different elements taken r at a time to solve problems","<p>Determine the number of combinations of \(n\) different
+elements taken \(r\) at a time to solve problems.<br /></p>",1,,,,0,null,"WNCP--M[C],WNCP--M[PS],WNCP--M[R],WNCP--M[V]",1791,,
+PREC12-C3,PREC12-C3.1,"3.1 Explain, using examples, the difference between a permutation and a combination","<p>Explain, using examples, the difference between a permutation and a combination.<br /></p>",1,,,,0,null,,1792,,
+PREC12-C3,PREC12-C3.2,"3.2 Determine the number of ways that a subset of k elements can be selected from a set of n...","<p>Determine the number of ways that a subset of k elements can be selected from a set of n
+different elements.<br /></p>",1,,,,0,null,,1793,,
+PREC12-C3,PREC12-C3.3,"3.3 Determine the number of combinations of n different elements taken r at a time to solve a...","<p>Determine the number of combinations of n different elements taken r at a time to solve a
+problem.<br /></p>",1,,,,0,null,,1794,,
+PREC12-C3,PREC12-C3.4,"3.4 Explain why n must be greater than or equal to r in the notation nCr or (n choose r)","<p>Explain why n must be greater than or equal to r in the notation \( _nC_r \) or \( \displaystyle\binom {n} {r}  \).<br /></p>",1,,,,0,null,,1795,,
+PREC12-C3,PREC12-C3.5,"3.5 Explain, using examples, why nC_(n-r) or (n choose r) = (n choose n-r)","<p>Explain, using examples, why \( _nC_r = _nC_{n-r} \) or \( \displaystyle \binom{n}{r} = \binom{n}{n-r} \).<br /></p>",1,,,,0,null,,1796,,
+PREC12-C3,PREC12-C3.6,"3.6 Solve an equation that involves nCr or (n choose r) notation, such as nC2 =15 or...","<p>Solve an equation that involves \( _nC_r \) or \( \dbinom{n}{r} \) notation, such as \( _nC_2 = 15 \) or \( \dbinom{n}{2} = 15 \).<br /></p>",1,,,,0,null,,1797,,
+PREC12-C,PREC12-C4,"C4 Expand powers of a binomial in a variety of ways, including using the binomial theorem...","<p>Expand powers of a binomial in a variety of ways,
+including using the binomial theorem (restricted to
+exponents that are natural numbers).<br /></p>",1,,,,0,null,"WNCP--M[CN],WNCP--M[R],WNCP--M[V]",1798,,
+PREC12-C4,PREC12-C4.1,"4.1 Explain the patterns found in the expanded form of (x+y)ⁿ, n ≤ 4 and n∈N, by multiplying n...","<p>Explain the patterns found in the expanded form of \( (x+y)^n,\, n \leq 4 \) and \( n \in \mathbb{N} \), by
+multiplying \( n \) factors of \( (x+y) \).<br /></p>",1,,,,0,null,,1799,,
+PREC12-C4,PREC12-C4.2,"4.2 Explain how to determine the subsequent row in Pascal’s triangle, given any row","<p>Explain how to determine the subsequent row in Pascal’s triangle, given any row.<br /></p>",1,,,,0,null,,1800,,
+PREC12-C4,PREC12-C4.3,"4.3 Relate the coefficients of the terms in the expansion of (x+y)ⁿ to the (n+1) row in Pascal’s...","<p>Relate the coefficients of the terms in the expansion of \( (x+y)^n \) to the \( (n+1) \) row in Pascal’s
+triangle.<br /></p>",1,,,,0,null,,1801,,
+PREC12-C4,PREC12-C4.4,"4.4 Explain, using examples, how the coefficients of the terms in the expansion of (x+y)ⁿ are...","<p>Explain, using examples, how the coefficients of the terms in the expansion of \( (x+y)^n \) are
+determined by combinations.<br /></p>",1,,,,0,null,,1802,,
+PREC12-C4,PREC12-C4.5,"4.5 Expand, using the binomial theorem, (x+y)ⁿ","<p>Expand, using the binomial theorem, \( (x+y)^n \).<br /><br /></p>",1,,,,0,null,,1803,,
+PREC12-C4,PREC12-C4.6,"4.6 Determine a specific term in the expansion of (x+y)ⁿ","<p>Determine a specific term in the expansion of \( (x+y)^n \)<span style=""background-color:transparent;color:inherit;font-family:Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;font-size:inherit;"">.</span><br /><br /></p>",1,,,,0,null,,1804,,
+PREC12-A6,PREC12.A6.2,"6.2 Verify a trigonometric identity numerically for a given value in either degrees or radians. ","<p>Verify a trigonometric identity numerically for a given value in either degrees or radians.<br /></p>",1,,,,0,null,,1676,,
+,WNCP--M,"Mathematics Processes","<p>The seven mathematical processes are
+critical aspects of learning, doing and
+understanding mathematics. Students must
+encounter these processes regularly in a
+mathematics program in order to achieve the
+goals of mathematics education. </p><p>The common curriculum framework incorporates the following interrelated mathematical processes. It is intended that they permeate the teaching and learning of mathematics.<br /></p><p>Students are expected to: <br /></p> • use <i>communication</i> in order to learn and
+express their understanding<br /> • make <i>connections </i>among mathematical
+ideas, other concepts in mathematics, everyday experiences and other
+disciplines<p> • demonstrate fluency with <i>mental
+mathematics and estimation</i><br /> • develop and apply new mathematical
+knowledge through <i>problem solving</i><br /> • develop <i>mathematical reasoning</i><br /> • select and use <i>technology </i>as a tool for
+learning and solving problems<br /> • develop <i>visualization </i>skills to assist in
+processing information, making connections and solving problems.</p><p>All seven processes should be used in the teaching
+and learning of mathematics. Each specific
+outcome includes a list of relevant mathematical
+processes. The identified processes are to be used
+as a primary focus of instruction and assessment.<br /></p><p>The seven mathematical processes are interwoven throughout the mathematical topics.<br /></p><p><br /></p><p></p>",1,,,,0,null,,1460,,
+WNCP--M,WNCP--M[C],"Communication [C]","<p>Students need opportunities to read about,
+represent, view, write about, listen to and discuss
+mathematical ideas. These opportunities allow
+students to create links among their own language
+and ideas, the language and ideas of others, and the
+formal language and symbols of mathematics.<br /></p><p>Communication is important in clarifying,
+reinforcing and modifying ideas, attitudes and
+beliefs about mathematics. Students should be
+encouraged to use a variety of forms of
+communication while learning mathematics.
+Students also need to communicate their learning
+using mathematical terminology.<br /></p><p>Communication can play a significant role in
+helping students make connections among
+concrete, pictorial, symbolic, verbal, written and
+mental representations of mathematical ideas.<br /></p><p>Emerging technologies enable students to engage
+in communication beyond the traditional classroom
+to gather data and share mathematical ideas.<br /></p>",1,,,,0,null,"PREC12-B2,PREC12-B3,PREC12-B4,PREC12-B5,PREC12-B6,PREC12-B8,PREC12-B9,PREC12-B10,PREC12-B11,PREC12-B12,PREC12-C1,PREC12-C2,PREC12-C3",1461,,
+WNCP--M,WNCP--M[CN],"Connections [CN]","<p>Contextualization and making connections to the
+experiences of learners are powerful processes in
+developing mathematical understanding. When
+mathematical ideas are connected to each other or
+to real-world phenomena, students begin to view
+mathematics as useful, relevant and integrated. </p><p>Learning mathematics within contexts and making
+connections relevant to learners can validate past
+experiences and increase student willingness to
+participate and be actively engaged. </p><p>The brain is constantly looking for and making
+connections. “Because the learner is constantly
+searching for connections on many levels,
+educators need to <i>orchestrate the experiences</i> from
+which learners extract understanding.… Brain
+research establishes and confirms that multiple
+complex and concrete experiences are essential for
+meaningful learning and teaching” (Caine and
+Caine, 1991, p. 5).<br /></p>",1,,,,0,null,"PREC12-A1,PREC12-A2,PREC12-A4,PREC12-A5,PREC12-B1,PREC12-B2,PREC12-B3,PREC12-B4,PREC12-B5,PREC12-B6,PREC12-B7,PREC12-B8,PREC12-B9,PREC12-B10,PREC12-B11,PREC12-B12,PREC12-B13,PREC12-B14,PREC12-C4",1462,,
+WNCP--M,WNCP--M[ME],"Mental Mathematics and Estimation [ME] ","<p>Mental mathematics is a combination of cognitive
+strategies that enhance flexible thinking and number
+sense. It involves using strategies to perform mental
+calculations.<br /></p><p>Mental mathematics enables students to determine
+answers without paper and pencil. It improves
+computational fluency by developing efficiency,
+accuracy and flexibility in reasoning and calculating.<br /></p><p>“Even more important than performing computational
+procedures or using calculators is the greater facility
+that students need—more than ever before—with
+estimation and mental math” (National Council of
+Teachers of Mathematics, May 2005).<br /></p><p>Students proficient with mental mathematics “become
+liberated from calculator dependence, build confidence
+in doing mathematics, become more flexible thinkers
+and are more able to use multiple approaches to
+problem solving” (Rubenstein, 2001, p. 442).<br /></p><p>Mental mathematics “provides a cornerstone for all
+estimation processes, offering a variety of alternative
+algorithms and nonstandard techniques for finding
+answers” (Hope, 1988, p. v).<br /></p><p>Estimation is used for determining approximate values
+or quantities, usually by referring to benchmarks or
+referents, or for determining the reasonableness of
+calculated values. Estimation is also used to make
+mathematical judgements and to develop useful,
+efficient strategies for dealing with situations in daily
+life. When estimating, students need to learn which
+strategy to use and how to use it.<br /></p>",1,,,,0,null,"PREC12-A1,PREC12-A3,PREC12-B7,PREC12-B11",1463,,
+WNCP--M,WNCP--M[PS],"Problem Solving [PS] ","<p>Problem solving is one of the key processes and
+foundations within the field of mathematics.
+Learning through problem solving should be the
+focus of mathematics at all grade levels. Students
+develop a true understanding of mathematical
+concepts and procedures when they solve problems
+in meaningful contexts. Problem solving is to be
+employed throughout all of mathematics and should
+be embedded throughout all the topics.</p><p>When students encounter new situations and
+respond to questions of the type, <i>How would you ...?</i>
+or <i>How could you ...?</i>, the problem-solving
+approach is being modelled. Students develop their
+own problem-solving strategies by listening to,
+discussing and trying different strategies.<br /></p><p>In order for an activity to be problem-solving based,
+it must ask students to determine a way to get from
+what is known to what is sought. If students have
+already been given ways to solve the problem, it is
+not a problem, but practice. Students should not
+know the answer immediately. A true problem
+requires students to use prior learnings in new ways
+and contexts. Problem solving requires and builds
+depth of conceptual understanding and student
+engagement. Students will be engaged if the
+problems relate to their lives, cultures, interests,
+families or current events.<br /></p><p>Both conceptual understanding and student
+engagement are fundamental in moulding students’
+willingness to persevere in future problem-solving
+tasks.<br /></p><p>Problems are not just simple computations embedded in a
+story, nor are they contrived. They are tasks that are rich
+and open-ended, so there may be more than one way of
+arriving at a solution or there may be multiple answers.
+Good problems should allow for every student in the class
+to demonstrate their knowledge, skill or understanding.
+Problem solving can vary from being an individual
+activity to a class (or beyond) undertaking. </p><p>In a mathematics class, there are two distinct types of
+problem solving: solving contextual problems outside of
+mathematics and solving mathematical problems. Finding
+the maximum profit given manufacturing constraints is an
+example of a contextual problem, while seeking and
+developing a general formula to solve a quadratic equation
+is an example of a mathematical problem. </p><p>Problem solving can also be considered in terms of
+engaging students in both inductive and deductive
+reasoning strategies. As students make sense of the
+problem, they will be creating conjectures and looking for
+patterns that they may be able to generalize. This part of
+the problem-solving process often involves inductive
+reasoning. As students use approaches to solving the
+problem they often move into mathematical reasoning that
+is deductive in nature. It is crucial that students be
+encouraged to engage in both types of reasoning and be
+given the opportunity to consider the approaches and
+strategies used by others in solving similar problems. </p><p>Problem solving is a powerful teaching tool that fosters
+multiple, creative and innovative solutions. Creating an
+environment where students openly look for, and engage
+in, finding a variety of strategies for solving problems
+empowers students to explore alternatives and develops
+confident, cognitive mathematical risk-takers.<br /></p>",1,,,,0,null,"PREC12-A3,PREC12-A4,PREC12-A5,PREC12-B10,PREC12-C1,PREC12-C2,PREC12-C3",1464,,
+WNCP--M,WNCP--M[R],"Reasoning [R] ","<p>Mathematical reasoning helps students think
+logically and make sense of mathematics. Students
+need to develop confidence in their abilities to
+reason and justify their mathematical thinking.
+Questions that challenge students to think, analyze
+and synthesize help them develop an understanding
+of mathematics. All students need to be challenged
+to answer questions such as,<i> Why do you believe
+that’s true/correct?</i> or <i>What would happen if ….</i> </p><p>Mathematical experiences provide opportunities for
+students to engage in inductive and deductive
+reasoning. Students use inductive reasoning when
+they explore and record results, analyze
+observations, make generalizations from patterns
+and test these generalizations. Students use
+deductive reasoning when they reach new
+conclusions based upon the application of what is
+already known or assumed to be true. The thinking
+skills developed by focusing on reasoning can be
+used in daily life in a wide variety of contexts and
+disciplines.<br /></p>",1,,,,0,null,"PREC12-A1,PREC12-A2,PREC12-A3,PREC12-A5,PREC12-A6,PREC12-B1,PREC12-B2,PREC12-B3,PREC12-B4,PREC12-B5,PREC12-B6,PREC12-B7,PREC12-B8,PREC12-B10,PREC12-B13,PREC12-B14,PREC12-C1,PREC12-C2,PREC12-C3,PREC12-C4",1465,,
+WNCP--M,WNCP--M[T],"Technology [T] ","<p>Technology can be used effectively to contribute to and
+support the learning of a wide range of mathematical
+outcomes. Technology enables students to explore and
+create patterns, examine relationships, test conjectures
+and solve problems.</p><p>Calculators and computers can be used to:<br /> • explore and demonstrate mathematical relationships
+and patterns<br /> • organize and display data<br /> • generate and test inductive conjectures<br /> • extrapolate and interpolate<br /> • assist with calculation procedures as part of solving
+problems<br /> • increase the focus on conceptual understanding by
+decreasing the time spent on repetitive procedures<br /> • reinforce the learning of basic facts<br /> • develop personal procedures for mathematical
+operations<br /> • model situations<br /> • develop number and spatial sense.</p><p>Technology contributes to a learning environment in
+which the curiosity of students can lead to rich
+mathematical discoveries at all grade levels. The use of
+technology should not replace mathematical
+understanding. Instead, technology should be used as
+one of a variety of approaches and tools for creating
+mathematical understanding<br /></p>",1,,,,0,null,"PREC12-A3,PREC12-A4,PREC12-A5,PREC12-A6,PREC12-B1,PREC12-B8,PREC12-B9,PREC12-B12,PREC12-B13,PREC12-B14",1466,,
+WNCP--M,WNCP--M[V],"Visualization [V] ","<p>Visualization
+“involves thinking in pictures and
+images, and the ability to perceive, transform and
+recreate different aspects of the visual-spatial
+world
+” (Armstrong, 1993, p. 10). The use of
+visualization in the study of mathematics provides
+students with opportunities to understand
+mathematical concepts and make connections
+among them. </p><p>Visual images and visual reasoning are important
+components of number, spatial and measurement
+sense. Number visualization occurs when students
+create mental representations of numbers. </p><p>Being able to create, interpret and describe a visual
+representation is part of spatial sense and spatial
+reasoning. Spatial visualization and spatial
+reasoning enable students to describe the
+relationships among and between 3-D objects and
+2-D shapes. </p><p>Measurement visualization goes beyond the
+acquisition of specific measurement skills.
+Measurement sense includes the ability to determine
+when to measure and when to estimate and involves
+knowledge of several estimation strategies (Shaw and
+Cliatt, 1989, p. 150). </p><p>Visualization is fostered through the use of concrete
+materials, technology and a variety of visual
+representations. It is through visualization that abstract
+concepts can be understood concretely by the student.
+Visualization is a foundation to the development of
+abstract understanding, confidence and fluency.<br /></p>",1,,,,0,null,"PREC12-A1,PREC12-A2,PREC12-A3,PREC12-A4,PREC12-A5,PREC12-A6,PREC12-B1,PREC12-B2,PREC12-B3,PREC12-B4,PREC12-B5,PREC12-B6,PREC12-B9,PREC12-B12,PREC12-B13,PREC12-B14,PREC12-C1,PREC12-C2,PREC12-C3,PREC12-C4",1467,,
+,WNCP--N,"Nature of Mathematics","<p>Mathematics is one way of understanding,
+interpreting and describing our world. There are a
+number of characteristics that define the nature of
+mathematics, including change, constancy, number
+sense, patterns, relationships, spatial sense and
+uncertainty.<br /></p>",1,,,,0,null,,1452,,
+WNCP--N,WNCP--N1,Change,"<p>It is important for students to understand that
+mathematics is dynamic and not static. As a result,
+recognizing change is a key component in
+understanding and developing mathematics.<br /></p><p>Within mathematics, students encounter conditions
+of change and are required to search for
+explanations of that change. To make predictions,
+students need to describe and quantify their
+observations, look for patterns, and describe those
+quantities that remain fixed and those that change.<br /></p><p>Students need to learn that new concepts of
+mathematics as well as changes to already learned
+concepts arise from a need to describe and
+understand something new. Integers, decimals,
+fractions, irrational numbers and complex numbers
+emerge as students engage in exploring new
+situations that cannot be effectively described or
+analyzed using whole numbers.<br /></p><p>Students best experience change to their
+understanding of mathematical concepts as a result
+of mathematical play.<br /></p>",1,,,,0,null,,1453,,
+WNCP--N,WNCP--N2,"Constancy ","<p>Many important properties in mathematics do not
+change when conditions change. Examples of
+constancy include: </p><p></p><ul><li>the conservation of equality in solving equations</li><li>the sum of the interior angles of any triangle</li><li>the theoretical probability of an event. </li></ul>Some problems in mathematics require students to
+focus on properties that remain constant. The
+recognition of constancy enables students to solve
+problems such as those involving constant rates of
+change, lines with constant slope, or direct
+variation situations.<br />",1,,,,0,null,,1454,,
+WNCP--N,WNCP--N3,"Number Sense","<p>Number sense, which can be thought of as deep
+understanding and flexibility with numbers, is the
+most important foundation of numeracy (British
+Columbia Ministry of Education, 2000, p. 146).
+Continuing to foster number sense is fundamental
+to growth of mathematical understanding. </p><p>A true sense of number goes well beyond the skills
+of simply counting, memorizing facts and the
+situational rote use of algorithms. Students with
+strong number sense are able to judge the
+reasonableness of a solution, describe relationships
+between different types of numbers, compare
+quantities and work with different representations
+of the same number to develop a deeper conceptual
+understanding of mathematics. </p><p>Number sense develops when students connect
+numbers to real-life experiences and when students
+use benchmarks and referents. This results in
+students who are computationally fluent and
+flexible with numbers and who have intuition
+about numbers. Evolving number sense typically
+comes as a by-product of learning rather than
+through direct instruction. However, number sense
+can be developed by providing mathematically rich
+tasks that allow students to make connections.<br /></p>",1,,,,0,null,,1455,,
+WNCP--N,WNCP--N4,Patterns,"<p>Mathematics is about recognizing, describing and
+working with numerical and non-numerical
+patterns. Patterns exist in all of the mathematical
+topics, and it is through the study of patterns that
+students can make strong connections between
+concepts in the same and different topics. Working
+with patterns also enables students to make
+connections beyond mathematics. The ability to
+analyze patterns contributes to how students
+understand their environment. </p><p>Patterns may be represented in concrete, visual,
+auditory or symbolic form. Students should
+develop fluency in moving from one representation
+to another. </p><p>Students need to learn to recognize, extend, create
+and apply mathematical patterns. This
+understanding of patterns allows students to make
+predictions and justify their reasoning when
+solving problems. </p><p>Learning to work with patterns helps develop
+students’ algebraic thinking, which is foundational
+for working with more abstract mathematics.<br /></p>",1,,,,0,null,,1456,,
+WNCP--N,WNCP--N5,Relationships,"<p>Mathematics is used to describe and explain
+relationships. Within the study of mathematics,
+students look for relationships among numbers,
+sets, shapes, objects, variables and concepts. The
+search for possible relationships involves
+collecting and analyzing data, analyzing patterns
+and describing possible relationships visually,
+symbolically, orally or in written form.<br /></p>",1,,,,0,null,,1457,,
+WNCP--N,WNCP--N6,"Spatial Sense","<p>Spatial sense involves the representation and
+manipulation of 3-D objects and 2-D shapes. It
+enables students to reason and interpret among 3-D
+and 2-D representations. </p><p>Spatial sense is developed through a variety of
+experiences with visual and concrete models.
+It offers a way to interpret and reflect on the
+physical environment and its 3-D or 2-D
+representations. </p><p>Some problems involve attaching numerals and
+appropriate units (measurement) to dimensions of
+objects. Spatial sense allows students to make
+predictions about the results of changing these
+dimensions. </p><p>Spatial sense is also critical in students’
+understanding of the relationship between the
+equations and graphs of functions and, ultimately,
+in understanding how both equations and graphs
+can be used to represent physical situations.<br /></p>",1,,,,0,null,,1458,,
+WNCP--N,WNCP--N7,Uncertainty,"<p>In mathematics, interpretations of data and the
+predictions made from data inherently lack
+certainty. </p><p>Events and experiments generate statistical data
+that can be used to make predictions. It is
+important that students recognize that these
+predictions (interpolations and extrapolations) are
+based upon patterns that have a degree of
+uncertainty. The quality of an interpretation or
+conclusion is directly related to the quality of the
+data it is based upon. An awareness of uncertainty
+provides students with an understanding of why
+and how to assess the reliability of data and data
+interpretation. </p><p>Chance addresses the predictability of the
+occurrence of an outcome. As students develop
+their understanding of probability, the language of
+mathematics becomes more specific and describes
+the degree of uncertainty more accurately. This
+language must be used effectively and correctly to
+convey valuable messages.<br /></p>",1,,,,0,null,,1459,,
