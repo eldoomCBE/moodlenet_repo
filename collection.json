@@ -1,0 +1,254 @@
+[
+  {
+    "name": "CCSS Math",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/041_CCSS.Math_httpcorestandards.orgMath_20170106_0445_comma_separated.csv",
+    "message": "Common Core State Standards for Mathematics",
+    "category": "📂 Standards"
+  },
+  {
+    "name": "CA NGSS",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/042_CA.NGSS_20170106_0451_comma_separated.csv",
+    "message": "California Next Generation Science Standards",
+    "category": "📂 Standards"
+  },
+  {
+    "name": "CBE_ENG",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/044_CBE_ENG_20170106_0456_comma_separated.csv",
+    "message": "Competency-Based Education - English",
+    "category": "📂 CBE"
+  },
+  {
+    "name": "CBE_MATH",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/045_CBE_MATH_20170106_0457_comma_separated.csv",
+    "message": "Competency-Based Education - Mathematics",
+    "category": "📂 CBE"
+  },
+  {
+    "name": "CBE_SCI",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/046_CBE_SCI_20170106_0458_comma_separated.csv",
+    "message": "Competency-Based Education - Science",
+    "category": "📂 CBE"
+  },
+  {
+    "name": "NGSS",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/051_NGSS_httpngss.nsta.orgNGSS_20170106_0505_comma_separated.csv",
+    "message": "Next Generation Science Standards",
+    "category": "📂 Standards"
+  },
+  {
+    "name": "CA Standards for the Teaching Profession",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/060_CA.Standards.for.the.Teaching.Profession_20170106_0516_comma_separated.csv",
+    "message": "California Standards for the Teaching Profession",
+    "category": "📂 Teaching Standards"
+  },
+  {
+    "name": "Danielson Framework for Teaching",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/061_Danielson.Framework.for.Teaching_20170106_0517_comma_separated.csv",
+    "message": "Danielson Framework for Teaching",
+    "category": "📂 Teaching Standards"
+  },
+  {
+    "name": "InTASC Model Core Teaching Standards",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/062_InTASC.Model.Core.Teaching.Standards_20170106_0518_comma_separated.csv",
+    "message": "InTASC Model Core Teaching Standards",
+    "category": "📂 Teaching Standards"
+  },
+  {
+    "name": "ISTE Standards for Educators",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/063_ISTE.Standards.for.Educators_20170106_0519_comma_separated.csv",
+    "message": "ISTE Standards for Educators",
+    "category": "📂 Technology Standards"
+  },
+  {
+    "name": "ISTE Standards for Students",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/064_ISTE.Standards.for.Students_20170106_0520_comma_separated.csv",
+    "message": "ISTE Standards for Students",
+    "category": "📂 Technology Standards"
+  },
+  {
+    "name": "UNESCO ICT Competency Framework for Teachers",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/065_UNESCO.ICT.Competency.Framework.for.Teachers_20170106_0521_comma_separated.csv",
+    "message": "UNESCO ICT Competency Framework for Teachers",
+    "category": "📂 Technology Standards"
+  },
+  {
+    "name": "Common European Framework of Reference for Languages",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/066_Common.European.Framework.of.Reference.for.Languages_20170106_0522_comma_separated.csv",
+    "message": "Common European Framework of Reference for Languages",
+    "category": "📂 Language Standards"
+  },
+  {
+    "name": "ACTFL Proficiency Guidelines",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/067_ACTFL.Proficiency.Guidelines_20170106_0523_comma_separated.csv",
+    "message": "ACTFL Proficiency Guidelines",
+    "category": "📂 Language Standards"
+  },
+  {
+    "name": "IB Learner Profile",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/068_IB.Learner.Profile_20170106_0524_comma_separated.csv",
+    "message": "International Baccalaureate Learner Profile",
+    "category": "📂 International Standards"
+  },
+  {
+    "name": "IB Middle Years Programme",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/069_IB.Middle.Years.Programme_20170106_0525_comma_separated.csv",
+    "message": "International Baccalaureate Middle Years Programme",
+    "category": "📂 International Standards"
+  },
+  {
+    "name": "IB Primary Years Programme",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/070_IB.Primary.Years.Programme_20170106_0526_comma_separated.csv",
+    "message": "International Baccalaureate Primary Years Programme",
+    "category": "📂 International Standards"
+  },
+  {
+    "name": "IB Diploma Programme",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/071_IB.Diploma.Programme_20170106_0527_comma_separated.csv",
+    "message": "International Baccalaureate Diploma Programme",
+    "category": "📂 International Standards"
+  },
+  {
+    "name": "Australian Professional Standards for Teachers",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/072_Australian.Professional.Standards.for.Teachers_20170106_0528_comma_separated.csv",
+    "message": "Australian Professional Standards for Teachers",
+    "category": "📂 Teaching Standards"
+  },
+  {
+    "name": "ISTE Standards for Administrators",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/073_ISTE.Standards.for.Administrators_20170106_0529_comma_separated.csv",
+    "message": "ISTE Standards for Administrators",
+    "category": "📂 Technology Standards"
+  },
+  {
+    "name": "ISTE Standards for Coaches",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/074_ISTE.Standards.for.Coaches_20170106_0530_comma_separated.csv",
+    "message": "ISTE Standards for Coaches",
+    "category": "📂 Technology Standards"
+  },
+  {
+    "name": "P21 Framework for 21st Century Learning",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/075_P21.Framework.for.21st.Century.Learning_20170106_0531_comma_separated.csv",
+    "message": "P21 Framework for 21st Century Learning",
+    "category": "📂 21st Century Skills"
+  },
+  {
+    "name": "Alberta K-12 Curriculum",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/076_Alberta.K-12.Curriculum_20170106_0532_comma_separated.csv",
+    "message": "Alberta K-12 Curriculum",
+    "category": "📂 Canadian Standards"
+  },
+  {
+    "name": "Ontario Curriculum",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/077_Ontario.Curriculum_20170106_0533_comma_separated.csv",
+    "message": "Ontario Curriculum",
+    "category": "📂 Canadian Standards"
+  },
+  {
+    "name": "Québec Education Program",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/078_Québec.Education.Program_20170106_0534_comma_separated.csv",
+    "message": "Québec Education Program",
+    "category": "📂 Canadian Standards"
+  },
+  {
+    "name": "New Zealand Curriculum",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/079_New.Zealand.Curriculum_20170106_0535_comma_separated.csv",
+    "message": "New Zealand Curriculum",
+    "category": "📂 International Standards"
+  },
+  {
+    "name": "Victoria Curriculum Foundation",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/080_Victoria.Curriculum.Foundation_20170106_0536_comma_separated.csv",
+    "message": "Victoria Curriculum Foundation",
+    "category": "📂 Australian Standards"
+  },
+  {
+    "name": "Cambridge Primary English Curriculum Framework",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/081_Cambridge.Primary.English.Curriculum.Framework_20170106_0537_comma_separated.csv",
+    "message": "Cambridge Primary English Curriculum Framework",
+    "category": "📂 International Standards"
+  },
+  {
+    "name": "Cambridge Primary Mathematics Curriculum Framework",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/082_Cambridge.Primary.Mathematics.Curriculum.Framework_20170106_0538_comma_separated.csv",
+    "message": "Cambridge Primary Mathematics Curriculum Framework",
+    "category": "📂 International Standards"
+  },
+  {
+    "name": "Cambridge Secondary 1 English Curriculum Framework",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/083_Cambridge.Secondary.1.English.Curriculum.Framework_20170106_0539_comma_separated.csv",
+    "message": "Cambridge Secondary 1 English Curriculum Framework",
+    "category": "📂 International Standards"
+  },
+  {
+    "name": "Cambridge Secondary 1 Mathematics Curriculum Framework",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/084_Cambridge.Secondary.1.Mathematics.Curriculum.Framework_20170106_0540_comma_separated.csv",
+    "message": "Cambridge Secondary 1 Mathematics Curriculum Framework",
+    "category": "📂 International Standards"
+  },
+  {
+    "name": "Cambridge IGCSE English Curriculum Framework",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/085_Cambridge.IGCSE.English.Curriculum.Framework_20170106_0541_comma_separated.csv",
+    "message": "Cambridge IGCSE English Curriculum Framework",
+    "category": "📂 International Standards"
+  },
+  {
+    "name": "Cambridge IGCSE Mathematics Curriculum Framework",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/086_Cambridge.IGCSE.Mathematics.Curriculum.Framework_20170106_0542_comma_separated.csv",
+    "message": "Cambridge IGCSE Mathematics Curriculum Framework",
+    "category": "📂 International Standards"
+  },
+  {
+    "name": "UK National Curriculum Primary English",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/087_UK.National.Curriculum.Primary.English_20170106_0543_comma_separated.csv",
+    "message": "UK National Curriculum Primary English",
+    "category": "📂 UK Standards"
+  },
+  {
+    "name": "UK National Curriculum Primary Mathematics",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/088_UK.National.Curriculum.Primary.Mathematics_20170106_0544_comma_separated.csv",
+    "message": "UK National Curriculum Primary Mathematics",
+    "category": "📂 UK Standards"
+  },
+  {
+    "name": "UK National Curriculum Secondary English",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/089_UK.National.Curriculum.Secondary.English_20170106_0545_comma_separated.csv",
+    "message": "UK National Curriculum Secondary English",
+    "category": "📂 UK Standards"
+  },
+  {
+    "name": "UK National Curriculum Secondary Mathematics",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/090_UK.National.Curriculum.Secondary.Mathematics_20170106_0546_comma_separated.csv",
+    "message": "UK National Curriculum Secondary Mathematics",
+    "category": "📂 UK Standards"
+  },
+  {
+    "name": "Singapore Primary Curriculum",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/091_Singapore.Primary.Curriculum_20170106_0547_comma_separated.csv",
+    "message": "Singapore Primary Curriculum",
+    "category": "📂 Singapore Standards"
+  },
+  {
+    "name": "Singapore Secondary Curriculum",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/092_Singapore.Secondary.Curriculum_20170106_0548_comma_separated.csv",
+    "message": "Singapore Secondary Curriculum",
+    "category": "📂 Singapore Standards"
+  },
+  {
+    "name": "South African Curriculum",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/093_South.African.Curriculum_20170106_0549_comma_separated.csv",
+    "message": "South African Curriculum",
+    "category": "📂 South African Standards"
+  },
+  {
+    "name": "Brazil National Curriculum",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/094_Brazil.National.Curriculum_20170106_0550_comma_separated.csv",
+    "message": "Brazil National Curriculum",
+    "category": "📂 Brazilian Standards"
+  },
+  {
+    "name": "Mexico National Curriculum",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/095_Mexico.National.Curriculum_20170106_0551_comma_separated.csv",
+    "message": "Mexico National Curriculum",
+    "category": "📂 Mexican Standards"
+  }
+]
