@@ -3,13 +3,13 @@
     "name": "CCSS Math Standards",
     "path": "https://eldoomcbe.github.io/moodlenet_repo/041_CCSS.Math_httpcorestandards.orgMath_20170106_0445_comma_separated.csv",
     "message": "Common Core State Standards for Mathematics<br><hr>🤓 You probably have to be a mathemagician to be confortable with this naming convention.",
-    "category": "📂 Standards"
+    "category": "🇬🇧 English"
   },
   {
     "name": "The Arts F-10",
     "path": "https://eldoomcbe.github.io/moodlenet_repo/058_The_Arts_F_10_201609The_Arts_F_10_20170106_0810_comma_separated.csv",
     "message": "The Arts Curriculum Framework F-10<hr>🤯 Having 896 competencies inside a framework is possible... but... yet.",
-    "category": "📂 Arts"
+    "category": "🇬🇧 English"
   },
   {
     "name": "Social Sciences Competencies",
@@ -21,7 +21,7 @@
     "name": "MKR NRW Standards",
     "path": "https://eldoomcbe.github.io/moodlenet_repo/112_MKR_NRW_fixed.csv",
     "message": "MKR NRW Educational Standards",
-    "category": "📂 Standards"
+    "category": "🇩🇪 German"
   },
   {
     "name": "International Standard Classification of Education",
@@ -68,8 +68,8 @@
   {
     "name": "Kompetenzrahmen",
     "path": "https://eldoomcbe.github.io/moodlenet_repo/251_Kompetenzrahmen.csv",
-    "message": "Kompetenzrahmen Framework",
-    "category": "📂 Standards"
+    "message": "Kompetenzrahmen Framework<br><hr>🇩🇪 Ehrlich gesagt, ich spreche leider kein Deutsch, also verstehe ich nichts, aber ich weiß, dass die Deutschen manchmal sehr, sehr lange Wörter und viele Sonderzeichen haben, also Kraft für Sie!",
+    "category": "🇩🇪 German"
   },
   {
     "name": "Communication Competencies",
@@ -150,12 +150,6 @@
     "category": "📂 Career and Technical Education"
   },
   {
-    "name": "CCSS Math Standards (Alternate)",
-    "path": "https://eldoomcbe.github.io/moodlenet_repo/529_CCSS.Math_httpcorestandards.orgMath_20170106_0445_comma_separated.csv",
-    "message": "Common Core State Standards for Mathematics (Alternate)",
-    "category": "📂 Standards"
-  },
-  {
     "name": "AL Grade K-2 Technology Education",
     "path": "https://eldoomcbe.github.io/moodlenet_repo/561_AL_Grade_K_2_Technology_Education_2008_K_2_20170109_1925_comma_separated.csv",
     "message": "Alabama Technology Education Curriculum for Grades K-2",
@@ -164,8 +158,8 @@
   {
     "name": "CAP IFCA Standards",
     "path": "https://eldoomcbe.github.io/moodlenet_repo/591_CAP_IFCA_CAP_IFCA_20170411_1717_comma_separated.csv",
-    "message": "CAP IFCA Competency Standards",
-    "category": "📂 Standards"
+    "message": "Certificat d'Aptitude Professionnelle - Installateur en Froid et Conditionnement d'Air",
+    "category": "🇫🇷 French"
   },
   {
     "name": "Mathematics Competencies",
@@ -195,12 +189,6 @@
     "name": "NCS Standards",
     "path": "https://eldoomcbe.github.io/moodlenet_repo/704_NCS_20180206_0021_comma_separated.csv",
     "message": "National Curriculum Standards",
-    "category": "📂 Standards"
-  },
-  {
-    "name": "CCSS ELA Literacy (Alternate)",
-    "path": "https://eldoomcbe.github.io/moodlenet_repo/729_CCSS.ELA_Literacy_httpcorestandards.orgELA_Literacy_20170106_0445_comma_separated.csv",
-    "message": "Common Core State Standards for ELA Literacy (Alternate)",
     "category": "📂 Standards"
   },
   {
