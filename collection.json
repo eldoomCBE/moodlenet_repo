@@ -2,13 +2,13 @@
   {
     "name": "CCSS Math Standards",
     "path": "https://eldoomcbe.github.io/moodlenet_repo/041_CCSS.Math_httpcorestandards.orgMath_20170106_0445_comma_separated.csv",
-    "message": "Common Core State Standards for Mathematics",
+    "message": "Common Core State Standards for Mathematics<br><hr>🤓 You probably have to be a mathemagician to be confortable with this naming convention.",
     "category": "📂 Standards"
   },
   {
     "name": "The Arts F-10",
     "path": "https://eldoomcbe.github.io/moodlenet_repo/058_The_Arts_F_10_201609The_Arts_F_10_20170106_0810_comma_separated.csv",
-    "message": "The Arts Curriculum Framework F-10",
+    "message": "The Arts Curriculum Framework F-10<hr>🤯 Having 896 competencies inside a framework is possible... but... yet.",
     "category": "📂 Arts"
   },
   {
@@ -19,7 +19,7 @@
   },
   {
     "name": "MKR NRW Standards",
-    "path": "https://eldoomcbe.github.io/moodlenet_repo/112_MKR_NRW.csv",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/112_MKR_NRW_fixed.csv",
     "message": "MKR NRW Educational Standards",
     "category": "📂 Standards"
   },
