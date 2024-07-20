@@ -1,0 +1,22 @@
+"Parent ID number","ID number","Short name",Descripción,"Descripción del formato","Valores de escala","Configuración de escala","Tipo de regla (opcional)","Resultado de la regla (opcional)","Configuración de regla (opcional)","Cross-referenced competency ID numbers","Exported ID (optional)","Es marco de competencias",Taxonomía
+,2020,"Heziberri 2020 transversales ",,1,"No competente aún,Competente","[{""scaleid"":""2""},{""id"":1,""scaledefault"":0,""proficient"":1},{""id"":2,""scaledefault"":1,""proficient"":1}]",,,,,,1,"competency,competency,competency,competency"
+,0001,"Competencia para la comunicación verbal, no verbal y digital ","<p>Utilizar de forma complementaria la comunicación verbal, la no verbal y 
+la digital para comunicarse de manera eficaz y adecuada en situaciones 
+personales, sociales y académicas.<br /></p>",1,,,,0,null,,1,,
+,0002,"Competencia para aprender a aprender y para pensar","<p>Disponer de los hábitos de estudio y de trabajo, de las estrategias de 
+aprendizaje y del pensamiento riguroso, movilizando y transfiriendo lo 
+aprendido a otros contextos y situaciones, para poder organizar de forma
+ autónoma el propio aprendizaje.<br /></p>",1,,,,0,null,,2,,
+,0003,"Competencia para la iniciativa y el espíritu emprendedor","<p>Mostrar iniciativa gestionando el proceso emprendedor con 
+resolución, eficacia y respeto de los principios éticos en los distintos
+ contextos y situaciones personales, sociales, académicas y laborales, 
+para poder transformar las ideas en actos<br /></p>",1,,,,0,null,,4,,
+,0004,"Competencia para aprender a ser","<p>Reflexionar sobre los propios sentimientos, pensamientos y acciones que 
+se producen en los distintos ámbitos y situaciones de la vida, 
+reforzándolos o ajustándolos, de acuerdo con la valoración sobre los 
+mismos, para así orientarse, mediante la mejora continua, hacia la 
+autorrealización de la persona en todas sus dimensiones. <br /></p>",1,,,,0,null,,5,,
+,003,"Competencia para convivir","<p>Participar con criterios de reciprocidad en las distintas situaciones 
+interpersonales, grupales y comunitarias, reconociendo en la otra 
+persona los mismos derechos y deberes que se reconocen para uno mismo, 
+para contribuir tanto al bien personal como al bien común.<br /><br /></p>",1,,,,0,null,,3,,
