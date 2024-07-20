@@ -1,159 +1,172 @@
 [
   {
-    "name": "CCSS Math Standards",
-    "path": "https://eldoomcbe.github.io/moodlenet_repo/041_CCSS.Math_httpcorestandards.orgMath_20170106_0445_comma_separated.csv",
-    "message": "Common Core State Standards for Mathematics<br><hr>🤓 You probably have to be a mathemagician to be confortable with this naming convention.",
-    "category": "🇬🇧 English"
-  },
-  {
-    "name": "The Arts F-10",
-    "path": "https://eldoomcbe.github.io/moodlenet_repo/058_The_Arts_F_10_201609The_Arts_F_10_20170106_0810_comma_separated.csv",
-    "message": "The Arts Curriculum Framework F-10<hr>🤯 Having 896 competencies inside a framework is possible... but... yet.",
-    "category": "🇬🇧 English"
-  },
-  {
-    "name": "Social Sciences Competencies",
-    "path": "https://eldoomcbe.github.io/moodlenet_repo/101_Ciencias_sociales._Competencias_disciplinares._CS_CD_20170719_2101_comma_separated.csv",
-    "message": "Competencies in Social Sciences",
-    "category": "📂 Social Sciences"
-  },
-  {
-    "name": "MKR NRW Standards",
-    "path": "https://eldoomcbe.github.io/moodlenet_repo/112_MKR_NRW_fixed.csv",
-    "message": "MKR NRW Educational Standards",
-    "category": "🇩🇪 German"
-  },
-  {
-    "name": "International Standard Classification of Education",
+    "name": "International Standard Classification of Education (2013)",
     "path": "https://eldoomcbe.github.io/moodlenet_repo/122_International_Standard_Classification_of_Education_Fields_of_Education_and_Training_2013_ISCED_F_2013_20180723_0159_comma_separated.csv",
     "message": "International Standard Classification of Education (ISCED)",
-    "category": "📂 International Standards"
+    "category": "🌎 International"
   },
   {
-    "name": "Science F-10",
-    "path": "https://eldoomcbe.github.io/moodlenet_repo/147_Science_F_10_201609Science_F_10_20170106_0803_comma_separated.csv",
-    "message": "Science Curriculum Framework F-10",
-    "category": "📂 Science"
+    "name": "Digital Competence Framework for LMS Admin",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/774_DigCompLMSAdmin_1979_20230214_0934_comma_separated.csv",
+    "message": "Digital Competence Framework for LMS Administrators",
+    "category": "🌎 International"
   },
   {
-    "name": "Health and Physical Education F-10",
-    "path": "https://eldoomcbe.github.io/moodlenet_repo/148_Health_and_Physical_Education_F_10_201609Health_and_Physical_Education_F_10_20170106_0813_comma_separated.csv",
-    "message": "Health and Physical Education Curriculum Framework F-10",
-    "category": "📂 Health and Physical Education"
-  },
-  {
-    "name": "Heziberri 2020 Disciplinares",
-    "path": "https://eldoomcbe.github.io/moodlenet_repo/161_Heziberri_2020_disciplinares_20202_20180627_1428_comma_separated.csv",
-    "message": "Heziberri 2020 Competencies Disciplinares",
-    "category": "📂 Heziberri"
-  },
-  {
-    "name": "CEFR for STEM",
+    "name": "CEFR for STEM (2016)",
     "path": "https://eldoomcbe.github.io/moodlenet_repo/206_CEFR_for_STEM_2016_20211102_1352_comma_separated.csv",
     "message": "Common European Framework of Reference for STEM",
-    "category": "📂 STEM"
-  },
-  {
-    "name": "AL Grade 3-5 Technology Education",
-    "path": "https://eldoomcbe.github.io/moodlenet_repo/246_AL_Grade_3_5_Technology_Education_2008_3_5_20170109_1927_comma_separated.csv",
-    "message": "Alabama Technology Education Curriculum for Grades 3-5",
-    "category": "📂 Technology Education"
-  },
-  {
-    "name": "Next Generation Science Standards",
-    "path": "https://eldoomcbe.github.io/moodlenet_repo/248_Next_Generation_Science_Standards_D2454348_20170214_1817_comma_separated.csv",
-    "message": "Next Generation Science Standards",
-    "category": "📂 Science"
-  },
-  {
-    "name": "Kompetenzrahmen",
-    "path": "https://eldoomcbe.github.io/moodlenet_repo/251_Kompetenzrahmen.csv",
-    "message": "Kompetenzrahmen Framework<br><hr>🇩🇪 Ehrlich gesagt, ich spreche leider kein Deutsch, also verstehe ich nichts, aber ich weiß, dass die Deutschen manchmal sehr, sehr lange Wörter und viele Sonderzeichen haben, also Kraft für Sie!",
-    "category": "🇩🇪 German"
-  },
-  {
-    "name": "Communication Competencies",
-    "path": "https://eldoomcbe.github.io/moodlenet_repo/256_Comunicacion._Competencias_disciplinares._Com_CD_20170719_2118_comma_separated.csv",
-    "message": "Communication Competencies Disciplinares",
-    "category": "📂 Communication"
-  },
-  {
-    "name": "DigCompEdu Framework",
-    "path": "https://eldoomcbe.github.io/moodlenet_repo/314_DigCompEdu_2017_20210701_1347_comma_separated.csv",
-    "message": "Digital Competence Framework for Educators",
-    "category": "📂 Technology Education"
-  },
-  {
-    "name": "KMK Medienkompetenz",
-    "path": "https://eldoomcbe.github.io/moodlenet_repo/315_KMK_medienkompetenz_import_semikolon_windows1252.csv",
-    "message": "KMK Medienkompetenz Framework",
-    "category": "📂 Technology Education"
-  },
-  {
-    "name": "Technologie Cycle 4",
-    "path": "https://eldoomcbe.github.io/moodlenet_repo/319_Technologie_cycle_4_Technologie_cycle4_20170910_1655_comma_separated.csv",
-    "message": "Technologie Cycle 4 Framework",
-    "category": "📂 Technology Education"
-  },
-  {
-    "name": "WNCP Pre-Calculus 12",
-    "path": "https://eldoomcbe.github.io/moodlenet_repo/326_WNCP_Pre_Calculus_12_2008_WNCP_PREC12_20170910_0034_comma_separated.csv",
-    "message": "Western and Northern Canadian Protocol Pre-Calculus 12",
-    "category": "📂 Mathematics"
-  },
-  {
-    "name": "English F-10",
-    "path": "https://eldoomcbe.github.io/moodlenet_repo/349_English_F_10_201609English_F_10_20170106_0648_comma_separated.csv",
-    "message": "English Curriculum Framework F-10",
-    "category": "📂 English"
-  },
-  {
-    "name": "Referentiel C2i2e Version 2011",
-    "path": "https://eldoomcbe.github.io/moodlenet_repo/385_Referentiel_C2i2e_Version_2011_C2i2e_2011_comma_separated.csv",
-    "message": "Referentiel C2i2e Framework Version 2011",
-    "category": "📂 Technology Education"
-  },
-  {
-    "name": "ISTE Standards for Educators",
-    "path": "https://eldoomcbe.github.io/moodlenet_repo/429_ISTE_Standards_for_Educators_ISTE_Educators_2018_20180906_1342_comma_separated.csv",
-    "message": "ISTE Standards for Educators",
-    "category": "📂 Technology Education"
-  },
-  {
-    "name": "AL Grade 6-8 Technology Education",
-    "path": "https://eldoomcbe.github.io/moodlenet_repo/446_AL_Grade_6_8_Technology_Education_2008_6_8_20170109_1927_comma_separated.csv",
-    "message": "Alabama Technology Education Curriculum for Grades 6-8",
-    "category": "📂 Technology Education"
-  },
-  {
-    "name": "MNPCC Grade 6 Science",
-    "path": "https://eldoomcbe.github.io/moodlenet_repo/448_MNPCC_Grade_6_Science_MN_2016_6v2_20170109_2116_comma_separated.csv",
-    "message": "Minnesota National Science Curriculum for Grade 6",
-    "category": "📂 Science"
-  },
-  {
-    "name": "AL Grade 9-12 Technology Education",
-    "path": "https://eldoomcbe.github.io/moodlenet_repo/475_AL_Grade_9_12_Technology_Education_2008_09_12_20170109_1927_comma_separated.csv",
-    "message": "Alabama Technology Education Curriculum for Grades 9-12",
-    "category": "📂 Technology Education"
+    "category": "🇪🇺 Europa"
   },
   {
     "name": "Common European Framework of Reference",
     "path": "https://eldoomcbe.github.io/moodlenet_repo/492_GeR_comma_separated.csv",
     "message": "Common European Framework of Reference (CEFR)",
-    "category": "📂 International Standards"
+    "category": "🇪🇺 Europa"
+  },
+  {
+    "name": "CEFR English",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/619_CEFR_English_version_.csv",
+    "message": "Common European Framework of Reference for English",
+    "category": "🇪🇺 Europa"
+  },
+  {
+    "name": "CCSS Math Standards (2017)",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/041_CCSS.Math_httpcorestandards.orgMath_20170106_0445_comma_separated.csv",
+    "message": "Common Core State Standards for Mathematics<br><hr>🤓 You probably have to be a mathemagician to be confortable with this naming convention.",
+    "category": "🇺🇸 USA"
+  },
+  {
+    "name": "Alabama Technology Education Curriculum for Grades 3-5 (2008)",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/246_AL_Grade_3_5_Technology_Education_2008_3_5_20170109_1927_comma_separated.csv",
+    "message": "Alabama Technology Education Curriculum for Grades 3-5",
+    "category": "🇺🇸 USA"
+  },
+  {
+    "name": "CCSS ELA Literacy",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/603_CCSS.ELA_Literacy_httpcorestandards.orgELA_Literacy_20170106_0445_comma_separated.csv",
+    "message": "Common Core State Standards for ELA Literacy",
+    "category": "🇺🇸 USA"
+  },
+  {
+    "name": "MNPCC Grade 3 Science",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/907_MNPCC_Grade_3_Science_MN_2016_3v2_20170109_2115_comma_separated.csv",
+    "message": "Minnesota National Science Curriculum for Grade 3",
+    "category": "🇺🇸 USA"
+  },
+  {
+    "name": "C3 Framework for Social Studies",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/950_College_Career_and_Civic_Life_C3_Framework_for_Social_Studies_State_Standards_D2607350_20170215_1453_comma_separated.csv",
+    "message": "College, Career, and Civic Life (C3) Framework for Social Studies State Standards",
+    "category": "🇺🇸 USA"
+  },
+  {
+    "name": "Mathematics F-10",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/823_Mathematics_F_10_201609Mathematics_F_10_20170106_0653_comma_separated.csv",
+    "message": "Mathematics Curriculum Framework F-10",
+    "category": "🇦🇺 Australian"
+  },
+  {
+    "name": "Languages F-10",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/842_Languages_F_10_201609Languages_F_10_20170106_0833_comma_separated.csv",
+    "message": "Languages Curriculum Framework F-10",
+    "category": "🇦🇺 Australian"
+  },
+  {
+    "name": "Humanities and Social Sciences F-10",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/866_Humanities_and_Social_Sciences_F_10_201609Humanities_and_Social_Sciences_F_10_20170106_0807_comma_separated.csv",
+    "message": "Humanities and Social Sciences Curriculum Framework F-10",
+    "category": "🇦🇺 Australian"
+  },
+  {
+    "name": "The Arts F-10 (2017)",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/058_The_Arts_F_10_201609The_Arts_F_10_20170106_0810_comma_separated.csv",
+    "message": "The Arts Curriculum Framework F-10<br><hr>🤯 Having 896 competencies inside a framework is possible... but... yet.",
+    "category": "🇦🇺 Australian"
+  },
+  {
+    "name": "Science F-10",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/147_Science_F_10_201609Science_F_10_20170106_0803_comma_separated.csv",
+    "message": "Science Curriculum Framework F-10<br><hr>🤯 Having 2487 competencies inside a framework can definitively help teachers.",
+    "category": "🇦🇺 Australian"
+  },
+  {
+    "name": "Health and Physical Education F-10 (2017)",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/148_Health_and_Physical_Education_F_10_201609Health_and_Physical_Education_F_10_20170106_0813_comma_separated.csv",
+    "message": "Health and Physical Education Curriculum Framework F-10<br><hr>🤯 Having 609 is probably a good starting point. but... yet.",
+    "category": "🇦🇺 Australian"
+  },
+  {
+    "name": "English F-10",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/349_English_F_10_201609English_F_10_20170106_0648_comma_separated.csv",
+    "message": "English Curriculum Framework F-10",
+    "category": "🇦🇺 Australian"
   },
   {
     "name": "Work Studies F-10",
     "path": "https://eldoomcbe.github.io/moodlenet_repo/515_Work_Studies_F_10_201609Work_Studies_F_10_20170106_0820_comma_separated.csv",
     "message": "Work Studies Curriculum Framework F-10",
-    "category": "📂 Career and Technical Education"
+    "category": "🇦🇺 Australian"
+  },
+  {
+    "name": "Technologies F-10",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/987_Technologies_F_10_201609Technologies_F_10_20170106_0815_comma_separated.csv",
+    "message": "Technologies Curriculum Framework F-10",
+    "category": "🇦🇺 Australian"
+  },
+  {
+    "name": "Next Generation Science Standards",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/248_Next_Generation_Science_Standards_D2454348_20170214_1817_comma_separated.csv",
+    "message": "Next Generation Science Standards",
+    "category": "🇬🇧 English"
+  },
+  {
+    "name": "DigCompEdu Framework",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/314_DigCompEdu_2017_20210701_1347_comma_separated.csv",
+    "message": "Digital Competence Framework for Educators",
+    "category": "🇬🇧 English"
+  },
+  {
+    "name": "WNCP Pre-Calculus 12",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/326_WNCP_Pre_Calculus_12_2008_WNCP_PREC12_20170910_0034_comma_separated.csv",
+    "message": "Western and Northern Canadian Protocol Pre-Calculus 12",
+    "category": "🇬🇧 English"
+  },
+
+  {
+    "name": "ISTE Standards for Educators",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/429_ISTE_Standards_for_Educators_ISTE_Educators_2018_20180906_1342_comma_separated.csv",
+    "message": "ISTE Standards for Educators",
+    "category": "🇬🇧 English"
+  },
+  {
+    "name": "AL Grade 6-8 Technology Education",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/446_AL_Grade_6_8_Technology_Education_2008_6_8_20170109_1927_comma_separated.csv",
+    "message": "Alabama Technology Education Curriculum for Grades 6-8",
+    "category": "🇬🇧 English"
+  },
+  {
+    "name": "MNPCC Grade 6 Science",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/448_MNPCC_Grade_6_Science_MN_2016_6v2_20170109_2116_comma_separated.csv",
+    "message": "Minnesota National Science Curriculum for Grade 6",
+    "category": "🇬🇧 English"
+  },
+  {
+    "name": "AL Grade 9-12 Technology Education",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/475_AL_Grade_9_12_Technology_Education_2008_09_12_20170109_1927_comma_separated.csv",
+    "message": "Alabama Technology Education Curriculum for Grades 9-12",
+    "category": "🇬🇧 English"
   },
   {
     "name": "AL Grade K-2 Technology Education",
     "path": "https://eldoomcbe.github.io/moodlenet_repo/561_AL_Grade_K_2_Technology_Education_2008_K_2_20170109_1925_comma_separated.csv",
     "message": "Alabama Technology Education Curriculum for Grades K-2",
-    "category": "📂 Technology Education"
+    "category": "🇬🇧 English"
+  },
+  {
+    "name": "Referentiel C2i2e Version 2011",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/385_Referentiel_C2i2e_Version_2011_C2i2e_2011_comma_separated.csv",
+    "message": "Referentiel C2i2e Framework Version 2011",
+    "category": "🇫🇷 French"
   },
   {
     "name": "CAP IFCA Standards",
@@ -162,87 +175,75 @@
     "category": "🇫🇷 French"
   },
   {
+    "name": "Technologie Cycle 4",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/319_Technologie_cycle_4_Technologie_cycle4_20170910_1655_comma_separated.csv",
+    "message": "Technologie Cycle 4 Framework",
+    "category": "🇫🇷 French"
+  },
+  {
+    "name": "Heziberri 2020 Disciplinares (2020)",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/161_Heziberri_2020_disciplinares_20202_20180627_1428_comma_separated.csv",
+    "message": "Heziberri 2020 Competencies Disciplinares",
+    "category": "🇪🇸 Spanish"
+  },
+  {
+    "name": "Social Sciences Competencies",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/101_Ciencias_sociales._Competencias_disciplinares._CS_CD_20170719_2101_comma_separated.csv",
+    "message": "Competencies in Social Sciences",
+    "category": "🇪🇸 Spanish"
+  },
+  {
+    "name": "Communication Competencies",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/256_Comunicacion._Competencias_disciplinares._Com_CD_20170719_2118_comma_separated.csv",
+    "message": "Communication Competencies Disciplinares",
+    "category": "🇪🇸 Spanish"
+  },
+  {
     "name": "Mathematics Competencies",
     "path": "https://eldoomcbe.github.io/moodlenet_repo/592_Matematicas._Competencias_disciplinares_basicas._Mat_CD_20170723_1625_comma_separated.csv",
     "message": "Basic Mathematics Competencies",
-    "category": "📂 Mathematics"
+    "category": "🇪🇸 Spanish"
   },
   {
-    "name": "CCSS ELA Literacy",
-    "path": "https://eldoomcbe.github.io/moodlenet_repo/603_CCSS.ELA_Literacy_httpcorestandards.orgELA_Literacy_20170106_0445_comma_separated.csv",
-    "message": "Common Core State Standards for ELA Literacy",
-    "category": "📂 Standards"
-  },
-  {
-    "name": "CEFR English",
-    "path": "https://eldoomcbe.github.io/moodlenet_repo/619_CEFR_English_version_.csv",
-    "message": "Common European Framework of Reference for English",
-    "category": "📂 International Standards"
+    "name": "Heziberri 2020 Transversales (2020)",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/925_Heziberri_2020_transversales_2020_20180627_1428_comma_separated.csv",
+    "message": "Heziberri 2020 Competencies Transversales",
+    "category": "🇪🇸 Spanish"
   },
   {
     "name": "EMS Generic Competencies",
     "path": "https://eldoomcbe.github.io/moodlenet_repo/694_Competencias_genericas_de_la_EMS._CG_20170723_0810_comma_separated.csv",
     "message": "Generic Competencies for EMS",
-    "category": "📂 Standards"
+    "category": "🇪🇸 Spanish"
+  },
+  {
+    "name": "MKR NRW Standards (2019)",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/112_MKR_NRW_fixed.csv",
+    "message": "MKR NRW Educational Standards<br><hr>This one was broken, waz it?",
+    "category": "🇩🇪 German"
+  },
+  {
+    "name": "Kompetenzrahmen",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/251_Kompetenzrahmen.csv",
+    "message": "Kompetenzrahmen Framework<br><hr>🇩🇪 Ehrlich gesagt, ich spreche leider kein Deutsch, also verstehe ich nichts, aber ich weiß, dass die Deutschen manchmal sehr, sehr lange Wörter und viele Sonderzeichen haben, also Kraft für Sie!",
+    "category": "🇩🇪 German"
+  },
+  {
+    "name": "KMK Medienkompetenz",
+    "path": "https://eldoomcbe.github.io/moodlenet_repo/315_KMK_medienkompetenz_import_semikolon_windows1252.csv",
+    "message": "KMK Medienkompetenz Framework",
+    "category": "🇩🇪 German"
   },
   {
     "name": "NCS Standards",
     "path": "https://eldoomcbe.github.io/moodlenet_repo/704_NCS_20180206_0021_comma_separated.csv",
     "message": "National Curriculum Standards",
-    "category": "📂 Standards"
-  },
-  {
-    "name": "Digital Competence Framework for LMS Admin",
-    "path": "https://eldoomcbe.github.io/moodlenet_repo/774_DigCompLMSAdmin_1979_20230214_0934_comma_separated.csv",
-    "message": "Digital Competence Framework for LMS Administrators",
-    "category": "📂 Technology Education"
-  },
-  {
-    "name": "Mathematics F-10",
-    "path": "https://eldoomcbe.github.io/moodlenet_repo/823_Mathematics_F_10_201609Mathematics_F_10_20170106_0653_comma_separated.csv",
-    "message": "Mathematics Curriculum Framework F-10",
-    "category": "📂 Mathematics"
-  },
-  {
-    "name": "Languages F-10",
-    "path": "https://eldoomcbe.github.io/moodlenet_repo/842_Languages_F_10_201609Languages_F_10_20170106_0833_comma_separated.csv",
-    "message": "Languages Curriculum Framework F-10",
-    "category": "📂 Languages"
-  },
-  {
-    "name": "Humanities and Social Sciences F-10",
-    "path": "https://eldoomcbe.github.io/moodlenet_repo/866_Humanities_and_Social_Sciences_F_10_201609Humanities_and_Social_Sciences_F_10_20170106_0807_comma_separated.csv",
-    "message": "Humanities and Social Sciences Curriculum Framework F-10",
-    "category": "📂 Social Sciences"
-  },
-  {
-    "name": "MNPCC Grade 3 Science",
-    "path": "https://eldoomcbe.github.io/moodlenet_repo/907_MNPCC_Grade_3_Science_MN_2016_3v2_20170109_2115_comma_separated.csv",
-    "message": "Minnesota National Science Curriculum for Grade 3",
-    "category": "📂 Science"
-  },
-  {
-    "name": "Heziberri 2020 Transversales",
-    "path": "https://eldoomcbe.github.io/moodlenet_repo/925_Heziberri_2020_transversales_2020_20180627_1428_comma_separated.csv",
-    "message": "Heziberri 2020 Competencies Transversales",
-    "category": "📂 Heziberri"
-  },
-  {
-    "name": "C3 Framework for Social Studies",
-    "path": "https://eldoomcbe.github.io/moodlenet_repo/950_College_Career_and_Civic_Life_C3_Framework_for_Social_Studies_State_Standards_D2607350_20170215_1453_comma_separated.csv",
-    "message": "College, Career, and Civic Life (C3) Framework for Social Studies State Standards",
-    "category": "📂 Social Sciences"
+    "category": "🇰🇷 Korean"
   },
   {
     "name": "Mathematics Competency Framework",
     "path": "https://eldoomcbe.github.io/moodlenet_repo/984_125_.csv",
     "message": "Mathematics Competency Framework",
-    "category": "📂 Mathematics"
-  },
-  {
-    "name": "Technologies F-10",
-    "path": "https://eldoomcbe.github.io/moodlenet_repo/987_Technologies_F_10_201609Technologies_F_10_20170106_0815_comma_separated.csv",
-    "message": "Technologies Curriculum Framework F-10",
-    "category": "📂 Technology Education"
+    "category": "🇺🇦 Ukrainian"
   }
 ]
