@@ -1,3 +1,3 @@
-- `https://eldoomcbe.github.io/cf/#mode=preview&file=https://eldoomcbe.github.io/moodlenet_repo/collection.json`
-
-- `https://eldoomcbe.github.io/moodlenet_repo/collection.json`
+[![preview 👀](https://img.shields.io/badge/preview%20%F0%9F%91%80-moodlenet_repo/collection.json-f98419?labelColor=212529&style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAP1BMVEX///////////////////////////////////////////////////////////////////////////////////81m6ZbAAAAFHRSTlMAIC5AUGBmcHSAkJ6gprC4wNDg8AVXeIsAAABXSURBVAjXVcpBDgIhAMXQKo6KIvPV3v+sLpBMWL60wKmcS9nqPRWA2DQ2+0FtHvW159muADSbUQ0AXb9v/fwZVc3KOW+TFwC4DT2GKIN1ZV+ZySRJKvADZqoINlJcJCsAAAAASUVORK5CYII=&link=https://eldoomcbe.github.io/cf/#mode=preview&file=https://eldoomcbe.github.io/moodlenet_repo/collection.json)](https://eldoomcbe.github.io/cf/#mode=preview&file=https://eldoomcbe.github.io/moodlenet_repo/collection.json)
+> `https://eldoomcbe.github.io/cf/#mode=preview&file=https://eldoomcbe.github.io/moodlenet_repo/collection.json`
+> `https://eldoomcbe.github.io/moodlenet_repo/collection.json`
